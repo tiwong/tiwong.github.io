@@ -14,9 +14,11 @@ Here's the maths page!
 
 2. On smoothing singularities of elliptic orbital integrals on GL(n) and Beyond Endoscopy (Joint with O.E. Gonzalez, C.H. Kwan, S.J. Miller, R. Van Peski) Submitted <a href="https://arxiv.org/abs/1608.05938">arXiv</a>
 
-3. Lower bounds for Weil's Explicit Formula via Selberg's Trace Formula. Submitted <a href="https://arxiv.org/abs/1608.02296">arXiv</a></li>
+3. Lower bounds for Weil's Explicit Formula via Selberg's Trace Formula. Submitted <a href="https://arxiv.org/abs/1608.02296">arXiv</a>
 
 ### Some loose ends:
+
+- An idea on connecting Bernstein's 'Stacks in Representation Theory' to infinity categories. <a href="BeamerNUS.pdf">PDF</a>
 
 - An attempt to formulate the tensor product lift of GL(n) x GL(m) representations in terms of the Hitchin fibration <a href="Tensor products.pdf">PDF</a>
 
