@@ -8,7 +8,7 @@ Here's the maths page!
   
 <p>I'm currently a postdoctoral fellow at the Max Planck Institute, Bonn. My work focuses on the interplay between trace formulae and L-functions in the theory of automorphic forms. I also like to think about interactions between homotopy theory and number theory.</p>
 
-#### Papers 
+### Papers 
 
 1. Eisenstein cocycles on GL(n) and special values of L-functions in imaginary quadratic fields (Joint with Florez and Karabulut) Preprint  <a href="https://arxiv.org/abs/1611.08565">arXiv</a>
 
