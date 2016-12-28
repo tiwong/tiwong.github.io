@@ -1,5 +1,5 @@
 ---
 layout: home
-title: Blog
+title: Notes
 permalink: /blog/
 ---
