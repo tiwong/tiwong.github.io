@@ -16,7 +16,7 @@
 title: Tian An WONG
 email: twong at mpim-bonn dot mpg dot de
 description: > # this means to ignore newlines until "baseurl:"
-  Personal webspace of Tian An Wong. Maths and other fun things!
+  The webspace of Tian An Wong. Maths and other fun things!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
