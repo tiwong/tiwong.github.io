@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/jekyll/update/2016/12/28/welcome-to-jekyll-again.html</loc>
-<lastmod>2016-12-28T14:13:45+01:00</lastmod>
+<loc>http://localhost:4000/empire/2016/12/28/mapping-the-empire.html</loc>
+<lastmod>2016-12-28T18:50:45+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/jekyll/update/2016/12/27/welcome-to-jekyll.html</loc>
 <lastmod>2016-12-27T14:13:45+01:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/database/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
