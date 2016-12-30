@@ -1,8 +1,10 @@
 ---
 layout: page
-title:  "Mapping the Empire: A database of injustice"
+title:  "Database"
 permalink: /database/
 ---
+
+### Mapping the Empire: A database of injustice
 
 Here is the seed for the idea: Often in news reports, investigative journalism pieces, and various exposeés of injustices that occur at home and abroad, we take notice, shelve it in our minds, and then move on. Maybe at some point we feel a little outraged, become a little more aware, whatever.
 
