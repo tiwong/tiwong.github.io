@@ -18,10 +18,12 @@ Now the idea here is to actually shelve that knowledge into a library that can b
 
 - There should be links to other resources, work that others have pioneered. Our aim is not to monopolize, but to consolidate in a maximally comprehensive way. For example,
 	- [Drones](drones.pitchinteractive.com)
-	- [Gun deaths](fivethirtyeight.com/features/gun-deaths/)
+	- [Gun](fivethirtyeight.com/features/gun-deaths/) [deaths](http://www.motherjones.com/politics/2012/07/mass-shootings-map)
 	- [Texas Justice Initiative](texasjusticeinitiative.org)
 	- [Atlantic slave trade](slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html)
 	- [Criminal justice facts](sentencingproject.org/criminal-justice-facts/)
+	- [Nuclear facilities in USA](http://www.motherjones.com/politics/2011/11/map-nuclear-bombs-power-weapons)
+	- [Countries invaded by Britain](https://www.quora.com/How-accurate-is-the-assertion-and-map-that-Britain-has-invaded-all-but-22-countries-in-the-world)
 
 
 - There should be a catalogue, by which one can filter out the data by. To start with: drones, guns, domestic violence, mass incarceration, supply chain logistics, homelessness, environmental disasters, trafficking, slave labour, Monsanto, lynchings, genocide, protests, human rights violations, what else can you think of? 
@@ -29,9 +31,9 @@ Now the idea here is to actually shelve that knowledge into a library that can b
 - There should be a portion that highlights organizations and persons that are doing good work in these areas. (This might be a blog portion.)
 
 
-Check out this map, which I found later [link](http://iamangelfoundation.org/black-eyed-peas-reunite-for-wheresthelove-campaign-against-violence/) which is powered by ArcGIS.
+Check out this map, which I found later [link](http://iamangelfoundation.org/black-eyed-peas-reunite-for-wheresthelove-campaign-against-violence/) which is powered by ArcGIS. Also, MotherJones has developed some rad [open source tools](https://github.com/motherjones/story-tools) for their data-based journalism. 
 
-<p>Who should benefit from this? For one, people like me who don't know or keep forgetting, who want to see the big, big picture, even if it overwhelms you. One day it could be beneficial to researchers, policy makers, administrators, activists. Students could use it for research, and better yet, contribute to it by doing more research.</p>
+Who should benefit from this? For one, people like me who don't know or keep forgetting, who want to see the big, big picture, even if it overwhelms you. One day it could be beneficial to researchers, policy makers, administrators, activists. Students could use it for research, and better yet, contribute to it by doing more research.
 
 Eventually this should be a massive database, because of the nature of the project. But let's start somewhere. Interested? Get in touch with me!
 
