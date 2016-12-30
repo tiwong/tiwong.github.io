@@ -10,9 +10,9 @@ Here's the maths page!
 
 ### Papers 
 
-1. Eisenstein cocycles on GL(n) and special values of L-functions in imaginary quadratic fields (Joint with Florez and Karabulut) Preprint  <a href="https://arxiv.org/abs/1611.08565">arXiv</a>
+1. Eisenstein cocycles on GL(n) and special values of L-functions in imaginary quadratic fields (with Florez and Karabulut) Preprint  <a href="https://arxiv.org/abs/1611.08565">arXiv</a>
 
-2. On smoothing singularities of elliptic orbital integrals on GL(n) and Beyond Endoscopy (Joint with O.E. Gonzalez, C.H. Kwan, S.J. Miller, R. Van Peski) Submitted <a href="https://arxiv.org/abs/1608.05938">arXiv</a>
+2. On smoothing singularities of elliptic orbital integrals on GL(n) and Beyond Endoscopy (with O.E. Gonzalez, C.H. Kwan, S.J. Miller, R. Van Peski) Submitted <a href="https://arxiv.org/abs/1608.05938">arXiv</a>
 
 3. Lower bounds for Weil's Explicit Formula via Selberg's Trace Formula. Submitted <a href="https://arxiv.org/abs/1608.02296">arXiv</a>
 
@@ -22,9 +22,9 @@ Here's the maths page!
 
 - An attempt to formulate the tensor product lift of GL(n) x GL(m) representations in terms of the Hitchin fibration <a href="Tensor products.pdf">PDF</a>
 
-- Generalizing work of Fouvry, Kowalski, Michel, on bilinear sums at AWS 2016. (Joint with Chow, Gafni, Lowry-Duda, and Mao) <a href="BilinearSamv1.pdf">PDF</a>
+- Generalizing work of Fouvry, Kowalski, Michel, on bilinear sums at AWS 2016. (with S. Chow, A. Gafni, D. Lowry-Duda, and T. Mao) <a href="BilinearSamv1.pdf">PDF</a>
 
-- An attempt to formulate the notion of a multiplicative genus for Levine's algebraic cobordism. (Joint with Elmanto) <a href="A1Genus.pdf">PDF</a>
+- An attempt to formulate the notion of a multiplicative genus for Levine's algebraic cobordism. (with E. Elmanto) <a href="A1Genus.pdf">PDF</a>
 
 - Problem session at Sarnak 61 conference – I was a scribe for the problem session held at Peter Sarnak’s 61st birthday conference. <a href="SarnakSession.pdf">PDF</a>
 
