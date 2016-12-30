@@ -1,8 +1,7 @@
 ---
-layout: post
+layout: page
 title:  "Mapping the Empire: A database of injustice"
-date:   2016-12-28 18:50:45 +0100
-categories: Empire
+permalink: /database/
 ---
 
 Here is the seed for the idea: Often in news reports, investigative journalism pieces, and various exposeés of injustices that occur at home and abroad, we take notice, shelve it in our minds, and then move on. Maybe at some point we feel a little outraged, become a little more aware, whatever.
