@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Hello World!"
 date:   2016-12-27 14:13:45 +0100
 categories: update
 ---
-This is a test post. Also a 'hello world!' 
+This is a test post. Also a 'hello world!' 	
 
 You’ll find I edited this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
