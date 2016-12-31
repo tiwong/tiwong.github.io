@@ -1,38 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-12-28T18:54:14+01:00</updated><id>http://localhost:4000//</id><title type="html">Tian An WONG</title><subtitle>The webspace of Tian An Wong. Maths and other fun things!
-</subtitle><entry><title type="html">Mapping the Empire: A database of injustice</title><link href="http://localhost:4000/empire/2016/12/28/mapping-the-empire.html" rel="alternate" type="text/html" title="Mapping the Empire: A database of injustice" /><published>2016-12-28T18:50:45+01:00</published><updated>2016-12-28T18:50:45+01:00</updated><id>http://localhost:4000/empire/2016/12/28/mapping-the-empire</id><content type="html" xml:base="http://localhost:4000/empire/2016/12/28/mapping-the-empire.html">&lt;p&gt;Here is the seed for the idea: Often in news reports, investigative journalism pieces, and various exposeés of injustices that occur at home and abroad, we take notice, shelve it in our minds, and then move on. Maybe at some point we feel a little outraged, become a little more aware, whatever.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-12-31T15:34:49+01:00</updated><id>http://localhost:4000//</id><title type="html">Tian An WONG</title><subtitle>The webspace of Tian An Wong. Maths and other fun things!
+</subtitle><entry><title type="html">Hello World!</title><link href="http://localhost:4000/update/2016/12/27/hello-world.html" rel="alternate" type="text/html" title="Hello World!" /><published>2016-12-27T14:13:45+01:00</published><updated>2016-12-27T14:13:45+01:00</updated><id>http://localhost:4000/update/2016/12/27/hello-world</id><content type="html" xml:base="http://localhost:4000/update/2016/12/27/hello-world.html">&lt;p&gt;This is a test post. Also a ‘hello world!’&lt;/p&gt;
 
-&lt;p&gt;Now the idea here is to actually shelve that knowledge into a library that can be accessed and crowd-sourced. Its UI should be roughly the following:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;There should be an interactive geographical map with links to various infographics. We want this to be heavy on the infographics, because they are key to consolidating and conveying large amounts of data that we want to organize.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;There should, if possible, be an option to observe events chronologically: One key issue is our tendency to be selective in the history we have learned, choose to learn, choose to ignore. Our mission is to bear witness to all these injustices past and present.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;There should be research that backs up all claims: We must be rigorous and skeptical about our sources of data. From the outset we know that data is not neutral in the information that it gathers or ignores, we will be conscious of this inherent shortcoming.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;There should be links to other resources, work that others have pioneered. Our aim is not to monopolize, but to consolidate in a maximally comprehensive way. For example,
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;drones.pitchinteractive.com&quot;&gt;Drones&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;fivethirtyeight.com/features/gun-deaths/&quot;&gt;Gun deaths&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;texasjusticeinitiative.org&quot;&gt;Texas Justice Initiative&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html&quot;&gt;Atlantic slave trade&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;sentencingproject.org/criminal-justice-facts/&quot;&gt;Criminal justice facts&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;There should be a catalogue, by which one can filter out the data by. To start with: drones, guns, domestic violence, mass incarceration, supply chain logistics, homelessness, environmental disasters, trafficking, slave labour, Monsanto, lynchings, genocide, protests, human rights violations, what else can you think of?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;There should be a portion that highlights organizations and persons that are doing good work in these areas. (This might be a blog portion.)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Check out this map, which I found later &lt;a href=&quot;http://iamangelfoundation.org/black-eyed-peas-reunite-for-wheresthelove-campaign-against-violence/&quot;&gt;link&lt;/a&gt; which is powered by ArcGIS.&lt;/p&gt;
-
-&lt;p&gt;Who should benefit from this? For one, people like me who don't know or keep forgetting, who want to see the big, big picture, even if it overwhelms you. One day it could be beneficial to researchers, policy makers, administrators, activists. Students could use it for research, and better yet, contribute to it by doing more research.&lt;/p&gt;
-
-&lt;p&gt;Eventually this should be a massive database, because of the nature of the project. But let’s start somewhere. Interested? Get in touch with me!&lt;/p&gt;</content><summary type="html">Here is the seed for the idea: Often in news reports, investigative journalism pieces, and various exposeés of injustices that occur at home and abroad, we take notice, shelve it in our minds, and then move on. Maybe at some point we feel a little outraged, become a little more aware, whatever.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2016/12/27/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2016-12-27T14:13:45+01:00</published><updated>2016-12-27T14:13:45+01:00</updated><id>http://localhost:4000/jekyll/update/2016/12/27/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2016/12/27/welcome-to-jekyll.html">&lt;p&gt;You’ll find I edited this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+&lt;p&gt;You’ll find I edited this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
@@ -44,4 +13,4 @@
 &lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><summary type="html">You’ll find I edited this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><summary type="html">This is a test post. Also a ‘hello world!’</summary></entry></feed>

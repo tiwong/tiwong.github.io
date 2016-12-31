@@ -6,9 +6,9 @@ permalink: /database/
 
 ### Mapping the Empire: A database of injustice
 
-Here is the seed for the idea: Often in news reports, investigative journalism pieces, and various exposeés of injustices that occur at home and abroad, we take notice, shelve it in our minds, and then move on. Maybe at some point we feel a little outraged, become a little more aware, whatever.
+**Problem:** Often in news reports, investigative journalism pieces, and various exposeés of injustices that occur at home and abroad, we take notice, shelve it in our minds, and then move on. Maybe at some point we feel a little outraged, become a little more aware, whatever.
 
-Now the idea here is to actually shelve that knowledge into a library that can be accessed and crowd-sourced. Its UI should be roughly the following:
+**Solution:** Now the idea here is to actually shelve that knowledge into a library that can be accessed and crowd-sourced. Its UI should be roughly the following:
 
 - There should be an interactive geographical map with links to various infographics. We want this to be heavy on the infographics, because they are key to consolidating and conveying large amounts of data that we want to organize.
 
@@ -26,7 +26,7 @@ Now the idea here is to actually shelve that knowledge into a library that can b
 	- [Countries invaded by Britain](https://www.quora.com/How-accurate-is-the-assertion-and-map-that-Britain-has-invaded-all-but-22-countries-in-the-world)
 
 
-- There should be a catalogue, by which one can filter out the data by. To start with: drones, guns, domestic violence, mass incarceration, supply chain logistics, homelessness, environmental disasters, trafficking, slave labour, Monsanto, lynchings, genocide, protests, human rights violations, what else can you think of? 
+- There should be a catalogue, by which one can filter out the data by. To start with: drones, guns, domestic violence, mass incarceration, supply chain logistics, homelessness, environmental disasters, trafficking, slave labour, Monsanto, lynchings, genocide, protests, human rights violations, fast fashion, big anything, what else can you think of? 
 
 - There should be a portion that highlights organizations and persons that are doing good work in these areas. (This might be a blog portion.)
 
