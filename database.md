@@ -8,7 +8,7 @@ permalink: /database/
 
 **Problem:** Often in news reports, investigative journalism pieces, and various exposeés of injustices that occur at home and abroad, we take notice, shelve it in our minds, and then move on. Maybe at some point we feel a little outraged, become a little more aware, whatever.
 
-**Solution:** Now the idea here is to actually shelve that knowledge into a library that can be accessed and crowd-sourced. Its UI should be roughly the following:
+**Solution:** Now the idea here is to actually shelve that knowledge into a library that can be accessed, and should be an open source project. Its UI should be roughly the following:
 
 - There should be an interactive geographical map with links to various infographics. We want this to be heavy on the infographics, because they are key to consolidating and conveying large amounts of data that we want to organize.
 
