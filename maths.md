@@ -18,7 +18,7 @@ Here's the maths page!
 
 ### Some loose ends:
 
-- An idea on connecting Bernstein's 'Stacks in Representation Theory' to infinity categories. <a href="BeamerNUS.pdf">PDF</a>
+- An idea on connecting Bernstein's 'Stacks in Representation Theory' to infinity categories. [Slides](BeamerNUS.pdf), [PDF](AHT.pdf). 
 
 - An attempt to formulate the tensor product lift of GL(n) x GL(m) representations in terms of the Hitchin fibration <a href="Tensor products.pdf">PDF</a>
 
