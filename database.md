@@ -6,6 +6,8 @@ permalink: /database/
 
 ### Mapping the Empire: A database of injustice
 
+Access the [Project Site](https://tiwong.github.io/database_alpha/) here. (It's under construction!)
+
 **Problem:** Often in news reports, investigative journalism pieces, and various exposeés of injustices that occur at home and abroad, we take notice, shelve it in our minds, and then move on. Maybe at some point we feel a little outraged, become a little more aware, whatever.
 
 **Solution:** Now the idea here is to actually shelve that knowledge into a library that can be accessed, and should be an open source project. Its UI should be roughly the following:
