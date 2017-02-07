@@ -6,17 +6,27 @@ permalink: /maths/
 
 Here's the maths page!
   
-<p>I'm currently a postdoctoral fellow at the Max Planck Institute, Bonn. My work focuses on the interplay between trace formulae and L-functions in the theory of automorphic forms. I also like to think about interactions between homotopy theory and number theory.</p>
+<p>I'm currently a postdoctoral fellow at Indian Institute of Science Education and Research (IISER), Pune; previously at the Max Planck Institute, Bonn. My work focuses on the interplay between trace formulae and L-functions in the theory of automorphic forms. I also like to think about interactions between homotopy theory and number theory.</p>
+
+### In progress
+
+1. Eisenstein cocycles for GL(n) and $p$-adic $L$-functions in imaginary quadratic fields (with J. Fl\'{o}rez and C. Karabulut).
+
+2. Eisenstein cocycles for GL(n) and special values of $L$-functions in imaginary quadratic fields (with C. Karabulut and D. Zagier).
+
+3. Base change for extended eigenvarieties over totally real fields (with J. Ludwig and R. Pollack).
+
+4. A higher-weight Gross-Zagier formula on Shimura curves (with Y. Elias).
 
 ### Papers 
 
-1. Eisenstein cocycles on GL(n) and special values of L-functions in imaginary quadratic fields (with Florez and Karabulut) Preprint  <a href="https://arxiv.org/abs/1611.08565">arXiv</a>
+1. Eisenstein cocycles on GL(n) and special values of L-functions in imaginary quadratic fields (with Florez and Karabulut) Submitted  <a href="https://arxiv.org/abs/1611.08565">arXiv</a>
 
 2. On smoothing singularities of elliptic orbital integrals on GL(n) and Beyond Endoscopy (with O.E. Gonzalez, C.H. Kwan, S.J. Miller, R. Van Peski) Submitted <a href="https://arxiv.org/abs/1608.05938">arXiv</a>
 
 3. Lower bounds for Weil's Explicit Formula via Selberg's Trace Formula. Submitted <a href="https://arxiv.org/abs/1608.02296">arXiv</a>
 
-### Some loose ends:
+### Some loose ends
 
 - An idea on connecting Bernstein's 'Stacks in Representation Theory' to infinity categories. [Slides](BeamerNUS.pdf), [PDF](AHT.pdf). 
 
