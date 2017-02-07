@@ -6,17 +6,17 @@ permalink: /maths/
 
 Here's the maths page!
   
-<p>I'm currently a postdoctoral fellow at Indian Institute of Science Education and Research (IISER), Pune; previously at the Max Planck Institute, Bonn. My work focuses on the interplay between trace formulae and L-functions in the theory of automorphic forms. I also like to think about interactions between homotopy theory and number theory.</p>
+<p>I'm currently a postdoctoral fellow at Indian Institute of Science Education and Research (IISER), Pune; previously at the Max Planck Institut für Mathematik (MPIM), Bonn. My work focuses on the interplay between trace formulae and L-functions in the theory of automorphic forms and representation theory. I also like to think about interactions between homotopy theory and number theory.</p>
 
 ### In progress
 
-1. Eisenstein cocycles for GL(n) and $p$-adic $L$-functions in imaginary quadratic fields (with J. Fl\'{o}rez and C. Karabulut).
+1. Eisenstein cocycles for GL(n) and p-adic L-functions in imaginary quadratic fields (with J. Flórez and C. Karabulut).
 
-2. Eisenstein cocycles for GL(n) and special values of $L$-functions in imaginary quadratic fields (with C. Karabulut and D. Zagier).
+2. Base change for extended eigenvarieties over totally real fields (with J. Ludwig and R. Pollack).
 
-3. Base change for extended eigenvarieties over totally real fields (with J. Ludwig and R. Pollack).
+3. A higher-weight Gross-Zagier formula on Shimura curves (with Y. Elias).
 
-4. A higher-weight Gross-Zagier formula on Shimura curves (with Y. Elias).
+4. From binary Hermitian forms to Bianchi modular forms (with C. Karabulut and D. Zagier).
 
 ### Papers 
 
