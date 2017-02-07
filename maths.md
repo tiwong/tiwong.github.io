@@ -26,7 +26,7 @@ Here's the maths page!
 
 3. Lower bounds for Weil's Explicit Formula via Selberg's Trace Formula. Submitted; <a href="https://arxiv.org/abs/1608.02296">ArXiv</a>.
 
-### Some loose ends
+### Loose ends
 
 - An idea on connecting Bernstein's 'Stacks in Representation Theory' to infinity categories. [Slides](BeamerNUS.pdf), [PDF](AHT.pdf). 
 
