@@ -10,7 +10,7 @@ Here's the maths page!
 
 ### In progress
 
-1. Eisenstein cocycles for GL(n) and p-adic L-functions in imaginary quadratic fields (with J. Flórez and C. Karabulut).
+1. Eisenstein cocycles over imaginary quadratic fields II: p-adic L-functions (with J. Flórez and C. Karabulut).
 
 2. Base change for extended eigenvarieties over totally real fields (with J. Ludwig and R. Pollack).
 
@@ -20,11 +20,11 @@ Here's the maths page!
 
 ### Papers 
 
-1. Eisenstein cocycles on GL(n) and special values of L-functions in imaginary quadratic fields (with Florez and Karabulut) Submitted  <a href="https://arxiv.org/abs/1611.08565">arXiv</a>
+1. Eisenstein cocycles over imaginary quadratic fields I: Values of L-functions (with J. Flórez and C. Karabulut) Submitted;  <a href="https://arxiv.org/abs/1611.08565">ArXiv</a>.
 
-2. On smoothing singularities of elliptic orbital integrals on GL(n) and Beyond Endoscopy (with O.E. Gonzalez, C.H. Kwan, S.J. Miller, R. Van Peski) Submitted <a href="https://arxiv.org/abs/1608.05938">arXiv</a>
+2. On smoothing singularities of elliptic orbital integrals on GL(n) and Beyond Endoscopy (with O.E. Gonzalez, C.H. Kwan, S.J. Miller, R. Van Peski) Submitted; <a href="https://arxiv.org/abs/1608.05938">ArXiv</a>.
 
-3. Lower bounds for Weil's Explicit Formula via Selberg's Trace Formula. Submitted <a href="https://arxiv.org/abs/1608.02296">arXiv</a>
+3. Lower bounds for Weil's Explicit Formula via Selberg's Trace Formula. Submitted; <a href="https://arxiv.org/abs/1608.02296">ArXiv</a>.
 
 ### Some loose ends
 
