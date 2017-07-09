@@ -12,15 +12,15 @@ Here's the maths page!
 
 1. Eisenstein cocycles over imaginary quadratic fields II: p-adic L-functions (with J. Flórez and C. Karabulut).
 
-2. Overconvergent L-packets and eigenvarieties (with B. Balasubramaniam).
+2. Overconvergent L-packets and eigenvarieties (with B. Balasubramanyam).
 
-3. A higher-weight Gross-Zagier formula on Shimura curves (with Y. Elias).
-
-4. From binary Hermitian forms to Bianchi modular forms (with C. Karabulut and D. Zagier).
+3. From binary Hermitian forms to Bianchi modular forms (with C. Karabulut and D. Zagier).
 
 ### Papers 
 
-4. Unexpected biases in prime factorizations and Liouville functions for arithmetic progressions (with S. Shekatkar) Preprint;  <a href="https://arxiv.org/abs/1704.07979">ArXiv</a>.
+5. A higher-weight Gross-Zagier formula on Shimura curves (with Y. Elias) Preprint; 
+
+4. Biases in prime factorizations and Liouville functions for arithmetic progressions (with P. Humphries and S. Shekatkar) Submitted;  <a href="https://arxiv.org/abs/1704.07979">ArXiv</a>.
 
 3. Eisenstein cocycles over imaginary quadratic fields I: Values of L-functions (with J. Flórez and C. Karabulut) Submitted;  <a href="https://arxiv.org/abs/1611.08565">ArXiv</a>.
 
