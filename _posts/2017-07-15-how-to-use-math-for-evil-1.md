@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "How to use math for evil 1: Statistics"
+title:  "How to use math for evil, Part 1: Statistics"
 date:   2017-07-15 12:50:45 +0100
 categories: data
 ---
 
-This is an expanded version of the general audience talk I gave at the Science on Tap--formerly known as Drunk on Science, which is much cooler but probably less professional--in Pune, with craft beer sponsored by Great State Ale Works!
+*This is an expanded version of the general audience talk I gave at the Science on Tap--formerly known as Drunk on Science, which is much cooler but probably less professional--in Pune, with craft beer sponsored by Great State Ale Works!*
 
 Okay. So let's talk about numbers. They're everywhere around us; from the statistics that are served to us, to the many algorithms that mediate our technological lives, more and more they influence our lives without our knowing. Of course, numbers by themselves seem innocent enough. Especially as a pure mathematician, I can readily say that mathematicians like to think—wrongly, of course—that the mathematics they pursue is a about beauty and truth, and has little bearing on society. In this series of posts, we'll look at various ways this rosy view of mathematics is patently false, that instead the pursuit of mathematics pure and applied is deeply entangled in worldly affairs.
 
@@ -19,29 +19,37 @@ In this first post, we'll warm up by starting before the age of the personal com
 
 Sampling Bias
 
+The first in line can be a rather devious way of skewing statistical results, it is also pitfall that one might encounter if not careful enough. 
+
 Cherry-picking data, discarding unfavorable data, loaded questions, placebo effect
 
-#### 2. The Well-Chosen Average: 
+#### 2. The Well-Chosen Average
 
-This one is a pretty straightforward trick, and you've probably learned this once before in primary school. It's essentially the difference between mean, median or mode, each of which might be considered an 'average' value.
+This one is a pretty straightforward trick, and you've probably learned this once before in primary school. It's essentially the difference between mean, median or mode, each of which might be considered an 'average' value. Here's a quick refresher: Suppose you have a string of 10 numbers:
 
-#### 3. The Little Figures That Are Not There
+1, 1, 2, 5, 6, 7, 8, 8, 8, 9
 
-degree of significance, Gesell's norms, graph labels
+The *mean* is the sum total, divided by the number of term; in this case, 5.5. This is *usually* what one means by the word 'average', for example, what is meant by miles per hour, or kilogram per dollar, and so on; a simple addition and division.
 
-#### 4. Much Ado about Practically Nothing: probable error and standard error
+The *mode* is the number that appears the most often in this set, in this case, 8.
 
-Central Limit Theorem
+The *median* is the value that appears in the 'middle', in the sense that we've observed the values 1, 2, 5, 6, 7, 8, and 9, so the middle value is 6.
 
-#### 5. The Gee-Whiz Graph: scale and range of graph
+One can argue for each of these to be a numerical 'average', and the idea of the well-chosen average is simply that you could choose to report any of the three possibilities as the 'average', depending on which best suits your purpose.
 
-#### 6. Misleading graphics
+#### 3. Errors
 
-The One-Dimensional Picture: proportion of pictorials
+Much Ado about Practically Nothing: probable error and standard error
 
-#### 7. The Semiattached Figure: false representation
+Central Limit Theorem (http://www.nytimes.com/2013/09/24/science/as-normal-as-rabbits-weights-and-dragons-wings.html)
 
-#### 8. Causation and correlation
+#### 4. Misleading graphics
+
+Improper scaling, truncated graph, no scale, axis change
+
+#### 5. The Semiattached Figure: false representation
+
+#### 6. Causation and correlation
 
 This last one is pretty well-known, so I'll just point to a few fun examples: An entertaining collection of graphs showing [Spurious Correlations](http://www.tylervigen.com/spurious-correlations), an [xkcd comic](https://xkcd.com/552/), and an actually published paper on ['The Effect of Country Music on Suicide'](http://comp.uark.edu/~ches/CountryMusic_Suicide.pdf) (Sack and Gundlach, 1992), that suicide rates among white people increased with the amount of airtime dedicated to country music. The reported (but not interpreted) correlation was a whopping r = 0.54.
 
