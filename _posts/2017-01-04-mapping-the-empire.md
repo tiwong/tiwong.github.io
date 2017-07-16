@@ -1,10 +1,9 @@
 ---
-layout: page
-title:  "Database"
-permalink: /database/
+layout: post
+title:  "Mapping the Empire: A database of injustice"
+date:   2017-01-04 12:50:45 +0100
+categories: data
 ---
-
-### Mapping the Empire: A database of injustice
 
 Access the [Project Site](https://tiwong.github.io/database_alpha/) here. (It's under construction!)
 
@@ -38,4 +37,3 @@ Check out this map, which I found later [link](http://iamangelfoundation.org/bla
 Who should benefit from this? For one, people like me who don't know or keep forgetting, who want to see the big, big picture, even if it overwhelms you. One day it could be beneficial to researchers, policy makers, administrators, activists. Students could use it for research, and better yet, contribute to it by doing more research.
 
 Eventually this should be a massive database, because of the nature of the project. But let's start somewhere. Interested? Get in touch with me!
-
