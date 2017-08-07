@@ -18,7 +18,7 @@ Here's the maths page!
 
 ### Papers 
 
-5. A higher-weight Gross-Zagier formula on Shimura curves (with Y. Elias) Preprint; 
+5. A higher-weight Gross-Zagier formula on Shimura curves (with Y. Elias) [Preprint](HigherWeightGZ.pdf); 
 
 4. Biases in prime factorizations and Liouville functions for arithmetic progressions (with P. Humphries and S. Shekatkar) Submitted;  <a href="https://arxiv.org/abs/1704.07979">ArXiv</a>.
 
@@ -57,6 +57,10 @@ I organized the <a href="langlands">Langlands Program Seminar</a> at the CUNY GC
 
 
 ### Past teaching:
+
+
+- IISER Pune
+	- Summer 2017: IISER Pune Summer Student Programme project mentor
 
 - Williams College
 	- Summer 2016: SMALL REU project mentor
