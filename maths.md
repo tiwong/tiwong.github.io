@@ -18,9 +18,9 @@ Here's the maths page!
 
 ### Papers 
 
-5. A higher-weight Gross-Zagier formula on Shimura curves (with Y. Elias) [Preprint](HigherWeightGZ.pdf); 
+5. A higher-weight Gross-Zagier formula on Shimura curves (with Y. Elias) Submitted <a href="https://arxiv.org/abs/1708.05820">ArXiv</a>
 
-4. Biases in prime factorizations and Liouville functions for arithmetic progressions (with P. Humphries and S. Shekatkar) Submitted;  <a href="https://arxiv.org/abs/1704.07979">ArXiv</a>.
+4. Biases in prime factorizations and Liouville functions for arithmetic progressions (with P. Humphries and S. Shekatkar) Submitted;  <a href="https://arxiv.org/abs/1704.07979">ArXiv</a>. [Updated version](ParityFinal.pdf) 
 
 3. Eisenstein cocycles over imaginary quadratic fields I: Values of L-functions (with J. Flórez and C. Karabulut) Submitted;  <a href="https://arxiv.org/abs/1611.08565">ArXiv</a>.
 
