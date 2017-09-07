@@ -4,21 +4,27 @@ title: Maths
 permalink: /maths/
 ---
 
+> “A mathematician is a person who primarily studies mathematics. They usually study a variety of mathematics in their undergraduate studies before proceeding to study more specific topics.”
+
+![A mathematician is..](mathematics.jpg "Korean stationery!")
+
 Here's the maths page!
   
 <p>I'm currently a postdoctoral fellow at Indian Institute of Science Education and Research (IISER), Pune; previously at the Max Planck Institut für Mathematik (MPIM), Bonn. My work focuses on the interplay between trace formulae and L-functions in the theory of automorphic forms and representation theory. I also like to think about interactions between homotopy theory and number theory.</p>
 
 ### In progress
 
-1. Eisenstein cocycles over imaginary quadratic fields II: p-adic L-functions (with J. Flórez and C. Karabulut).
+1. From binary Hermitian forms to Bianchi modular forms (with C. Karabulut and D. Zagier).
 
-2. Overconvergent L-packets and eigenvarieties (with B. Balasubramanyam).
+2. Eisenstein cocycles over imaginary quadratic fields II: p-adic L-functions (with J. Flórez and C. Karabulut).
 
-3. From binary Hermitian forms to Bianchi modular forms (with C. Karabulut and D. Zagier).
+3. The balanced Voronoi formula for GL(*n,F*) (with G. Cherubini).
 
 ### Papers 
 
-5. A higher-weight Gross-Zagier formula on Shimura curves (with Y. Elias) Submitted <a href="https://arxiv.org/abs/1708.05820">ArXiv</a>
+6. Overconvergent L-packets and eigenvarieties (with B. Balasubramanyam). Preprint.
+
+5. A higher-weight Gross-Zagier formula on Shimura curves (with Y. Elias) Submitted; <a href="https://arxiv.org/abs/1708.05820">ArXiv</a>.
 
 4. Biases in prime factorizations and Liouville functions for arithmetic progressions (with P. Humphries and S. Shekatkar) Submitted;  <a href="https://arxiv.org/abs/1704.07979">ArXiv</a>. [Updated version](ParityFinal.pdf) 
 
