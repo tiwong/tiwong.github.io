@@ -6,7 +6,7 @@ permalink: /maths/
 
 > “A mathematician is a person who primarily studies mathematics. They usually study a variety of mathematics in their undergraduate studies before proceeding to study more specific topics.”
 
-<img src="mathematics.jpg" alt="Korean stationery!" style="width: 5em;"/>
+<img src="mathematics.jpg" alt="Korean stationery!" style="width:3em;"/>
 
 Here's the maths page!
   
