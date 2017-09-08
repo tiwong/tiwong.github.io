@@ -19,19 +19,19 @@ Here's the maths page!
 
 3. The balanced Voronoi formula for GL(*n,F*) (with G. Cherubini).
 
-4. On mock automorphic forms [Draft!](MockAutBPS.pdf) 
+4. On mock automorphic forms; [Draft!](MockAutBPS.pdf) 
+
+6. Overconvergent L-packets and eigenvarieties (with B. Balasubramanyam). Preprint available upon request.
 
 ### Papers 
 
-6. Overconvergent L-packets and eigenvarieties (with B. Balasubramanyam). Preprint.
+5. Heights of CM-cyles and derivatives of L-series (with Y. Elias). Submitted; <a href="https://arxiv.org/abs/1708.05820">ArXiv</a>.
 
-5. A higher-weight Gross-Zagier formula on Shimura curves (with Y. Elias) Submitted; <a href="https://arxiv.org/abs/1708.05820">ArXiv</a>.
+4. Biases in prime factorizations and Liouville functions for arithmetic progressions (with P. Humphries and S. Shekatkar). Submitted;  <a href="https://arxiv.org/abs/1704.07979">ArXiv</a>. [Updated version](ParityFinal.pdf) 
 
-4. Biases in prime factorizations and Liouville functions for arithmetic progressions (with P. Humphries and S. Shekatkar) Submitted;  <a href="https://arxiv.org/abs/1704.07979">ArXiv</a>. [Updated version](ParityFinal.pdf) 
+3. Eisenstein cocycles over imaginary quadratic fields I: Values of L-functions (with J. Flórez and C. Karabulut). Submitted;  <a href="https://arxiv.org/abs/1611.08565">ArXiv</a>.
 
-3. Eisenstein cocycles over imaginary quadratic fields I: Values of L-functions (with J. Flórez and C. Karabulut) Submitted;  <a href="https://arxiv.org/abs/1611.08565">ArXiv</a>.
-
-2. On smoothing singularities of elliptic orbital integrals on GL(n) and Beyond Endoscopy (with O.E. Gonzalez, C.H. Kwan, S.J. Miller, R. Van Peski) Submitted; <a href="https://arxiv.org/abs/1608.05938">ArXiv</a>.
+2. On smoothing singularities of elliptic orbital integrals on GL(n) and Beyond Endoscopy (with O.E. Gonzalez, C.H. Kwan, S.J. Miller, R. Van Peski). Submitted; <a href="https://arxiv.org/abs/1608.05938">ArXiv</a>.
 
 1. Lower bounds for Weil's Explicit Formula via Selberg's Trace Formula. Submitted; <a href="https://arxiv.org/abs/1608.02296">ArXiv</a>.
 
