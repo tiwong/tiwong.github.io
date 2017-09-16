@@ -4,8 +4,7 @@ title: Maths
 permalink: /maths/
 ---
 
-> “A mathematician is a person who primarily studies mathematics. They usually study a variety of mathematics in their undergraduate studies before proceeding to study more specific topics.”
-<img src="mathematics.jpg" alt="Korean stationery!" style="margin:auto;width:10em;"/>
+![MFOpic](https://opc.mfo.de/photoNormal?id=21800)
 
 Here's the maths page!
   
@@ -17,7 +16,7 @@ Here's the maths page!
 
 2. Eisenstein cocycles over imaginary quadratic fields II: p-adic L-functions (with J. Flórez and C. Karabulut).
 
-3. The balanced Voronoi formula for GL(*n,F*) (with G. Cherubini).
+3. The balanced Voronoi formula for GL(n,F) (with G. Cherubini).
 
 4. On mock automorphic forms; [Draft!](MockAutBPS.pdf) 
 
@@ -31,7 +30,7 @@ Here's the maths page!
 
 3. Eisenstein cocycles over imaginary quadratic fields I: Values of L-functions (with J. Flórez and C. Karabulut). Submitted;  <a href="https://arxiv.org/abs/1611.08565">ArXiv</a>.
 
-2. On smoothing singularities of elliptic orbital integrals on GL(n) and Beyond Endoscopy (with O.E. Gonzalez, C.H. Kwan, S.J. Miller, R. Van Peski). Submitted; <a href="https://arxiv.org/abs/1608.05938">ArXiv</a>.
+2. On smoothing singularities of elliptic orbital integrals on GL(n) and Beyond Endoscopy (with O.E. Gonzalez, C.H. Kwan, S.J. Miller, R. Van Peski). To appear in Journal of Number Theory; <a href="https://arxiv.org/abs/1608.05938">ArXiv</a>.
 
 1. Lower bounds for Weil's Explicit Formula via Selberg's Trace Formula. Submitted; <a href="https://arxiv.org/abs/1608.02296">ArXiv</a>.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to use math for evil, Part 1: Statistics"
+title:  "How to use math for evil, 1: Statistics"
 date:   2017-07-15 12:50:45 +0100
 categories: data
 ---
@@ -47,9 +47,7 @@ Central Limit Theorem (http://www.nytimes.com/2013/09/24/science/as-normal-as-ra
 
 Improper scaling, truncated graph, no scale, axis change
 
-#### 5. The Semiattached Figure: false representation
-
-#### 6. Causation and correlation
+#### 5. Causation and correlation
 
 This last one is pretty well-known, so I'll just point to a few fun examples: An entertaining collection of graphs showing [Spurious Correlations](http://www.tylervigen.com/spurious-correlations), an [xkcd comic](https://xkcd.com/552/), and an actually published paper on ['The Effect of Country Music on Suicide'](http://comp.uark.edu/~ches/CountryMusic_Suicide.pdf) (Sack and Gundlach, 1992), that suicide rates among white people increased with the amount of airtime dedicated to country music. The reported (but not interpreted) correlation was a whopping r = 0.54.
 
