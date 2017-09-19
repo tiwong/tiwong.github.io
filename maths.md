@@ -6,33 +6,35 @@ permalink: /maths/
 
 Here's the maths page! First, a professional photo:
 
-![MFOpic](https://opc.mfo.de/photoNormal?id=21800)
+![MFOpic](https://opc.mfo.de/photoNormal?id=21800)©[MFO](https://opc.mfo.de/detail?photo_id=21800)
   
 <p>I'm currently a postdoctoral fellow at Indian Institute of Science Education and Research (IISER), Pune; previously at the Max Planck Institut für Mathematik (MPIM), Bonn. My work focuses on the interplay between trace formulae and L-functions in the theory of automorphic forms and representation theory. I also like to think about interactions between homotopy theory and number theory.</p>
 
 ### In progress
 
-1. From binary Hermitian forms to Bianchi modular forms (with C. Karabulut and D. Zagier).
+1. (With C. Karabulut and D. Zagier) From binary Hermitian forms to Bianchi modular forms.
 
-2. Eisenstein cocycles over imaginary quadratic fields II: p-adic L-functions (with J. Flórez and C. Karabulut).
+2. (With J. Flórez and C. Karabulut) Eisenstein cocycles over imaginary quadratic fields II: p-adic L-functions.
 
-3. The balanced Voronoi formula for GL(n,F) (with G. Cherubini).
+3. (With G. Cherubini) The balanced Voronoi formula for GL(n,F).
 
-4. On mock automorphic forms; [Draft!](MockAutBPS.pdf) 
+4. On mock automorphic forms. ([Draft!](MockAutBPS.pdf))
 
-6. Overconvergent L-packets and eigenvarieties (with B. Balasubramanyam). Preprint available upon request.
+### Preprints
 
-### Papers 
+5. (With B. Balasubramanyam) Overconvergent L-packets and eigenvarieties. Preprint available upon request.
 
-5. Heights of CM-cyles and derivatives of L-series (with Y. Elias). Submitted; <a href="https://arxiv.org/abs/1708.05820">ArXiv</a>.
+4. (With Y. Elias) [Heights of CM-cyles and derivatives of L-series](https://arxiv.org/abs/1708.05820). Submitted.
 
-4. Biases in prime factorizations and Liouville functions for arithmetic progressions (with P. Humphries and S. Shekatkar). Submitted;  <a href="https://arxiv.org/abs/1704.07979">ArXiv</a>. [Updated version](ParityFinal.pdf) 
+3. (With P. Humphries and S. Shekatkar) [Biases in prime factorizations and Liouville functions for arithmetic progressions](https://arxiv.org/abs/1704.07979). Submitted. [Updated version](ParityFinal.pdf) 
 
-3. Eisenstein cocycles over imaginary quadratic fields I: Values of L-functions (with J. Flórez and C. Karabulut). Submitted;  <a href="https://arxiv.org/abs/1611.08565">ArXiv</a>.
+2. (With J. Flórez and C. Karabulut) [Eisenstein cocycles over imaginary quadratic fields I: Values of L-functions](https://arxiv.org/abs/1611.08565). Submitted.
 
-2. On smoothing singularities of elliptic orbital integrals on GL(n) and Beyond Endoscopy (with O.E. Gonzalez, C.H. Kwan, S.J. Miller, R. Van Peski). To appear in Journal of Number Theory; <a href="https://arxiv.org/abs/1608.05938">ArXiv</a>.
+1. [Lower bounds for Weil's Explicit Formula via Selberg's Trace Formula](https://arxiv.org/abs/1608.02296). Submitted.
 
-1. Lower bounds for Weil's Explicit Formula via Selberg's Trace Formula. Submitted; <a href="https://arxiv.org/abs/1608.02296">ArXiv</a>.
+### Papers
+
+1. (With O.E. Gonzalez, C.H. Kwan, S.J. Miller, R. Van Peski) [On smoothing singularities of elliptic orbital integrals on GL(n) and Beyond Endoscopy](https://arxiv.org/abs/1608.05938). To appear in Journal of Number Theory.
 
 ### Loose ends
 
