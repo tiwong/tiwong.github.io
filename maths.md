@@ -12,29 +12,29 @@ Here's the maths page! First, a professional photo:
 
 ### In progress
 
-1. (With C. Karabulut and D. Zagier) From binary Hermitian forms to Bianchi modular forms.
+1. From binary Hermitian forms to Bianchi modular forms, (with C. Karabulut and D. Zagier).
 
-2. (With J. Flórez and C. Karabulut) Eisenstein cocycles over imaginary quadratic fields II: p-adic L-functions.
+2. Eisenstein cocycles over imaginary quadratic fields II: p-adic L-functions (with J. Flórez and C. Karabulut).
 
-3. (With G. Cherubini) The balanced Voronoi formula for GL(n,F).
+3. The balanced Voronoi formula for GL(n,F), (with G. Cherubini).
 
 4. On mock automorphic forms. ([Draft!](MockAutBPS.pdf))
 
 ### Preprints
 
-5. (With B. Balasubramanyam) Overconvergent L-packets and eigenvarieties. Preprint available upon request.
+5. Overconvergent L-packets and eigenvarieties, (with B. Balasubramanyam). Preprint available upon request.
 
-4. (With Y. Elias) [Heights of CM-cyles and derivatives of L-series](https://arxiv.org/abs/1708.05820). Submitted.
+4. [Heights of CM-cyles and derivatives of L-series](https://arxiv.org/abs/1708.05820), (with Y. Elias). Submitted.
 
-3. (With P. Humphries and S. Shekatkar) [Biases in prime factorizations and Liouville functions for arithmetic progressions](https://arxiv.org/abs/1704.07979). Submitted. [Updated version](ParityFinal.pdf) 
+3. [Biases in prime factorizations and Liouville functions for arithmetic progressions](https://arxiv.org/abs/1704.07979), (with P. Humphries and S. Shekatkar). Submitted. [Latest](ParityFinal.pdf) 
 
-2. (With J. Flórez and C. Karabulut) [Eisenstein cocycles over imaginary quadratic fields I: Values of L-functions](https://arxiv.org/abs/1611.08565). Submitted.
+2. [Eisenstein cocycles over imaginary quadratic fields I: Values of L-functions](https://arxiv.org/abs/1611.08565), (with J. Flórez and C. Karabulut). Submitted.
 
 1. [Lower bounds for Weil's Explicit Formula via Selberg's Trace Formula](https://arxiv.org/abs/1608.02296). Submitted.
 
 ### Papers
 
-1. (With O.E. Gonzalez, C.H. Kwan, S.J. Miller, R. Van Peski) [On smoothing singularities of elliptic orbital integrals on GL(n) and Beyond Endoscopy](https://arxiv.org/abs/1608.05938). To appear in Journal of Number Theory.
+1. [On smoothing singularities of elliptic orbital integrals on GL(n) and Beyond Endoscopy](https://arxiv.org/abs/1608.05938), (with O.E. Gonzalez, C.H. Kwan, S.J. Miller, R. Van Peski). To appear in Journal of Number Theory.
 
 ### Loose ends
 
