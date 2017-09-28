@@ -4,11 +4,11 @@ title: Maths
 permalink: /maths/
 ---
 
-Here's the maths page! First, a professional photo:
+Here's the maths page! First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 
-![MFOpic](https://opc.mfo.de/photoNormal?id=21800)©[MFO](https://opc.mfo.de/detail?photo_id=21800)
+![MFOpic](https://opc.mfo.de/photoNormal?id=21800)
   
-<p>I'm currently a postdoctoral fellow at Indian Institute of Science Education and Research (IISER), Pune; previously at the Max Planck Institut für Mathematik (MPIM), Bonn. My work focuses on the interplay between trace formulae and L-functions in the theory of automorphic forms and representation theory. I also like to think about interactions between homotopy theory and number theory.</p>
+<p>I'm currently a postdoctoral fellow at the Indian Institute of Science Education and Research (IISER), Pune; previously at the Max Planck Institut für Mathematik (MPIM), Bonn. My work focuses on the interplay between trace formulae and L-functions in the theory of automorphic forms and representation theory. I also like to think about interactions between homotopy theory and number theory.</p>
 
 ### In progress
 
@@ -18,11 +18,11 @@ Here's the maths page! First, a professional photo:
 
 3. The balanced Voronoi formula for GL(n,F), (with G. Cherubini).
 
-4. On mock automorphic forms. ([Draft!](MockAutBPS.pdf))
-
 ### Preprints
 
-5. Overconvergent L-packets and eigenvarieties, (with B. Balasubramanyam). Preprint available upon request.
+6. Overconvergent L-packets and eigenvarieties, (with B. Balasubramanyam). Preprint available upon request.
+
+5. [Mock automorphic forms and the BPS index](MockAutBPS.pdf). Submitted. 
 
 4. [Heights of CM-cyles and derivatives of L-series](https://arxiv.org/abs/1708.05820), (with Y. Elias). Submitted.
 
