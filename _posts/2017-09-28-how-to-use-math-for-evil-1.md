@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to use math for evil, 1: Statistics"
+title:  "How to use math for evil 1: Statistics"
 date:   2017-09-28 12:50:45 +0100
 categories: data
 ---
@@ -15,7 +15,7 @@ More to the point, we'll talk about how numbers can be used for evil. Numbers ar
 
 In this first post, we'll warm up by starting before the age of the personal computer, and talk about statistics. Most of this will be taken from the classic text 'How to lie with statistics' by Darrell Huff.
 
-#### 1. Sampling Bias
+#### 1. Sampling bias
 
 The first in line can be a rather devious way of skewing statistical results, it is also pitfall that one might encounter if not careful enough. Sampling bias describes how statistical results can be affected by the sample that is chosen for study, leading to inaccurate results. The key instance of this we will consider is *sampling bias*: In this case, the sample is not chosen at random. For example, we might intentionally choose to poll people whose opinions support the conclusion that we would like to draw.
 
@@ -23,7 +23,7 @@ This can also be done by cherry-picking data, or discarding unfavorable data. We
 
 On the other hand, kind of like the Heisenberg uncertainty principle in particle physics, it can be that the sample that being studied can be affected by the fact that they are being studied, which is related to the well-known placebo effect, for example. Also, loaded questions can prime a interviewee to respond in a certain way.
 
-#### 2. The Well-Chosen Average
+#### 2. The well-chosen average
 
 This one is a pretty straightforward trick, and you've probably learned this once before in primary school. It's essentially the difference between mean, median or mode, each of which might be considered an 'average' value. Here's a quick refresher: Suppose you have a string of 10 numbers:
 
