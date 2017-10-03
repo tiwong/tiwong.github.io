@@ -13,19 +13,19 @@ More to the point, we'll talk about how numbers can be used for evil. Numbers ar
 
 > 'There are three kinds of lies: Lies, damned lies, and statistics.' -- Source unknown
 
-In this first post, we'll warm up by starting before the age of the personal computer, and talk about statistics. Most of this will be taken from the classic text 'How to lie with statistics' by Darrell Huff.
+In this first post, we'll warm up by starting before the age of the personal computer, and talk about statistics. Most of this will be taken from the classic text *How to lie with statistics* by Darrell Huff.
 
 #### 1. Sampling bias
 
-The first in line can be a rather devious way of skewing statistical results, it is also pitfall that one might encounter if not careful enough. Sampling bias describes how statistical results can be affected by the sample that is chosen for study, leading to inaccurate results. The key instance of this we will consider is *sampling bias*: In this case, the sample is not chosen at random. For example, we might intentionally choose to poll people whose opinions support the conclusion that we would like to draw.
+The first in line can be a rather devious way of skewing statistical results, it is also pitfall that one might encounter if not careful enough. [Sampling bias](https://en.wikipedia.org/wiki/Sampling_bias) describes how statistical results can be affected by the sample that is chosen for study, leading to inaccurate results. In this case, the sample is not chosen at random. For example, we might intentionally choose to poll people whose opinions support the conclusion that we would like to draw.
 
-This can also be done by cherry-picking data, or discarding unfavorable data. We call this post-hoc alteration of data.
+This can also be done by cherry-picking data, or discarding unfavorable data. We call this [post-hoc](https://en.wikipedia.org/wiki/Post_hoc_analysis) alteration of data.
 
 On the other hand, kind of like the Heisenberg uncertainty principle in particle physics, it can be that the sample that being studied can be affected by the fact that they are being studied, which is related to the well-known placebo effect, for example. Also, loaded questions can prime a interviewee to respond in a certain way.
 
 #### 2. The well-chosen average
 
-This one is a pretty straightforward trick, and you've probably learned this once before in primary school. It's essentially the difference between mean, median or mode, each of which might be considered an 'average' value. Here's a quick refresher: Suppose you have a string of 10 numbers:
+This one is a pretty straightforward trick, and you've probably learned this once before in primary school. It's essentially the difference between mean, median or mode, each of which might be considered an '[average](https://en.wikipedia.org/wiki/Average)' value. Here's a quick refresher: Suppose you have a string of 10 numbers:
 
 1, 1, 2, 5, 6, 7, 8, 8, 8, 9
 
@@ -41,7 +41,7 @@ One can make a case for each of these to be a numerical 'average', and the idea 
 
 This next one is probably the trickiest, but really it's behind many of the (pseudo)tests we take, and the statistics that we read about. The long and short of it is this: it is almost impossible to poll the entire population sample that you are trying to measure; for example, you'll be hard pressed to poll every single person in your town on which presidential candidate is the better one, or at least, the lesser of two evils. What you do is go out and take survey a sample of the population (which had better be properly random or you'll end up back in Problem 1 above). The larger your sample size, the better chances you have of getting polls that reflect your town's population.
 
-This is quantified as a confidence interval, or standard error. Now take care: it's not an error in the sense of a mistake, but rather a feature of statistical methods for the reason I just told you. By right, these are the pluses and minuses you should see next to percentages, and error bars on bar charts. These are also just the kind of numbers you don't usually see in statistical reporting. And that's the trouble. With numbers like your IQ or BMI, the exact values don't matter so much as the ranges. 
+This is quantified as a [confidence interval](https://en.wikipedia.org/wiki/Confidence_interval), or standard error. Now take care: it's not an error in the sense of a mistake, but rather a feature of statistical methods for the reason I just told you. By right, these are the pluses and minuses you should see next to percentages, and error bars on bar charts. These are also just the kind of numbers you don't usually see in statistical reporting. And that's the trouble. With numbers like your [IQ](https://en.wikipedia.org/wiki/IQ) or [BMI](https://en.wikipedia.org/wiki/Body_mass_index), the exact values don't matter so much as the ranges. 
 
 You should probably just watch this cute animation explaining the [Central Limit Theorem](http://www.nytimes.com/2013/09/24/science/as-normal-as-rabbits-weights-and-dragons-wings.html) using rabbits and dragons! The central limit theorem and other mathematically rigorous tools can help us to build confidence intervals.
 
