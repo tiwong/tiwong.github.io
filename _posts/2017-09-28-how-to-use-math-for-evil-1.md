@@ -5,7 +5,7 @@ date:   2017-09-28 12:50:45 +0100
 categories: data
 ---
 
-*This is an expanded version of the general audience talk I'm giving at the Science on Tap--formerly known as Drunk on Science, which is much cooler but probably less professional--in Pune, the brainchild of the illustrious Anoop Mahajan, with craft beer sponsored by Great State Ale Works! See [Part 1](2017-09-28-how-to-use-math-for-evil-1), [Part 2](2017-09-30-how-to-use-math-for-evil-2), [Part 3](2017-10-03-how-to-use-math-for-evil-3), [Part 4]()*
+*This is an expanded version of the general audience talk I'm giving at the Science on Tap--formerly known as Drunk on Science, which is much cooler but probably less professional--in Pune, the brainchild of the illustrious Anoop Mahajan, with craft beer sponsored by Great State Ale Works! See [Part 1](~/2017-09-28-how-to-use-math-for-evil-1), [Part 2](~/2017-09-30-how-to-use-math-for-evil-2), [Part 3](~/2017-10-03-how-to-use-math-for-evil-3), [Part 4]()*
 
 Okay. So let's talk about numbers. They're everywhere around us; from the statistics that are served to us, to the many algorithms that mediate our technological lives, more and more they influence our lives without our knowing. Of course, numbers by themselves seem innocent enough. Especially as a pure mathematician, I can readily say that mathematicians like to think—wrongly, of course—that the mathematics they pursue is a about beauty and truth, and has little bearing on society. In this series of posts, we'll look at various ways this rosy view of mathematics is patently false, that instead the pursuit of mathematics pure and applied is deeply entangled in worldly affairs.
 
