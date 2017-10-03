@@ -32,7 +32,7 @@ Now the trick is to use a cipher key, which let's say is 'multiply by 3', so tha
 
 Then in 1976 came the [Diffie-Hellman key exchange](https://en.wikipedia.org/wiki/Diffie–Hellman_key_exchange), one of the first public-key protocols. This introduced the asymmetric cipher, where the encrypting and decrypting keys are different, so Alice and Bob can now share a secret even if Eve is listening, since Alice does not have to communicate any key to Bob.
 
-The [RSA encryption scheme](https://en.wikipedia.org/wiki/RSA_(algorithm)), invented the next year, put this in practice. And this is where number theory comes in. Here's a toy example of how it works: 
+The [RSA encryption scheme](https://en.wikipedia.org/wiki/RSA_(algorithm)), invented the next year, put this in practice. And this is where number theory comes in: the fact that the procedure works is guaranteed by [Fermat's Little Theorem](https://en.wikipedia.org/wiki/Fermat%27s_little_theorem). Here's a toy example of how it works: 
 
 1. Alice picks two prime numbers, let say `p` and `q`. Their product `N = pq` is the public key.
 2. Alice picks a number `e` relatively prime to `p-1` and `q-1`. This is also made public.
@@ -40,8 +40,18 @@ The [RSA encryption scheme](https://en.wikipedia.org/wiki/RSA_(algorithm)), inve
 4. Alice solves for a number `d` such that `ed = 1 (mod (p-1)(q-1))`.
 5. Alice decodes by calculating `C^d (mod N)`, and the answer is equal to `M`.
 
-In real life, the primes are much larger, on the scale of hundreds of digits long, so that factoring `N` would be practically impossible unless you were Alice. This is necessary since the decryption key requires knowing the values `p-1` and `q-1`.
+In real life, the primes are much larger, on the scale of hundreds of digits long, so that factoring `N` would be practically impossible unless you were Alice. This is necessary since the decryption key requires knowing the values `p-1` and `q-1`. Also, in practice, public-key takes a huge amount of computer time, so what really happens when you tell Amazon your credit card number is a hybrid of public *and* private key cryptography.
+
+As you can see, public-key cryptography depends on certain mathematical operations (like factoring!) being hard. More sophisticated methods have been developed, balancing security  and efficiency as one often comes at the cost of the other. An important example comes from the world of number theory, called [Elliptic Curve Crytography](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography), or ECC. It uses a certain multiplicative rule on an elliptic curve that looks like `y^3 = x^3 + ax + b`. There are even recommended elliptic curves, i.e., parameters `a` and `b` for government use. 
 
 #### Surveillance
 
-More to come!
+Now what's important to the NSA is that such recommended cryptosystems have backdoors, which are basically cheat codes in this secret sharing game that allow the messages to be intercepted and decrypted at will. That is to say, your data may be secure to most people, but to the professionals, shall we call it, your data is not. The cold, hard logic behind this is always under the banner of national security. 
+
+And it is for this reason that your data, that is being mined by large corporations for profit, is also open access to the state, at least if said corporations are US firms. Indeed, among Edward Snowden's leaks is that tech companies like Microsoft, Google, Facebook, and Apple have [tapped their own servers](https://www.theatlantic.com/technology/archive/2014/07/the-details-about-the-cias-deal-with-amazon/374632/) for the intelligence agencies such as the NSA and FBI, while Amazon Web Services is a [CIA contractor](https://www.theatlantic.com/technology/archive/2014/07/the-details-about-the-cias-deal-with-amazon/374632/).
+
+Perhaps most baffling is the Signal the go-to encrypted chat app used by US journalists and activists, endorsed even by Snowden. It is also adopted into Facebook's Whatsapp. The irony, is that Signal's parent company Open Whispers has received millions in US government funding. There are reasons for this, discussed along with a more secure chat app, Telegram, and its Russian inventor and dissident Pavel Durov in [this exposée](https://thebaffler.com/salvos/the-crypto-keepers-levine).
+
+This makes the deeper data mining of companies more unsettling: the increasing amounts of surveillance performed by tech giants for profit, can easily be obtained—whether by direct requests or third-party hacking—by US intelligence agencies for security. The recent requirement of the Department of Homeland Security, or DHS, to [collect social media information](https://www.nytimes.com/2017/09/28/us/politics/immigrants-social-media-trump.html) on immigrants to the USA is one such frontier. The trouble with 'security' is that it is not possible to define or set fixed boundaries for, and we see its full power in more totalitarian regimes where there is no façade of democracy. Also, a recent [journal article](http://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=6265&context=law_lawreview) makes the case that surveillance and data collection burdens poor people 'many times over', consistent with the topic of Part 2.
+
+Before, Michel Foucault's [Panopticon](https://en.wikipedia.org/wiki/Panopticism) as a symbol of the surveillance used to discipline society's members by making each person the 'principle of his own subjection' has now grown into words like 'dataveillance' and 'information panopticon.' But the difference now, with the advent of Big Data, is that we can be sure we are being watched. The slow march towards complete surveillance removes the need for a Panopticon. 
