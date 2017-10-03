@@ -5,7 +5,7 @@ date:   2017-09-30 12:50:45 +0100
 categories: data
 ---
 
-*This is an expanded version of the general audience talk I'm giving at the Science on Tap--formerly known as Drunk on Science, which is much cooler but probably less professional--in Pune, the brainchild of the illustrious Anoop Mahajan, with craft beer sponsored by Great State Ale Works!* 
+*This is an expanded version of the general audience talk I'm giving at the Science on Tap--formerly known as Drunk on Science, which is much cooler but probably less professional--in Pune, the brainchild of the illustrious Anoop Mahajan, with craft beer sponsored by Great State Ale Works! See [Part 1](2017-09-28-how-to-use-math-for-evil-1), [Part 2](2017-09-30-how-to-use-math-for-evil-2), [Part 3](2017-10-03-how-to-use-math-for-evil-3), [Part 4]()*
 
 So last time we looked at how statistics can be used and misused to advance certain agendas. That's ancient history. This time we'll turn our focus to the age of the smart phone: algorithms, and the murky waters of Big Data that they now swim in. 
 
