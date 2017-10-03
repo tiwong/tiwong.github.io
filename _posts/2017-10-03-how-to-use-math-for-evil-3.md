@@ -5,7 +5,7 @@ date:   2017-10-03 12:50:45 +0100
 categories: data
 ---
 
-*This is an expanded version of the general audience talk I'm giving at the Science on Tap--formerly known as Drunk on Science, which is much cooler but probably less professional--in Pune, the brainchild of the illustrious Anoop Mahajan, with craft beer sponsored by Great State Ale Works! See [Part 1](2017-09-28-how-to-use-math-for-evil-1), [Part 2](2017-09-30-how-to-use-math-for-evil-2), [Part 3](2017-10-03-how-to-use-math-for-evil-3), [Part 4]()*
+*This is an expanded version of the general audience talk I'm giving at the Science on Tap--formerly known as Drunk on Science, which is much cooler but probably less professional--in Pune, the brainchild of the illustrious Anoop Mahajan, with craft beer sponsored by Great State Ale Works! See [Part 1](https://tiwong.github.io/data/2017/09/28/how-to-use-math-for-evil-1.html), [Part 2](https://tiwong.github.io/data/2017/09/30/how-to-use-math-for-evil-2.html), [Part 3](https://tiwong.github.io/data/2017/10/03/how-to-use-math-for-evil-3.html), [Part 4](https://tiwong.github.io/data/2017/10/06/how-to-use-math-for-evil-4.html)*
 
 Last time we entered into world of Big Data, and saw how complicated algorithms extend into our daily lives. We ended on the fact that Big Data is contingent upon data mining, which drills deeper and deeper into our lives. This time, we'll talk about surveillance and cryptosystems, that are intertwined with this process.
 
