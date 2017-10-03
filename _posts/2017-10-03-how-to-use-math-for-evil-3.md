@@ -19,14 +19,29 @@ And in keeping with the theme from Part 2, Obama's so-called presidential kill l
 
 He later qualified his statement that the US government only kills foreigners, not US citizens this way. But even if you were a US citizen, you certainly have reason to worry. As mentioned in the last post, US warfare tactics abroad do find their way back home. Good examples are the counterinsurgency measures used at police-brutality protests like [in Ferguson and Baltimore](https://gizmodo.com/welcome-to-the-new-age-of-counterinsurgency-policing-1702621152),  and counterterrorism tactics used at the [Dakota Access Pipeline protest](https://theintercept.com/2017/05/27/leaked-documents-reveal-security-firms-counterterrorism-tactics-at-standing-rock-to-defeat-pipeline-insurgencies/) at Standing Rock. Not to mention the fact that the militarisation of US police force is a direct outcome of government policy like the 1997 [1033 program](https://en.wikipedia.org/wiki/1033_program) and [more recent presidential orders](https://www.theguardian.com/us-news/2017/aug/28/donald-trump-news-police-military-style-weapons-vehicles), giving surplus military equipment to civilian law enforcement services.
 
-#### Encryption
+#### Public-key cryptography 
 
 The advent of quantum mechanics, what one might think of as [blue-sky research](https://en.wikipedia.org/wiki/Blue_skies_research), that is, research with no immediate 'real-world' applications, also came hand in hand in nuclear fission, as with the infamous [Manhattan Project](https://en.wikipedia.org/wiki/Manhattan_Project). The same has happened for number theory, which the famous mathematician Gauss called the Queen of Mathematics. Number theory is the study of prime numbers, the building blocks of integers. It is also the foundation for modern cryptosystems, or encryption methods. They do good things, like protect your credit card purchase on Amazon from being hacked and keep your bank accounts secure, but they also are at the epicentre of issues surrounding surveillance, security, and privacy.
 
-The basic idea of encryption is simple: Ann wants to tell Bob a secret, and if Eve gets a hold of the message, the message would read like gibberish. To do this, Ann must encrypt the message in a way that only Bob can decipher.
+The basic idea of encryption is simple: Alice wants to tell Bob a secret, and if Eve gets a hold of the message, the message would read like gibberish. To do this, Ann must encrypt the message in a way that only Bob can decipher. Here's how it goes: Alice starts with an algorithm that enciphers the message into numbers, say the way you might have done as a school girl:
+```
+I C E C R E A M ---> 9 3 5 3 18 5 1 13
+```
+Now the trick is to use a cipher key, which let's say is 'multiply by 3', so that you get 
+`27 9 15 9 54 15 3 39`, and then Bob, who also has the key can 'unlock' the encrypted message. The trouble with this system is that Eve can intercept this, and if she figures out the key, learns the secret. In this method the keys have to constantly be changed, and it's a complicated process for Alice to tell Bob the new key, because if she uses the old key and Eve knows the old key, then Eve also gets the new key. But this was the way things worked for a long time like the [Enigma Machine](https://en.wikipedia.org/wiki/Enigma_machine) in World War II, and being able to crack secrets were highly in demand during times of war.
 
-Let's look at a basic method, known as public key encryption. 
+Then in 1976 came the [Diffie-Hellman key exchange](https://en.wikipedia.org/wiki/Diffie–Hellman_key_exchange), one of the first public-key protocols. This introduced the asymmetric cipher, where the encrypting and decrypting keys are different, so Alice and Bob can now share a secret even if Eve is listening, since Alice does not have to communicate any key to Bob.
+
+The [RSA encryption scheme](https://en.wikipedia.org/wiki/RSA_(algorithm)), invented the next year, put this in practice. And this is where number theory comes in. Here's a toy example of how it works: 
+
+1. Alice picks two prime numbers, let say `p` and `q`. Their product `N = pq` is the public key.
+2. Alice picks a number `e` relatively prime to `p-1` and `q-1`. This is also made public.
+3. Bob wants to tell Alice a message `M`, so he encrypts it as `C = M^e (mod N)` and sends this.
+4. Alice solves for a number `d` such that `ed = 1 (mod (p-1)(q-1))`.
+5. Alice decodes by calculating `C^d (mod N)`, and the answer is equal to `M`.
+
+In real life, the primes are much larger, on the scale of hundreds of digits long, so that factoring `N` would be practically impossible unless you were Alice. This is necessary since the decryption key requires knowing the values `p-1` and `q-1`.
 
 #### Surveillance
 
-Coming soon.. 
+More to come!
