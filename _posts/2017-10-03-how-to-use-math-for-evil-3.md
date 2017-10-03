@@ -28,11 +28,11 @@ The basic idea of encryption is simple: Alice wants to tell Bob a secret, and if
 I C E C R E A M ---> 9 3 5 3 18 5 1 13
 ```
 Now the trick is to use a cipher key, which let's say is 'multiply by 3', so that you get 
-`27 9 15 9 54 15 3 39`, and then Bob, who also has the key can 'unlock' the encrypted message. The trouble with this system is that Eve can intercept this, and if she figures out the key, learns the secret. In this method the keys have to constantly be changed, and it's a complicated process for Alice to tell Bob the new key, because if she uses the old key and Eve knows the old key, then Eve also gets the new key. But this was the way things worked for a long time like the [Enigma Machine](https://en.wikipedia.org/wiki/Enigma_machine) in World War II, and being able to crack secrets were highly in demand during times of war.
+`27 9 15 9 54 15 3 39`, and then Bob, who also has the key can 'unlock' the encrypted message. The trouble with this system is that Eve can intercept this, and if she figures out the key, learns the secret. In this method the keys have to constantly be changed, and it's a complicated process for Alice to tell Bob the new key, because if she uses the old key and Eve knows the old key, then Eve also gets the new key. But this was the way things worked for a long time like the [Enigma Machine](https://en.wikipedia.org/wiki/Enigma_machine) in World War II, and being able to crack secrets was highly in demand during times of war.
 
 Then in 1976 came the [Diffie-Hellman key exchange](https://en.wikipedia.org/wiki/Diffie–Hellman_key_exchange), one of the first public-key protocols. This introduced the asymmetric cipher, where the encrypting and decrypting keys are different, so Alice and Bob can now share a secret even if Eve is listening, since Alice does not have to communicate any key to Bob.
 
-The [RSA encryption scheme](https://en.wikipedia.org/wiki/RSA_(algorithm)), invented the next year, put this in practice. And this is where number theory comes in: the fact that the procedure works is guaranteed by [Fermat's Little Theorem](https://en.wikipedia.org/wiki/Fermat%27s_little_theorem). Here's a toy example of how it works: 
+The [RSA encryption scheme](https://en.wikipedia.org/wiki/RSA_(algorithm)), invented the next year, put this into practice. And this is where number theory comes in: the fact that the procedure works is guaranteed by [Fermat's Little Theorem](https://en.wikipedia.org/wiki/Fermat%27s_little_theorem). Here's a toy example of how it works: 
 
 1. Alice picks two prime numbers, let say `p` and `q`. Their product `N = pq` is the public key.
 2. Alice picks a number `e` relatively prime to `p-1` and `q-1`. This is also made public.
@@ -40,7 +40,7 @@ The [RSA encryption scheme](https://en.wikipedia.org/wiki/RSA_(algorithm)), inve
 4. Alice solves for a number `d` such that `ed = 1 (mod (p-1)(q-1))`.
 5. Alice decodes by calculating `C^d (mod N)`, and the answer is equal to `M`.
 
-In real life, the primes are much larger, on the scale of hundreds of digits long, so that factoring `N` would be practically impossible unless you were Alice. This is necessary since the decryption key requires knowing the values `p-1` and `q-1`. Also, in practice, public-key takes a huge amount of computer time, so what really happens when you tell Amazon your credit card number is a hybrid of public *and* private key cryptography.
+In real life, the primes are much larger, on the order of hundreds of digits long, so that factoring `N` would be practically impossible unless you were Alice. This is necessary since the decryption key requires knowing the values `p-1` and `q-1`. Also, in practice, public-key takes a huge amount of computer time, so what really happens when you tell Amazon your credit card number is a hybrid of public *and* private key cryptography.
 
 As you can see, public-key cryptography depends on certain mathematical operations (like factoring!) being hard. More sophisticated methods have been developed, balancing security  and efficiency as one often comes at the cost of the other. An important example comes from the world of number theory, called [Elliptic Curve Crytography](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography), or ECC. It uses a certain multiplicative rule on an elliptic curve that looks like `y^3 = x^3 + ax + b`. There are even recommended elliptic curves, i.e., parameters `a` and `b` for government use. 
 
