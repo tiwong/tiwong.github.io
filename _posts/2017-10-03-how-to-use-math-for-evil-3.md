@@ -17,6 +17,8 @@ And in keeping with the theme from Part 2, Obama's so-called presidential kill l
 
 > "We kill people based on metadata."
 
+For one, The person targeted by the drone strike is merely a *suspect*, and we know this to be faulty knowledge at times from various reports over the years. Secondly, any civilian casualties, of which there are many, gets written off as collateral damage.
+
 He later qualified his statement that the US government only kills foreigners, not US citizens this way. But even if you were a US citizen, you certainly have reason to worry. As mentioned in the last post, US warfare tactics abroad do find their way back home. Good examples are the counterinsurgency measures used at police-brutality protests like [in Ferguson and Baltimore](https://gizmodo.com/welcome-to-the-new-age-of-counterinsurgency-policing-1702621152),  and counterterrorism tactics used at the [Dakota Access Pipeline protest](https://theintercept.com/2017/05/27/leaked-documents-reveal-security-firms-counterterrorism-tactics-at-standing-rock-to-defeat-pipeline-insurgencies/) at Standing Rock. Not to mention the fact that the militarisation of US police force is a direct outcome of government policy like the 1997 [1033 program](https://en.wikipedia.org/wiki/1033_program) and [more recent presidential orders](https://www.theguardian.com/us-news/2017/aug/28/donald-trump-news-police-military-style-weapons-vehicles), giving surplus military equipment to civilian law enforcement services.
 
 #### Public-key cryptography 
