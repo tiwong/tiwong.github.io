@@ -11,13 +11,4 @@ In this final part of the series, we'll look at how mathematics operates within 
 
 #### An ethnography
 
-What we'll look at in this post does not directly involve the content of pure, or even applied mathematics, but rather the culture of mathematics, and the power structures that support it.
-
-#### Adjunctification
-
-
-#### 
-
-Ivory tower? Capitalism? Power structures? Social inequalities complicity 
-
-https://www.vox.com/2017/9/11/16270316/college-mobility-culture
+Coming soon!
