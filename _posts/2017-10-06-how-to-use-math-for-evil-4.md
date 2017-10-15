@@ -9,8 +9,59 @@ categories: data
 
 In the final part of this series, we'll look at how mathematics operates within academia. I won't be touching on this in the talk as it's more of a special interest topic; also this is possibly professionally risky as someone far away from being a tenured professor. But the issues raised below are highly pertinent today, and it's important to be aware of the waters we swim in.
 
-#### An ethnography
-
 What we'll look at in this post does not directly involve the content of pure, or even applied mathematics, but rather the culture of modern mathematics, the power structures that support it and vice versa.
 
-Coming soon!
+#### An ethnography
+
+A well-known ethnography of a biological institute was conducted in the late 70s by sociologists Bruno Latour and Steve Woolgar. *Laboratory Life: The Construction of Scientific Facts* studied the social dimensions inherent in the production of scientific knowledge.
+
+> "Whereas we now have fairly detailed knowledge of the myths and circumcision rituals of exotic tribes, we remain relatively ignorant of the details of equivalent activity among tribes of scientists, whose work is commonly heralded as having startling or, at least, extremely significant effects on our civilisation." -- Bruno Latour (p.17)
+
+By and large, the tools of anthropological study are often applied in the direction that power is distributed. Of course, it's quite well known that it is the coloniser that gets to study the colonised, and inverting the lens of study often dredges up complaints like 'reverse racism.' This, like notions of white fragility when one's position of privilege is exposed, reflects upon the obvious lack of empathy inherent in hegemonic structures.
+
+The act of criticising the academy's complicity with oppressive systems is not new, but its persistence makes it imperative for us to continually consider its failings, to speak truth to power, and of course, acknowledge our own complicity wherever we witness it at work. Intersectional theories—of the non-mathematical kind!—tell us that working in the ivory tower, we necessarily operate within a multiplicity of oppressive systems at any given point in time. The fact that these often resonate with contemporary struggles locates the academy as another site of struggle and potential solidarity. Many of the issues discussed will not be particular to mathematics, but I will discuss them in the context of mathematics.
+
+The ethnography, that I mean to describe briefly, is my own witness of mathematics culture as observed in various institutions primarily in the US, Germany, and India. Most of all my two-month stay in the mathematics institute at Oberwolfach, where every week saw a different group of forty-odd mathematicians convene to discuss the most recent advances and problems in their field of specialisation.
+
+#### "Math is awesome and math culture is terrible"
+
+As such, the first point here is the *jet-setting academic*. Each week a different group of experts is summoned from across the world, which certainly requires a good deal of air travel. These are almost always sponsored by faculty grants or by the institution itself, which receives a fair amount of government funding. At most, this large, sustained carbon footprint is acknowledged—and I implicate myself in this—with a somewhat apologetic tone, but also with a disavowal of responsibility by invoking a perceived inevitability. The reality of one's socio-ecological responsibility is essentially waived by a fantasy that there really isn't anything that can be done about it. 
+
+As we shall see, the most pernicious stain on pure mathematics research is not that it could be actively used 'for evil,' but rather the widespread and deeply entrenched *apathy*. As the saying goes, "All that is necessary for evil to triumph is for good men to do nothing."
+
+A second point, is what is derisively called *the cult of genius*. While certainly there are those who are more naturally gifted in mathematics, the cult of genius that is pervasive in mathematics—not to mention the ageism inherent in the Fields Medal which only serves to exacerbate this notion—has a damaging effect on ordinary students of mathematics. This stereotype goes against the growth mindset and resilience that ought instead to be nurtured in students. [According](https://www.inc.com/kimberly-weisul/how-harvey-mudd-college-achieved-gender-parity-computer-science-engineering-physics.html) to Maria Klawe, President of Harvey Mudd College,
+
+> "In disciplines that say it's about innate ability, there are fewer women."
+
+But not only are there less fewer women, but it stand to reason from the more general phenomenon that success college is [biased against minority groups](https://www.vox.com/2017/9/11/16270316/college-mobility-culture), that those who largely succeed are white males. And this is provably the true. 
+
+#### Mathematics from the Margins
+
+Let's talk a little more about the *cis-het white male*. Though mathematicians as a whole like to view themselves as a left-leaning community, it remains that the majority of mathematicians, alive or dead, are white male and cisgender heterosexual. This is particularly important, because the old white boys club, left to its own devices, will perpetuate itself, as demonstrated in [this informal experiment](https://www.scientificamerican.com/article/male-scientists-share-more-but-only-with-other-men/). And it is only a small saving grace that mathematics does not require field trips, which is a hotbed of sexual harassment by senior male professors, as it is slowly being [made known](http://www.sciencemag.org/news/2017/10/disturbing-allegations-sexual-harassment-antarctica-leveled-noted-scientist).
+
+Many inroads have been made by groups such as the Association for Women in Mathematics (AWM), but much more work remains to be done for those in ethnic and sexual minorities. Piper Harron, who has been voicing out against the issues she has faced as a black woman in mathematics has been met with much opposition, but has been supported on the new AMS blog Inclusion/Exclusion\footnote{\tt{https://blogs.ams.org/inclusionexclusion}}. I encourage you to read everything she has written on the topic on [her blog](http://www.theliberatedmathematician.com/blog/). From the introduction to her doctoral dissertation:
+
+> "Respected research math is dominated by men of a certain attitude. Even allowing for individual variation, there is still a tendency towards an oppressive atmosphere, which is carefully maintained and even championed by those who find it conducive to success. [...] The problem was not individuals, but a system of self-preservation that, from the outside, feels like a long string of betrayals, some big, some small, perpetrated by your only support system." —Piper Harron
+
+On the other hand [Spectra](https://lgbtmath.org), an association for LGBT+ mathematicians, was recently founded to provide recognition and community for gender and sexual minority mathematicians. Though, as noted by its co-founder Mike Hill, gender is performative, and in mathematical spaces it is rarely discussed. This comes back to the point of apathy: mathematics pretends to be color-blind and gender-blind, but the position of not taking a position is never neutral.
+
+The stereotype of asians being predominantly good at mathematics is part of a larger problem that is *the model minority myth*. While some might argue it is a positive stereotype, it is in fact damaging to asian americans as a community, being held to a higher standard when their innate ability to succeed in mathematics is no better or worse than anyone else's. Rather, it is important to recognise that the model minority myth is a pillar supporting anti-black racism, and is historically facilitated by US immigration policies favouring wealthy, highly educated elites from asia to immigrate. Indeed, much of the racial representation that we see in the US mathematical community is in fact internationally 'sourced', and as such, professional mathematicians home-grown in the US remains sorely lacking in diversity.
+
+Piper sums it up thus: [Math is awesome and math culture is terrible](http://www.thehindu.com/thread/arts-culture-society/article9022211.ece).
+
+#### The adjunctification of the Academy
+
+Implicitly, what I've described above pertains mainly to research mathematics, or mathematics performed by tenured or tenure-track faculty. As a proportion of those who teach mathematics in the college classroom, this is steadily decreasing, giving way to a growing army of contingent labor in the US academic system. Adjunct instructors are contract workers with little access to labour unions, health insurance, and proper workspaces. They are paid at a far lower rate than their faculty counterparts, and so cost universities much less to hire. For example, my own PhD advisor was convinced that since his retirement, his tenured position would be divided into several adjunct positions instead.
+
+The adjunctification of academia exacerbates the labor struggle even of knowledge workers, creating what a class difference within the faculty lounge, not just the classroom. Indeed, while adjuncting as a graduate student, at the end of every semester I received a letter saying that there was no guarantee that my position would be renewed, though I was assured by the chair that this was only a formality. For this reason, my time on the adjunct track was relatively protected, and as a graduate student it was understood that this position was only temporary. But for many others who have already earned doctorates but unable to land a tenure track get relegated to the 'adjunct track', a sort of eternal limbo. More extreme cases have grabbed the headlines such as [Facing poverty, academics turn to sex work and sleeping in cars](https://www.theguardian.com/us-news/2017/sep/28/adjunct-professors-homeless-sex-work-academia-poverty).
+
+Adjunct labor is itself a product of the university as a capitalist institution producing far more aspiring academics than the academy itself can sustain. In turn the increasing number of trained intellectuals being subjected to oppressive labor conditions simply increase the likelihood that these intellectuals will become [radicalised against the academy](https://www.nytimes.com/2017/09/30/opinion/sunday/adjunct-professors-politics.html), which of course will find resistance by the host institutions themselves, which are inherently conservative. And all this not to mention the effect this has on [the students that the adjuncts teach](https://www.theatlantic.com/education/archive/2015/05/the-cost-of-an-adjunct/394091/). The conditions under which adjuncts labour under necessarily reduces the quality of their teaching, though this weakness must be hidden away, say, in the form of grade inflation, in order to preserve the adjunct's job.
+
+
+#### "The psychological brutality of the post-doctoral system"
+
+This precarity also extends to other forms of temporary labor in the academic workforce, even if slightly more respectable. The plight of postdocs in a publish-or-perish environment has brought to light issues of mental health in academia, for example a [particular case of suicide](https://www.theguardian.com/science/head-quarters/2017/aug/10/the-human-cost-of-the-pressures-of-postdoctoral-research) which led to controversy in a subsequent publication. An excerpt of the acknowledgements of Oliver Roston, in memory of his former colleague Francis Dolan:
+
+> "I am firmly of the conviction that the psychological brutality of the post-doctoral system played a strong underlying role in Francis’ death. I would like to take this opportunity, should anyone be listening, to urge those within academia in roles of leadership to do far more to protect members of the community suffering from mental health problems, particularly during the most vulnerable stages of their careers."
+
+The current trial-by-fire of the itinerant postdoc before going to bat for a tenure-track faculty position can be costly, in terms of mental health and emotional stability. Because of the nature of the acknowledgment, the paper was declined to be published by two journals, though the physics contained in the paper was up to standard, and finally accepted by a third journal.

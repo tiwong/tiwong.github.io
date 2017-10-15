@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Mapping the Empire: A database of injustice"
+title:  "Mapping the Empire"
 date:   2017-01-04 12:50:45 +0100
 categories: data
 ---
 
 Access the [Project Site](https://tiwong.github.io/database_alpha/) here. (It's under construction!)
+
+#### A database of injustice
 
 **Problem:** Often in news reports, investigative journalism pieces, and various exposeés of injustices that occur at home and abroad, we take notice, shelve it in our minds, and then move on. Maybe at some point we feel a little outraged, become a little more aware, whatever.
 

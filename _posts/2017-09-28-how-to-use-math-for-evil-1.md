@@ -59,9 +59,14 @@ This last one is pretty well-known, so I'll just point to a few fun examples: An
 
 Finally, as a handy guide to readers, Huff gives us some pointers on `how to talk back to a statistic', with a set of five questions, when faced with a statistic: 
 
-- Who says so?
-- How do they know?
-- Did they change the subject?
-- Does it make sense? 
+1. **Who says so?** This means going to the source, looking for who conducted the study, and not merely who is reporting the study. 
+
+2. **How do they know?** This asks how the statistic was obtained, what evidence that it is methodologically sound, and no bias has occurred.
+
+3. **What's missing?** This requires reading between the lines. For example, looking for error estimates, sample sizes, and so on. Many statistical studies in the news are conducted in the US, so when a statistic says `x%` of *all*, you should ask what *all* refers to.
+
+4. **Did they change the subject?** Are apples being compared to oranges? Are the conclusions in fact supported by the statistic? 
+
+5. **Does it make sense?** This is slightly ambiguous, but it's important. It's asking whether the statistic makes sense in context, looking at the larger picture. As you 'talk back' to more statistics, the more intuition you'll gain about this.
 
 So we've seen what sort of trickery can be done even without the use of very much technology. Next we'll take a look at what happens when you throw in computers and the internet into the mix. On to Part 2!
