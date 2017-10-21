@@ -5,11 +5,11 @@ date:   2017-10-16 12:50:45 +0100
 categories: climate
 ---
 
-I read somewhere, with regards to the Trump adminstration, that experts on authoritarianism warn that you should keep a list of the changes that are happening so as not to forget the way things were, that the new normal is *not* normal. The erosion of civil liberties is exactly that: a slow chipping away at your fundamental rights, so that by the time you realise what is happening, it is already too late.
+I read somewhere, with regards to the Trump administration, that experts on authoritarianism warn that you should keep a list of the changes that are happening so as not to forget the way things were, that the new normal is *not* normal. The erosion of civil liberties is exactly that: a slow chipping away at your fundamental rights, so that by the time you realise what is happening, it is already too late.
 
 There's a chance what's going on with climate change is already too late, but only time will tell. This page maintains a list of phenomena around the world, related to global warming or climate change, and will be continually updated.
 
-As a scientist, I feel it's my duty encourage you to dig through to the original source when possible. Almost always, reporting about scientific progress is exaggerated and distorted. 
+As a scientist, I feel it's my duty encourage you to dig through to the original source when possible. Almost always, reporting about scientific progress is exaggerated and distorted. To start, here's a [primer](https://www.nytimes.com/interactive/2017/climate/what-is-climate-change.html) on climate change by the NYT.
 
 - 10/2017 [There's a climate bomb under your feet](https://www.bloomberg.com/news/articles/2017-10-06/there-s-a-climate-change-bomb-under-your-feet). "What they found, published yesterday in the journal Science, may mean the accelerating catastrophe of global warming has been fueled in part by warm dirt. As the Earth heats up, microbes in the soil accelerate the breakdown of organic materials and move on to others that may have once been ignored, each time releasing carbon dioxide into the atmosphere."
 

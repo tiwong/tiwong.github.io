@@ -22,7 +22,7 @@ Here's the maths page! First, a professional photo (©[MFO](https://opc.mfo.de/d
 
 6. Overconvergent L-packets and eigenvarieties, (with B. Balasubramanyam). Preprint available upon request.
 
-5. [Mock automorphic forms and the BPS index](MockAutBPS.pdf). Submitted. 
+5. [Mock automorphic forms and the BPS index](https://arxiv.org/abs/1710.06653). Submitted. 
 
 4. [Heights of CM-cyles and derivatives of L-series](https://arxiv.org/abs/1708.05820), (with Y. Elias). Submitted.
 
