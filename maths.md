@@ -20,7 +20,9 @@ Here's the maths page! First, a professional photo (©[MFO](https://opc.mfo.de/d
 
 ### Preprints
 
-6. Overconvergent L-packets and eigenvarieties, (with B. Balasubramanyam). Preprint available upon request.
+7. Overconvergent L-packets and eigenvarieties, (with B. Balasubramanyam). Preprint available upon request.
+
+6. [Shifts of the sum of prime divisor function of Alladi and Erdős](https://arxiv.org/abs/1710.10875), (with S. Shekatkar). Submitted.
 
 5. [Mock automorphic forms and the BPS index](https://arxiv.org/abs/1710.06653). Submitted. 
 
