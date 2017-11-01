@@ -18,9 +18,9 @@ Here's the maths page! First, a professional photo (©[MFO](https://opc.mfo.de/d
 
 3. The balanced Voronoi formula for GL(n,F), (with G. Cherubini).
 
-### Preprints
+4. Eigenvarieties and L-packets on GSp(4),  (with B. Balasubramanyam).
 
-7. Overconvergent L-packets and eigenvarieties, (with B. Balasubramanyam). Preprint available upon request.
+### Preprints
 
 6. [Shifts of the sum of prime divisor function of Alladi and Erdős](https://arxiv.org/abs/1710.10875), (with S. Shekatkar). Submitted.
 
@@ -40,15 +40,15 @@ Here's the maths page! First, a professional photo (©[MFO](https://opc.mfo.de/d
 
 ### Loose ends
 
-- An idea on connecting Bernstein's 'Stacks in Representation Theory' to infinity categories. [Slides](BeamerNUS.pdf), [PDF](AHT.pdf). 
-
 - An attempt to formulate the tensor product lift of GL(n) x GL(m) representations in terms of the Hitchin fibration <a href="Tensor products.pdf">PDF</a>
+
+- An idea on connecting Bernstein's 'Stacks in Representation Theory' to infinity categories. [Slides](BeamerNUS.pdf), [PDF](AHT.pdf). 
 
 - Generalizing work of Fouvry, Kowalski, Michel, on bilinear sums at AWS 2016. (with S. Chow, A. Gafni, D. Lowry-Duda, and T. Mao) <a href="BilinearSamv1.pdf">PDF</a>
 
 - An attempt to formulate the notion of a multiplicative genus for Levine's algebraic cobordism. (with E. Elmanto) <a href="A1Genus.pdf">PDF</a>
 
-- Problem session at Sarnak 61 conference – I was a scribe for the problem session held at Peter Sarnak’s 61st birthday conference. <a href="SarnakSession.pdf">PDF</a>
+- Problem session at Sarnak 61st conference. <a href="SarnakSession.pdf">PDF</a>
 
 
 I organized the <a href="langlands">Langlands Program Seminar</a> at the CUNY GC. Find the notes <a href="Langlands learning notes.pdf">here</a>.
