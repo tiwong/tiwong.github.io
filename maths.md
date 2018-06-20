@@ -10,16 +10,6 @@ Here's the maths page! First, a professional photo (©[MFO](https://opc.mfo.de/d
   
 <p>I'm currently a postdoctoral fellow at the Indian Institute of Science Education and Research (IISER), Pune; previously at the Max Planck Institut für Mathematik (MPIM), Bonn. My work focuses on the interplay between trace formulae and L-functions in the theory of automorphic forms and representation theory. I also like to think about interactions between homotopy theory and number theory.</p>
 
-### In progress
-
-1. From binary Hermitian forms to Bianchi modular forms, (with C. Karabulut and D. Zagier).
-
-2. Eisenstein cocycles over imaginary quadratic fields II: p-adic L-functions (with J. Flórez and C. Karabulut).
-
-3. The balanced Voronoi formula for GL(n,F), (with G. Cherubini).
-
-4. Eigenvarieties and L-packets on GSp(4),  (with B. Balasubramanyam).
-
 ### Preprints
 
 6. [Shifts of the sum of prime divisor function of Alladi and Erdős](https://arxiv.org/abs/1710.10875), (with S. Shekatkar). Submitted.
@@ -55,6 +45,10 @@ I organized the <a href="langlands">Langlands Program Seminar</a> at the CUNY GC
 
 ### Some interesting courses I've taught:
 
+- <i>Fall 2018: Stochastic Processes - IISER Pune</i>
+
+  This course assumes a background in measure theoretic probability. We develop the basics of continuous martingales, then move on to Brownian motion, which sets the stage for stochastic integration, or Itô calculus. We then develop the theory of stochastic differential equations, and discuss applications to PDEs and also mathematical finance. Find the notes <a href="426Notes.pdf">here</a>.
+
 
 - <i>Spring 2016: Topics in Geometry - Vassar College</i>
 
@@ -70,7 +64,8 @@ I organized the <a href="langlands">Langlands Program Seminar</a> at the CUNY GC
 
 
 - IISER Pune
-	- Summer 2017: IISER Pune Summer Student Programme project mentor
+	- Fall 2019: Stochastic Processes
+	- Summer 2017: Summer Student Programme project mentor
 
 - Williams College
 	- Summer 2016: SMALL REU project mentor

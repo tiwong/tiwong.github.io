@@ -33,7 +33,6 @@ Access the [Project Site](https://tiwong.github.io/database_alpha/) here. (It's 
 
 - There should be a portion that highlights organizations and persons that are doing good work in these areas. (This might be a blog portion.)
 
-
 Check out this map, which I found later [link](http://iamangelfoundation.org/black-eyed-peas-reunite-for-wheresthelove-campaign-against-violence/) which is powered by ArcGIS. Also, MotherJones has developed some rad [open source tools](https://github.com/motherjones/story-tools) for their data-based journalism. 
 
 Who should benefit from this? For one, people like me who don't know or keep forgetting, who want to see the big, big picture, even if it overwhelms you. One day it could be beneficial to researchers, policy makers, administrators, activists. Students could use it for research, and better yet, contribute to it by doing more research.
