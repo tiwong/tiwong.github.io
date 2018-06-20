@@ -28,10 +28,9 @@ Here's the maths page! First, a professional photo (©[MFO](https://opc.mfo.de/d
 
 1. [On smoothing singularities of elliptic orbital integrals on GL(n) and Beyond Endoscopy](https://arxiv.org/abs/1608.05938), (with O.E. Gonzalez, C.H. Kwan, S.J. Miller, R. Van Peski). To appear in Journal of Number Theory.
 
+### Past teaching:
 
-### Some interesting courses I've taught:
-
-I organized the <a href="langlands">Langlands Program Seminar</a> at the CUNY GC. Find the notes <a href="Langlands learning notes.pdf">here</a>.
+I organized the <a href="langlands">Langlands Program Seminar</a> at the CUNY GC from 2014–2016. Find the notes <a href="Langlands learning notes.pdf">here</a>.
 
 - <i>Fall 2018: Stochastic Processes - IISER Pune</i>
 
@@ -48,11 +47,12 @@ I organized the <a href="langlands">Langlands Program Seminar</a> at the CUNY GC
   The first half of the course develops mathematical thinking in the sense of logic and proof; the second half of the course approaches social justice through matehmatical tools, considering how numbers can be used and misused. Text: <em>Rethinking Mathematics: Teaching Social Justice by the Numbers</em>, Eric Gutstein and Bob Peterson Eds., 2013
 
 
-### Past teaching:
+Complete list of courses:
 
-
+- Xiamen University Malaysia
+	- Summer 2018: Calculus I
 - IISER Pune
-	- Fall 2019: Stochastic Processes
+	- Fall 2018: Stochastic Processes
 	- Summer 2017: Summer Student Programme project mentor
 
 - Williams College
