@@ -8,7 +8,7 @@ Here's the maths page! First, a professional photo (©[MFO](https://opc.mfo.de/d
 
 ![MFOpic](https://opc.mfo.de/photoNormal?id=21800)
   
-<p>I'm currently a postdoctoral fellow at the Indian Institute of Science Education and Research (IISER), Pune; previously at the Max Planck Institut für Mathematik (MPIM), Bonn. My work focuses on the interplay between trace formulae and L-functions in the theory of automorphic forms and representation theory. I also like to think about interactions between homotopy theory and number theory.</p>
+<!--- <p>I'm currently a postdoctoral fellow at the Indian Institute of Science Education and Research (IISER), Pune; previously at the Max Planck Institut für Mathematik (MPIM), Bonn. My work focuses on the interplay between trace formulae and L-functions in the theory of automorphic forms and representation theory. I also like to think about interactions between homotopy theory and number theory.</p> ---> 
 
 ### Preprints
 
@@ -28,22 +28,10 @@ Here's the maths page! First, a professional photo (©[MFO](https://opc.mfo.de/d
 
 1. [On smoothing singularities of elliptic orbital integrals on GL(n) and Beyond Endoscopy](https://arxiv.org/abs/1608.05938), (with O.E. Gonzalez, C.H. Kwan, S.J. Miller, R. Van Peski). To appear in Journal of Number Theory.
 
-### Loose ends
-
-- An attempt to formulate the tensor product lift of GL(n) x GL(m) representations in terms of the Hitchin fibration <a href="Tensor products.pdf">PDF</a>
-
-- An idea on connecting Bernstein's 'Stacks in Representation Theory' to infinity categories. [Slides](BeamerNUS.pdf), [PDF](AHT.pdf). 
-
-- Generalizing work of Fouvry, Kowalski, Michel, on bilinear sums at AWS 2016. (with S. Chow, A. Gafni, D. Lowry-Duda, and T. Mao) <a href="BilinearSamv1.pdf">PDF</a>
-
-- An attempt to formulate the notion of a multiplicative genus for Levine's algebraic cobordism. (with E. Elmanto) <a href="A1Genus.pdf">PDF</a>
-
-- Problem session at Sarnak 61st conference. <a href="SarnakSession.pdf">PDF</a>
-
-
-I organized the <a href="langlands">Langlands Program Seminar</a> at the CUNY GC. Find the notes <a href="Langlands learning notes.pdf">here</a>.
 
 ### Some interesting courses I've taught:
+
+I organized the <a href="langlands">Langlands Program Seminar</a> at the CUNY GC. Find the notes <a href="Langlands learning notes.pdf">here</a>.
 
 - <i>Fall 2018: Stochastic Processes - IISER Pune</i>
 
