@@ -11,7 +11,19 @@ There's a chance what's going on with climate change is already too late, but on
 
 As a scientist, I feel it's my duty encourage you to dig through to the original source when possible. Almost always, reporting about scientific progress is exaggerated and distorted. To start, here's a [primer](https://www.nytimes.com/interactive/2017/climate/what-is-climate-change.html) on climate change by the NYT.
 
-- 01/2018 [2017 was one of the hottest years on record. And that was without El Niño.
+- 6/2018 [Carbon dioxide toxicity and climate change.](https://www.researchgate.net/publication/311844520_Carbon_dioxide_toxicity_and_climate_change_a_serious_unapprehended_risk_for_human_health) "The toxicity of CO2 for breathing has been well defined for high concentrations but it remains effectively unknown what level will compromise human health when individuals are perpetually exposed for their lifetime. There is evidence from the few studies of long-term low-level exposure that permanent exposure, to CO2 levels predicted by the end of the century, will have significant effects on humans."
+
+- 5/2018 [The third-degree world: cities that will be drowned by global warming](https://www.theguardian.com/cities/ng-interactive/2017/nov/03/three-degree-world-cities-drowned-global-warming)
+
+- 5/2018 [AirVisual Earth.](http://www.sciencemag.org/news/2016/11/watch-air-pollution-flow-across-planet-real-time) Watch air pollution flow across the planet in real time. Also, a Nature article on [the carbon footprint of global tourism.](https://www.nature.com/articles/s41558-018-0141-x) and a visualisation of the fact that [every Google search results in CO2 emissions.](https://theatln.tc/2G7BE0w)
+
+- 5/2018 [Alaskan Sea Ice](https://www.scientificamerican.com/article/shock-and-thaw-alaskan-sea-ice-just-took-a-steep-unprecedented-dive/)
+
+- 4/2018 [Antartica is turning into a snow globe.](https://qz.com/1249126/a-new-study-on-increased-snowfall-in-antarctica-shows-the-dramatic-pace-of-climate-change/) "Warmer temperatures mean more moisture in the air, which creates better conditions for snow over Antartica. So really, this is a sign of the same climate problems causing droughts, storms, and floods." Further north, the [Atlantic's circulation is weakest in 1600 years.](https://www.scientificamerican.com/article/slow-motion-ocean-atlantics-circulation-is-weakest-in-1-600-years/) "If hemisphere-spanning currents are slowing, greater flooding and extreme weather could be at hand." Also, [ocean heat waves are getting worse](https://www.scientificamerican.com/article/ocean-heat-waves-are-getting-worse/).
+
+- 3/2018 More on Greenland, [melting faster than any time in the last 400 years.](https://www.scientificamerican.com/article/greenland-is-melting-faster-than-any-time-in-the-last-400-years/) "Melting in western Greenland is now nearly double what it was at the end of the 19th century, research suggests.)
+
+- 1/2018 [2017 was one of the hottest years on record. And that was without El Niño.
 ](https://www.nytimes.com/interactive/2018/01/18/climate/hottest-year-2017.html) The title about says it all. Without El Niño, meaning that the world is now experiencing a weak La Niña, so average mean temperatures aren't expected to break records again until the next El Niño. Which is soon enough.
 
 - 10/2017 [Bitcoin energy consumption.](https://digiconomist.net/bitcoin-energy-consumption) Bitcoin's current estimated annual electricity consumption is around 33TWh, just a little more than Denmark, and a little less than Belarus. "Bitcoin’s biggest problem is not even its massive energy consumption, but that the network is mostly fueled by coal-fired power plants in China. Coal-based electricity is available at very low rates in this country. Even with a conservative emission factor, this results in an extreme carbon footprint for each unique Bitcoin transaction."
