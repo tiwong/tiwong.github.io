@@ -16,4 +16,4 @@ Some resources for learning about machine learning and artificial intelligence:
 [slides](https://www.slideshare.net/TessFerrandez/notes-from-coursera-deep-learning-courses-by-andrew-ng) by Tess Fernandez
 https://www.deeplearning.ai/
 
-$\sim$
+h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
