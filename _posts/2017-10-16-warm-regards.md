@@ -11,6 +11,8 @@ There's a chance what's going on with climate change is already too late, but on
 
 As a scientist, I feel it's my duty encourage you to dig through to the original source when possible. Almost always, reporting about scientific progress is exaggerated and distorted. To start, here's a [primer](https://www.nytimes.com/interactive/2017/climate/what-is-climate-change.html) on climate change by the NYT.
 
+- 7/2018 [The Teacher-Friendly Guide™ to Climate Change](https://teachclimatescience.wordpress.com/) looks like a great resource for teaching about climate change at the high school level. The e-book is free to download!
+
 - 6/2018 [Carbon dioxide toxicity and climate change.](https://www.researchgate.net/publication/311844520_Carbon_dioxide_toxicity_and_climate_change_a_serious_unapprehended_risk_for_human_health) "The toxicity of CO2 for breathing has been well defined for high concentrations but it remains effectively unknown what level will compromise human health when individuals are perpetually exposed for their lifetime. There is evidence from the few studies of long-term low-level exposure that permanent exposure, to CO2 levels predicted by the end of the century, will have significant effects on humans."
 
 - 5/2018 [The third-degree world: cities that will be drowned by global warming](https://www.theguardian.com/cities/ng-interactive/2017/nov/03/three-degree-world-cities-drowned-global-warming)
@@ -25,6 +27,8 @@ As a scientist, I feel it's my duty encourage you to dig through to the original
 
 - 1/2018 [2017 was one of the hottest years on record. And that was without El Niño.
 ](https://www.nytimes.com/interactive/2018/01/18/climate/hottest-year-2017.html) The title about says it all. Without El Niño, meaning that the world is now experiencing a weak La Niña, so average mean temperatures aren't expected to break records again until the next El Niño. Which is soon enough.
+
+- 11/2017 [Watch climate change in real time](https://www.vox.com/energy-and-environment/2017/11/21/16685876/climate-change-clock-ticker-global-warming-gif) with these trackers. These tickers show the unrelenting rise in global temperatures and carbon dioxide.
 
 - 10/2017 [Bitcoin energy consumption.](https://digiconomist.net/bitcoin-energy-consumption) Bitcoin's current estimated annual electricity consumption is around 33TWh, just a little more than Denmark, and a little less than Belarus. "Bitcoin’s biggest problem is not even its massive energy consumption, but that the network is mostly fueled by coal-fired power plants in China. Coal-based electricity is available at very low rates in this country. Even with a conservative emission factor, this results in an extreme carbon footprint for each unique Bitcoin transaction."
 

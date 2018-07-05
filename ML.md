@@ -13,7 +13,7 @@ Some resources for learning about machine learning and artificial intelligence:
 
 - [Tensor Flow](https://www.tensorflow.org/) webpage. Lots of great tutorials.
 
-
+- [CVDazzle](https://cvdazzle.com/) "An open source face detection toolkit is being developed to evaluate looks using haar, dlib, ssd, and yolo face detectors."
 
 
 

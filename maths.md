@@ -46,8 +46,13 @@ I organized the <a href="langlands">Langlands Program Seminar</a> at the CUNY GC
 
   The first half of the course develops mathematical thinking in the sense of logic and proof; the second half of the course approaches social justice through matehmatical tools, considering how numbers can be used and misused. Text: <em>Rethinking Mathematics: Teaching Social Justice by the Numbers</em>, Eric Gutstein and Bob Peterson Eds., 2013
 
+### Links
 
-Complete list of courses:
+- [The Liberated Mathematician](http://www.theliberatedmathematician.com/) the webpage of woke mathematician Piper Harron
+- [Alice's Adventures in Numberland](https://sites.google.com/site/numberlandadventures/) stories of gender discrimination in mathematics by Alice Silverberg
+
+
+<!---Complete list of courses:
 
 - Xiamen University Malaysia
 	- Summer 2018: Calculus I
@@ -76,4 +81,4 @@ Complete list of courses:
 	- Summer 2012: Pre-Calculus
 - Bronx Community College
 	- Spring 2012: Arithmetic and Algebra
-	- Fall 2011: Arithmetic and Algebra
+	- Fall 2011: Arithmetic and Algebra --->
