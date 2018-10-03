@@ -12,7 +12,7 @@ Here's the maths page! First, a professional photo (©[MFO](https://opc.mfo.de/d
 
 ### Preprints
 
-6. Lattice points in quadratic irrational polytopes, with Y. Gaur.
+6. [Lattice points in quadratic irrational polytopes](https://arxiv.org/abs/1810.01065), with Y. Gaur. Submitted.
 
 5. [Shifts of the sum of prime divisor function of Alladi and Erdős](https://arxiv.org/abs/1710.10875), (with S. Shekatkar). Submitted.
 
