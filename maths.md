@@ -12,13 +12,13 @@ Here's the maths page! First, a professional photo (©[MFO](https://opc.mfo.de/d
 
 ### Preprints
 
-6. [Shifts of the sum of prime divisor function of Alladi and Erdős](https://arxiv.org/abs/1710.10875), (with S. Shekatkar). Submitted.
+6. Lattice points in quadratic irrational polytopes, with Y. Gaur.
 
-5. [Mock automorphic forms and the BPS index](https://arxiv.org/abs/1710.06653). Submitted. 
+5. [Shifts of the sum of prime divisor function of Alladi and Erdős](https://arxiv.org/abs/1710.10875), (with S. Shekatkar). Submitted.
 
-4. [Heights of CM-cyles and derivatives of L-series](https://arxiv.org/abs/1708.05820), (with Y. Elias). Submitted.
+4. [Mock automorphic forms and the BPS index](https://arxiv.org/abs/1710.06653). Submitted. 
 
-3. [Biases in prime factorizations and Liouville functions for arithmetic progressions](https://arxiv.org/abs/1704.07979), (with P. Humphries and S. Shekatkar). Submitted. [Latest](ParityFinal.pdf) 
+3. [Heights of CM-cyles and derivatives of L-series](https://arxiv.org/abs/1708.05820), (with Y. Elias). Submitted.
 
 2. [Eisenstein cocycles over imaginary quadratic fields I: Values of L-functions](https://arxiv.org/abs/1611.08565), (with J. Flórez and C. Karabulut). Submitted.
 
@@ -26,9 +26,11 @@ Here's the maths page! First, a professional photo (©[MFO](https://opc.mfo.de/d
 
 ### Papers
 
-1. [On smoothing singularities of elliptic orbital integrals on GL(n) and Beyond Endoscopy](https://arxiv.org/abs/1608.05938), (with O.E. Gonzalez, C.H. Kwan, S.J. Miller, R. Van Peski). To appear in Journal of Number Theory.
+2. [Biases in prime factorizations and Liouville functions for arithmetic progressions](https://arxiv.org/abs/1704.07979), (with P. Humphries and S. Shekatkar). To appear in JTNB. [Latest](ParityFinal.pdf) 
 
-### Past teaching:
+1. [On smoothing singularities of elliptic orbital integrals on GL(n) and Beyond Endoscopy](https://arxiv.org/abs/1608.05938), (with O.E. Gonzalez, C.H. Kwan, S.J. Miller, R. Van Peski). Journal of Number Theory, 183C (2018) pp. 407-427.
+
+### Some past teaching:
 
 I organized the <a href="langlands">Langlands Program Seminar</a> at the CUNY GC from 2014–2016. Find the notes <a href="Langlands learning notes.pdf">here</a>.
 
