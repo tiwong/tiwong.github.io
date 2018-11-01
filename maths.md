@@ -12,9 +12,7 @@ Here's the maths page! First, a professional photo (©[MFO](https://opc.mfo.de/d
 
 ### Preprints
 
-6. [Lattice points in quadratic irrational polytopes](https://arxiv.org/abs/1810.01065), with Y. Gaur. Submitted.
-
-5. [Shifts of the sum of prime divisor function of Alladi and Erdős](https://arxiv.org/abs/1710.10875), (with S. Shekatkar). Submitted.
+5. [Lattice points in quadratic irrational polytopes](https://arxiv.org/abs/1810.01065), with Y. Gaur. Submitted.
 
 4. [Mock automorphic forms and the BPS index](https://arxiv.org/abs/1710.06653). Submitted. 
 
@@ -26,9 +24,24 @@ Here's the maths page! First, a professional photo (©[MFO](https://opc.mfo.de/d
 
 ### Papers
 
+3. [Shifts of the sum of prime divisor function of Alladi and Erdős](https://arxiv.org/abs/1710.10875), (with S. Shekatkar). To appear in IJNT. 
+
 2. [Biases in prime factorizations and Liouville functions for arithmetic progressions](https://arxiv.org/abs/1704.07979), (with P. Humphries and S. Shekatkar). To appear in JTNB. [Latest](ParityFinal.pdf) 
 
 1. [On smoothing singularities of elliptic orbital integrals on GL(n) and Beyond Endoscopy](https://arxiv.org/abs/1608.05938), (with O.E. Gonzalez, C.H. Kwan, S.J. Miller, R. Van Peski). Journal of Number Theory, 183C (2018) pp. 407-427.
+
+### In preparation
+
+1. Dasher, S., Herrida, A., and Wong, T.A., The three distance theorem and periodic functions.
+
+2. Balasubramanyam, B. and Wong, T.A., Eigenvarieties and L-packets on GSp(4).
+
+3. Banerjee, D. and Wong T.A., Eisenstein cycles over imaginary quadratic fields.
+
+4. Flórez, J.; Karabulut, C. and Wong, T.A., Eisenstein cocycles for GL(n) over imaginary quadratic fields II: p-adic L-functions.
+
+5. Wong, T.A., A summation formula for the stable trace formula.
+
 
 ### Some past teaching:
 
