@@ -65,6 +65,7 @@ I organized the <a href="langlands">Langlands Program Seminar</a> at the CUNY GC
 
 - [The Liberated Mathematician](http://www.theliberatedmathematician.com/) the webpage of woke mathematician Piper Harron
 - [Alice's Adventures in Numberland](https://sites.google.com/site/numberlandadventures/) stories of gender discrimination in mathematics by Alice Silverberg
+- [The Inclusion/Exclusion](https://blogs.ams.org/inclusionexclusion/) AMS Blog about underrepresented groups in mathematics
 
 
 <!---Complete list of courses:
