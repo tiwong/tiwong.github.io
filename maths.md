@@ -32,7 +32,7 @@ Here's the maths page! First, a professional photo (©[MFO](https://opc.mfo.de/d
 
 ### In preparation
 
-1. Dasher, S., Herrida, A., and Wong, T.A., The three distance theorem and periodic functions.
+1. Dasher, S., Hermida, A., and Wong, T.A., The three distance theorem and periodic functions.
 
 2. Balasubramanyam, B. and Wong, T.A., Eigenvarieties and L-packets on GSp(4).
 
