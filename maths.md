@@ -12,35 +12,21 @@ Here's the maths page! First, a professional photo (©[MFO](https://opc.mfo.de/d
 
 ### Preprints
 
-5. [Lattice points in quadratic irrational polytopes](https://arxiv.org/abs/1810.01065), with Y. Gaur. Submitted.
+4. [Lattice points in quadratic irrational polytopes](https://arxiv.org/abs/1810.01065), with Y. Gaur. Submitted.
 
-4. [Mock automorphic forms and the BPS index](https://arxiv.org/abs/1710.06653). Submitted. 
-
-3. [Heights of CM-cyles and derivatives of L-series](https://arxiv.org/abs/1708.05820), (with Y. Elias). Submitted.
+3. [Mock automorphic forms and the BPS index](https://arxiv.org/abs/1710.06653). Submitted. 
 
 2. [Eisenstein cocycles over imaginary quadratic fields I: Values of L-functions](https://arxiv.org/abs/1611.08565), (with J. Flórez and C. Karabulut). Submitted.
 
 1. [Lower bounds for Weil's Explicit Formula via Selberg's Trace Formula](https://arxiv.org/abs/1608.02296). Submitted.
 
-### Papers
+0. [Shifts of the sum of prime divisor function of Alladi and Erdős](https://arxiv.org/abs/1710.10875), (with S. Shekatkar). Submitted.
 
-3. [Shifts of the sum of prime divisor function of Alladi and Erdős](https://arxiv.org/abs/1710.10875), (with S. Shekatkar). To appear in IJNT. 
+### Papers
 
 2. [Biases in prime factorizations and Liouville functions for arithmetic progressions](https://arxiv.org/abs/1704.07979), (with P. Humphries and S. Shekatkar). To appear in JTNB. [Latest](ParityFinal.pdf) 
 
 1. [On smoothing singularities of elliptic orbital integrals on GL(n) and Beyond Endoscopy](https://arxiv.org/abs/1608.05938), (with O.E. Gonzalez, C.H. Kwan, S.J. Miller, R. Van Peski). Journal of Number Theory, 183C (2018) pp. 407-427.
-
-### In preparation
-
-1. Dasher, S., Hermida, A., and Wong, T.A., The three distance theorem and periodic functions.
-
-2. Balasubramanyam, B. and Wong, T.A., Eigenvarieties and L-packets on GSp(4).
-
-3. Banerjee, D. and Wong T.A., Eisenstein cycles over imaginary quadratic fields.
-
-4. Flórez, J.; Karabulut, C. and Wong, T.A., Eisenstein cocycles for GL(n) over imaginary quadratic fields II: p-adic L-functions.
-
-5. Wong, T.A., A summation formula for the stable trace formula.
 
 
 ### Some past teaching:
@@ -69,6 +55,21 @@ I organized the <a href="langlands">Langlands Program Seminar</a> at the CUNY GC
 
 
 <!---Complete list of courses:
+### In preparation
+
+
+3. [Heights of CM-cyles and derivatives of L-series](https://arxiv.org/abs/1708.05820), (with Y. Elias). Submitted.
+
+
+1. Dasher, S., Hermida, A., and Wong, T.A., The three distance theorem and periodic functions.
+
+2. Balasubramanyam, B. and Wong, T.A., Eigenvarieties and L-packets on GSp(4).
+
+3. Banerjee, D. and Wong T.A., Eisenstein cycles over imaginary quadratic fields.
+
+4. Flórez, J.; Karabulut, C. and Wong, T.A., Eisenstein cocycles for GL(n) over imaginary quadratic fields II: p-adic L-functions.
+
+5. Wong, T.A., A summation formula for the stable trace formula.
 
 - Xiamen University Malaysia
 	- Summer 2018: Calculus I
