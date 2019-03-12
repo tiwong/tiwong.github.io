@@ -15,21 +15,21 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 
 ### Preprints
 
-5. [Lattice points in quadratic irrational polytopes](https://arxiv.org/abs/1810.01065), with Y. Gaur. Submitted.
+1. [Lattice points in quadratic irrational polytopes](https://arxiv.org/abs/1810.01065), with Y. Gaur. Submitted.
 
-4. [Mock automorphic forms and the BPS index](https://arxiv.org/abs/1710.06653). Submitted. 
+2. [Mock automorphic forms and the BPS index](https://arxiv.org/abs/1710.06653). Submitted. 
 
 3. [Eisenstein cocycles over imaginary quadratic fields I: Values of L-functions](https://arxiv.org/abs/1611.08565), (with J. Flórez and C. Karabulut). Submitted.
 
-2. [Lower bounds for Weil's Explicit Formula via Selberg's Trace Formula](https://arxiv.org/abs/1608.02296). Submitted.
+4. [Lower bounds for Weil's Explicit Formula via Selberg's Trace Formula](https://arxiv.org/abs/1608.02296). Submitted.
 
-1. [Shifts of the sum of prime divisor function of Alladi and Erdős](https://arxiv.org/abs/1710.10875), (with S. Shekatkar). Submitted.
+5. [Shifts of the sum of prime divisor function of Alladi and Erdős](https://arxiv.org/abs/1710.10875), (with S. Shekatkar). Submitted.
 
 ### Papers
 
-2. [Biases in prime factorizations and Liouville functions for arithmetic progressions](https://arxiv.org/abs/1704.07979), (with P. Humphries and S. Shekatkar). To appear in JTNB. [Latest](ParityFinal.pdf) 
+1. [Biases in prime factorizations and Liouville functions for arithmetic progressions](https://arxiv.org/abs/1704.07979), (with P. Humphries and S. Shekatkar). To appear in JTNB. [Latest](ParityFinal.pdf) 
 
-1. [On smoothing singularities of elliptic orbital integrals on GL(n) and Beyond Endoscopy](https://arxiv.org/abs/1608.05938), (with O.E. Gonzalez, C.H. Kwan, S.J. Miller, R. Van Peski). Journal of Number Theory, 183C (2018) pp. 407-427.
+2. [On smoothing singularities of elliptic orbital integrals on GL(n) and Beyond Endoscopy](https://arxiv.org/abs/1608.05938), (with O.E. Gonzalez, C.H. Kwan, S.J. Miller, R. Van Peski). Journal of Number Theory, 183C (2018) pp. 407-427.
 
 
 ### Some past teaching:
