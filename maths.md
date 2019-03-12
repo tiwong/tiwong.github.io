@@ -4,7 +4,10 @@ title: Maths
 permalink: /maths/
 ---
 
-Here's the maths page! <!--- First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
+Here's the maths page! 
+
+<!--- 
+First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 
 ![MFOpic](https://opc.mfo.de/photoNormal?id=21800)
   
@@ -12,15 +15,15 @@ Here's the maths page! <!--- First, a professional photo (©[MFO](https://opc.mf
 
 ### Preprints
 
-4. [Lattice points in quadratic irrational polytopes](https://arxiv.org/abs/1810.01065), with Y. Gaur. Submitted.
+5. [Lattice points in quadratic irrational polytopes](https://arxiv.org/abs/1810.01065), with Y. Gaur. Submitted.
 
-3. [Mock automorphic forms and the BPS index](https://arxiv.org/abs/1710.06653). Submitted. 
+4. [Mock automorphic forms and the BPS index](https://arxiv.org/abs/1710.06653). Submitted. 
 
-2. [Eisenstein cocycles over imaginary quadratic fields I: Values of L-functions](https://arxiv.org/abs/1611.08565), (with J. Flórez and C. Karabulut). Submitted.
+3. [Eisenstein cocycles over imaginary quadratic fields I: Values of L-functions](https://arxiv.org/abs/1611.08565), (with J. Flórez and C. Karabulut). Submitted.
 
-1. [Lower bounds for Weil's Explicit Formula via Selberg's Trace Formula](https://arxiv.org/abs/1608.02296). Submitted.
+2. [Lower bounds for Weil's Explicit Formula via Selberg's Trace Formula](https://arxiv.org/abs/1608.02296). Submitted.
 
-0. [Shifts of the sum of prime divisor function of Alladi and Erdős](https://arxiv.org/abs/1710.10875), (with S. Shekatkar). Submitted.
+1. [Shifts of the sum of prime divisor function of Alladi and Erdős](https://arxiv.org/abs/1710.10875), (with S. Shekatkar). Submitted.
 
 ### Papers
 
