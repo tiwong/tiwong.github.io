@@ -15,15 +15,21 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 
 ### Preprints
 
-1. [Lattice points in quadratic irrational polytopes](https://arxiv.org/abs/1810.01065), with Y. Gaur. Submitted.
+1. [Lattice points in quadratic irrational polytopes](https://arxiv.org/abs/1810.01065), (with Y. Gaur). 
 
-2. [Mock automorphic forms and the BPS index](https://arxiv.org/abs/1710.06653). Submitted. 
+2. [Mock automorphic forms and the BPS index](https://arxiv.org/abs/1710.06653). 
 
-3. [Eisenstein cocycles over imaginary quadratic fields I: Values of L-functions](https://arxiv.org/abs/1611.08565), (with J. Flórez and C. Karabulut). Submitted.
+3. [Eisenstein cocycles over imaginary quadratic fields I: Values of L-functions](https://arxiv.org/abs/1611.08565) (with J. Flórez and C. Karabulut).
 
-4. [Lower bounds for Weil's Explicit Formula via Selberg's Trace Formula](https://arxiv.org/abs/1608.02296). Submitted.
+4. [Lower bounds for Weil's Explicit Formula via Selberg's Trace Formula](https://arxiv.org/abs/1608.02296).
 
-5. [Shifts of the sum of prime divisor function of Alladi and Erdős](https://arxiv.org/abs/1710.10875), (with S. Shekatkar). Submitted.
+5. [Shifts of the sum of prime divisor function of Alladi and Erdős](https://arxiv.org/abs/1710.10875) (with S. Shekatkar).
+
+6. [On the balanced Voronoi formula for GL(n)](Voronoi.pdf)
+
+7. [On stable orbital integrals and the Steinberg-Hitchin base](stablegerms.pdf)
+
+9. [On the computational complexity of MSTD sets](https://arxiv.org/abs/1810.07358) (with T. Mathur).
 
 ### Papers
 
