@@ -15,9 +15,10 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 
 ### Papers
 
+2. [On smoothing singularities of elliptic orbital integrals on GL(n) and Beyond Endoscopy](https://arxiv.org/abs/1608.05938), (with O.E. Gonzalez, C.H. Kwan, S.J. Miller, R. Van Peski). Journal of Number Theory, 183C (2018) pp. 407-427.
+
 1. [Biases in prime factorizations and Liouville functions for arithmetic progressions](https://arxiv.org/abs/1704.07979), (with P. Humphries and S. Shekatkar). To appear in JTNB. [Latest](ParityFinal.pdf) 
 
-2. [On smoothing singularities of elliptic orbital integrals on GL(n) and Beyond Endoscopy](https://arxiv.org/abs/1608.05938), (with O.E. Gonzalez, C.H. Kwan, S.J. Miller, R. Van Peski). Journal of Number Theory, 183C (2018) pp. 407-427.
 
 ### Preprints
 
