@@ -13,29 +13,29 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
   
 <p>I'm currently a postdoctoral fellow at the UnIndian Institute of Science Education and Research (IISER), Pune; previously at the Max Planck Institut für Mathematik (MPIM), Bonn. My work focuses on the interplay between trace formulae and L-functions in the theory of automorphic forms and representation theory. I also like to think about interactions between homotopy theory and number theory.</p> ---> 
 
-### Preprints
-
-1. [Lattice points in quadratic irrational polytopes](https://arxiv.org/abs/1810.01065), (with Y. Gaur). 
-
-2. [Mock automorphic forms and the BPS index](https://arxiv.org/abs/1710.06653). 
-
-3. [Eisenstein cocycles over imaginary quadratic fields I: Values of L-functions](https://arxiv.org/abs/1611.08565) (with J. Flórez and C. Karabulut).
-
-4. [Lower bounds for Weil's Explicit Formula via Selberg's Trace Formula](https://arxiv.org/abs/1608.02296).
-
-5. [Shifts of the sum of prime divisor function of Alladi and Erdős](https://arxiv.org/abs/1710.10875) (with S. Shekatkar).
-
-6. [On the balanced Voronoi formula for GL(n)](Voronoi.pdf)
-
-7. [On stable orbital integrals and the Steinberg-Hitchin base](stablegerms.pdf)
-
-9. [On the computational complexity of MSTD sets](https://arxiv.org/abs/1810.07358) (with T. Mathur).
-
 ### Papers
 
 1. [Biases in prime factorizations and Liouville functions for arithmetic progressions](https://arxiv.org/abs/1704.07979), (with P. Humphries and S. Shekatkar). To appear in JTNB. [Latest](ParityFinal.pdf) 
 
 2. [On smoothing singularities of elliptic orbital integrals on GL(n) and Beyond Endoscopy](https://arxiv.org/abs/1608.05938), (with O.E. Gonzalez, C.H. Kwan, S.J. Miller, R. Van Peski). Journal of Number Theory, 183C (2018) pp. 407-427.
+
+### Preprints
+
+3. [Lattice points in quadratic irrational polytopes](https://arxiv.org/abs/1810.01065), (with Y. Gaur). 
+
+4. [Mock automorphic forms and the BPS index](https://arxiv.org/abs/1710.06653). 
+
+5. [Eisenstein cocycles over imaginary quadratic fields I: Values of L-functions](https://arxiv.org/abs/1611.08565) (with J. Flórez and C. Karabulut).
+
+6. [Lower bounds for Weil's Explicit Formula via Selberg's Trace Formula](https://arxiv.org/abs/1608.02296).
+
+7. [Shifts of the sum of prime divisor function of Alladi and Erdős](https://arxiv.org/abs/1710.10875) (with S. Shekatkar).
+
+8. [On the balanced Voronoi formula for GL(n)](Voronoi.pdf)
+
+9. [On stable orbital integrals and the Steinberg-Hitchin base](stablegerms.pdf)
+
+10. [On the computational complexity of MSTD sets](https://arxiv.org/abs/1810.07358) (with T. Mathur).
 
 
 ### Some past teaching:
