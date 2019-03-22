@@ -7,4 +7,4 @@ categories: theory
 
 Uploaded with permission of Bishop Roy I. Sano.
 
-[Enjoy!](/files/SanoReader1976.pdf)
+[Enjoy!](/files/SanoReader1976.pdf) (Warning: 62 MB file!)
