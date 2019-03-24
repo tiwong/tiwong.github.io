@@ -5,7 +5,7 @@ date:   2019-03-21 12:50:45 +0100
 categories: theory
 ---
 
-First up: [*The Theologies of Asian Americans and Pacific Peoples: A Reader* (1976)](/files/SanoReader1976.pdf) (warning: 62 MB!) uploaded with permission of compiler Bishop Roy I. Sano. 
+First up: [*The Theologies of Asian Americans and Pacific Peoples: A Reader* (1976)](/files/SanoReader1976.pdf) (warning: 62 MB!) uploaded with permission of compiler Bishop Roy I. Sano. Digitised by yours truly.
 
 Also, the revolutionary newspaper-magazine [*Gidra*](https://en.wikipedia.org/wiki/Gidra_(newspaper)) from 1969 to 1974 is available at the [Densho Digital Repository](http://ddr.densho.org/ddr/densho/297/).
 
