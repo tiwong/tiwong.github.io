@@ -7,6 +7,8 @@ Basics on machine learning and artificial intelligence:
 
  - Karen Hao's flowcharts on [AI](https://www.technologyreview.com/s/612404/is-this-ai-we-drew-you-a-flowchart-to-work-it-out/) and [ML](https://www.technologyreview.com/s/612437/what-is-machine-learning-we-drew-you-another-flowchart/)
 
+- [The Algorithm](https://docs.google.com/spreadsheets/d/1T-dcMyHk3rns6cKXlBCGBOdAjEP8na9SnxSuszQJ55Q/edit#gid=0) newsletter informal archive, by MIT Technology Review
+
 - [Deep Learning Book](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
 
 - [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com/) e-book by Michael Nielsen.
