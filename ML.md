@@ -21,6 +21,8 @@ Basics on machine learning and artificial intelligence:
 
 - [O'Neil Risk Consulting & Algorithmic Auditing](https://www.oneilrisk.com/)
 
+- [Calling Bullshit: Data Reasoning in a Digital World](https://callingbullshit.org/) course at University of Washington
+
 Data criticism:
 
 - [CVDazzle](https://cvdazzle.com/) "An open source face detection toolkit is being developed to evaluate looks using haar, dlib, ssd, and yolo face detectors."
