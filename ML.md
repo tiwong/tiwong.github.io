@@ -23,6 +23,8 @@ Basics on machine learning and artificial intelligence:
 
 - [Calling Bullshit: Data Reasoning in a Digital World](https://callingbullshit.org/) course at University of Washington
 
+- [Moral Machine](http://moralmachine.mit.edu/)
+
 Data criticism:
 
 - [CVDazzle](https://cvdazzle.com/) "An open source face detection toolkit is being developed to evaluate looks using haar, dlib, ssd, and yolo face detectors."
