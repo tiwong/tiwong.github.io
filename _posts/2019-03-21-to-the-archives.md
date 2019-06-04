@@ -5,7 +5,7 @@ date:   2019-03-21 12:50:45 +0100
 categories: theory
 ---
 
-Did you know Asian American liberation theology was a thing in the past? Well, it was. Alongside Black liberation theology, Latin American liberation theology, and white feminist liberation theology. What's left of it is hidden in dusty archives, most of it in the [Graduate Theological Union archives](https://oac.cdlib.org/findaid/ark:/13030/kt75804087/entire_text/). The second reader is digitsed by myself, with thanks to the Vancouver School of Theology, and the rest are thanks to D. Stiver at the GTU, posted with permission of Roy I. Sano.
+Did you know Asian American liberation theology was a thing in the past? Well, it was. Alongside Black liberation theology, Latin American liberation theology, and white feminist liberation theology. What's left of it is hidden in dusty archives, most of it in the [Graduate Theological Union archives](https://oac.cdlib.org/findaid/ark:/13030/kt75804087/entire_text/). I've managed to get some of them digitised. The second reader is done by myself, with thanks to the Vancouver School of Theology, and the rest are thanks to D. Stiver at the GTU, posted with permission of Roy I. Sano. 
 
 - [Amerasian Theology of Liberation: A Reader (1973)](/files/SanoReader1973.pdf) 
 - [Autobiographical Reflections for Amerasian Theology of Liberation (1973)](/files/SanoAutobiographical1973.pdf)
@@ -14,7 +14,7 @@ Did you know Asian American liberation theology was a thing in the past? Well, i
 
 For some context, check out:
 
--[*Roots: Asian American Movements in Los Angeles*](http://camla.org/wp-content/uploads/2017/05/CAM-Roots-Zine-2017.pdf) zine accompanying the "Roots: Asian American Movements 1968-80s" exhibit at the Chinese American Musuem, LA in 2017. The name harkens to the out of print 1971 *Roots: An Asian American Reader* edited by Amy Tachiki
+- [*Roots: Asian American Movements in Los Angeles*](http://camla.org/wp-content/uploads/2017/05/CAM-Roots-Zine-2017.pdf) zine accompanying the "Roots: Asian American Movements 1968-80s" exhibit at the Chinese American Musuem, LA in 2017. The name harkens to the out of print 1971 *Roots: An Asian American Reader* edited by Amy Tachiki
 - [*Gidra*](https://en.wikipedia.org/wiki/Gidra_(newspaper)), the revolutionary newspaper-magazine, from 1969 to 1974 is available at the [Densho Digital Repository](http://ddr.densho.org/ddr/densho/297/). 
 
 Some  books on the Asian American history of that era:
