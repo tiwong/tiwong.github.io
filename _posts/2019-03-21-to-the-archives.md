@@ -17,7 +17,7 @@ For some context, check out the [*Roots: Asian American Movements in Los Angeles
 - *Serve the People: Making Asian America in the Long Sixties,* Karen Ishizuka
 - *Legacy to Liberation: Politics and Culture of Revolutionary Asian Pacific America,* Fred Ho (ed)
 
-and for Asian American histories at large
+and for Asian American histories at large:
 
 - *American History Unbound: Asians and Pacific Islanders,* Gary Y. Okihiro
 -  *Asian American Dreams: The Emergence of an American People*, Helen Zia 
