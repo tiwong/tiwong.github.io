@@ -12,6 +12,14 @@ Did you know Asian American liberation theology was a thing in the past? Well, i
 - [East Asian and Amerasian Liberation: Second Conference on East Asian and Amerasian Theology (1975)](/files/SanoProceedings1975)
 - [The Theologies of Asian Americans and Pacific Peoples: A Reader (1976)](/files/SanoReader1976.pdf) (warning: 62 MB!)
 
+For some context, check out the [*Roots: Asian American Movements in Los Angeles*](http://camla.org/wp-content/uploads/2017/05/CAM-Roots-Zine-2017.pdf) zine accompanying the "Roots: Asian American Movements 1968-80s" exhibit at the Chinese American Musuem, LA in 2017. The name harkens to the out of print 1971 *Roots: An Asian American Reader* edited by Amy Tachiki. Also, the revolutionary newspaper-magazine [*Gidra*](https://en.wikipedia.org/wiki/Gidra_(newspaper)) from 1969 to 1974 is available at the [Densho Digital Repository](http://ddr.densho.org/ddr/densho/297/). Some other books on the Asian American history of that era:
 
+- *Serve the People: Making Asian America in the Long Sixties,* Karen Ishizuka
+- *Legacy to Liberation: Politics and Culture of Revolutionary Asian Pacific America,* Fred Ho (ed)
 
-For some context, check out the [*Roots: Asian American Movements in Los Angeles*](http://camla.org/wp-content/uploads/2017/05/CAM-Roots-Zine-2017.pdf) zine accompanying the "Roots: Asian American Movements 1968-80s" exhibit at the Chinese American Musuem, LA in 2017. The name harkens to the out of print 1971 *Roots: An Asian American Reader* edited by Amy Tachiki. Also, the revolutionary newspaper-magazine [*Gidra*](https://en.wikipedia.org/wiki/Gidra_(newspaper)) from 1969 to 1974 is available at the [Densho Digital Repository](http://ddr.densho.org/ddr/densho/297/).
+and for Asian American histories at large
+
+- *American History Unbound: Asians and Pacific Islanders,* Gary Y. Okihiro
+-  *Asian American Dreams: The Emergence of an American People*, Helen Zia 
+- *Strangers from a Different Shore: A History of Asian Americans,* Ronald Takaki
+-  *The Making of Asian America: A History*, Erika Lee
