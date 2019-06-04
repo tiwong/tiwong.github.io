@@ -14,8 +14,8 @@ Did you know Asian American liberation theology was a thing in the past? Well, i
 
 For some context, check out:
 
-- [*Roots: Asian American Movements in Los Angeles*](http://camla.org/wp-content/uploads/2017/05/CAM-Roots-Zine-2017.pdf) zine accompanying the "Roots: Asian American Movements 1968-80s" exhibit at the Chinese American Musuem, LA in 2017. The name harkens to the out of print 1971 *Roots: An Asian American Reader* edited by Amy Tachiki
-- [*Gidra*](https://en.wikipedia.org/wiki/Gidra_(newspaper)), the revolutionary newspaper-magazine, from 1969 to 1974 is available at the [Densho Digital Repository](http://ddr.densho.org/ddr/densho/297/). 
+- [Roots: Asian American Movements in Los Angeles](http://camla.org/wp-content/uploads/2017/05/CAM-Roots-Zine-2017.pdf), the zine accompanying the "Roots: Asian American Movements 1968-80s" exhibit at the Chinese American Musuem, LA in 2017. The name harkens to the out of print 1971 *Roots: An Asian American Reader* edited by Amy Tachiki
+- [Gidra](https://en.wikipedia.org/wiki/Gidra_(newspaper)), the revolutionary newspaper-magazine, from 1969 to 1974 is available at the [Densho Digital Repository](http://ddr.densho.org/ddr/densho/297/). 
 
 Some  books on the Asian American history of that era:
 
