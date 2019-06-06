@@ -9,7 +9,7 @@ Did you know Asian American liberation theology was a thing in the past? Well, i
 
 - [Amerasian Theology of Liberation: A Reader (1973)](/files/SanoReader1973.pdf) 
 - [Autobiographical Reflections for Amerasian Theology of Liberation (1973)](/files/SanoAutobiographical1973.pdf)
-- [East Asian and Amerasian Liberation: Second Conference on East Asian and Amerasian Theology (1975)](/files/SanoProceedings1975)
+- [East Asian and Amerasian Liberation: Second Conference on East Asian and Amerasian Theology (1975)](/files/SanoProceedings1975.pdf)
 - [The Theologies of Asian Americans and Pacific Peoples: A Reader (1976)](/files/SanoReader1976.pdf) (warning: 62 MB!)
 
 For some context, check out:
