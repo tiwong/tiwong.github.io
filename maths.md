@@ -17,9 +17,11 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 
 1. [On smoothing singularities of elliptic orbital integrals on GL(n) and Beyond Endoscopy](https://arxiv.org/abs/1608.05938), with O.E. Gonzalez, C.H. Kwan, S.J. Miller, R. Van Peski. Journal of Number Theory, 183C (2018) pp. 407-427.
 
-2. [Biases in prime factorizations and Liouville functions for arithmetic progressions](https://arxiv.org/abs/1704.07979), with P. Humphries and S. Shekatkar. To appear in JTNB. [Latest](ParityFinal.pdf) 
+2. [Biases in prime factorizations and Liouville functions for arithmetic progressions](https://arxiv.org/abs/1704.07979), with P. Humphries and S. Shekatkar. [Latest](ParityFinal.pdf) Journal de Théorie des Nombres de Bordeaux, 2019 (1). https://doi.org/10.5802/jtnb.v31i1.891 
 
-3. [Eisenstein cocycles over imaginary quadratic fields I: Values of L-functions](https://arxiv.org/abs/1611.08565), with J. Flórez and C. Karabulut. To appear in JNT.
+3. [Eisenstein cocycles over imaginary quadratic fields I: Values of L-functions](https://arxiv.org/abs/1611.08565), with J. Flórez and C. Karabulut. Journal of Number Theory https://doi.org/10.1016/j.jnt.2019.04.016
+
+4. [On the balanced Voronoi formula for GL(n)](Voronoi.pdf) To appear in Functiones et Approximatio
 
 ### Preprints
 
@@ -30,8 +32,6 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 5. [Lower bounds for Weil's Explicit Formula via Selberg's Trace Formula](https://arxiv.org/abs/1608.02296).
 
 6. [Shifts of the sum of prime divisor function of Alladi and Erdős](https://arxiv.org/abs/1710.10875) with S. Shekatkar.
-
-7. [On the balanced Voronoi formula for GL(n)](Voronoi.pdf)
 
 8. [On stable orbital integrals and the Steinberg-Hitchin base](stablegerms.pdf)
 
