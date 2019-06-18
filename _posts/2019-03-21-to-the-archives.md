@@ -29,6 +29,6 @@ and for Asian American histories at large:
 - *Strangers from a Different Shore: A History of Asian Americans,* Ronald Takaki
 -  *The Making of Asian America: A History*, Erika Lee
 
-Now here's where you come in. The User's Guide below is document template for you to kick off discussion and build an Asian American theology of liberation for the next generation.  It is as much yours as it is mine. Have at it! 
+Now here's where you come in. I've put together a User's Guide below as a template for you to kick off discussion and build an Asian American theology of liberation for the next generation. It is as much yours as it is mine. Have at it! 
 
 - *A User's Guide to Asian American Theologies of Liberation* (alpha version) [DOCX](/files/UsersGuide.docx) [PDF](/files/UsersGuide.pdf) 
