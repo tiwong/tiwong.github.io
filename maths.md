@@ -37,11 +37,11 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 
 7. [On the computational complexity of MSTD sets](https://arxiv.org/abs/1810.07358), with T. Mathur.
 
-8. Refinements of the trace formula for GL(2)
+8. [Refinements of the trace formula for GL(2)](BEGL2,pdf)
 
-9. The three gap theorem and periodic functions, with A. Suki Dasher and A. Hermida 
+9. [Endoscopic points on Siegel eigenvarieties](paramodular.pdf), with B. Balasubramanyam
 
-10. Endoscopic points on Siegel eigenvarieties, with B. Balasubramanyam
+10. The three gap theorem and periodic functions, with A. Suki Dasher and A. Hermida 
 
 11. Universal Fourier expansions for Bianchi modular forms
 
