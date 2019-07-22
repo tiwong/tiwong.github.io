@@ -19,13 +19,13 @@ Basics on machine learning and artificial intelligence:
 
 - [4 Types of Machine Learning Bias](https://content.alegion.com/four-types-of-ai-bias) white paper by Alegion
 
+Data criticism:
+
 - [O'Neil Risk Consulting & Algorithmic Auditing](https://www.oneilrisk.com/)
 
 - [Calling Bullshit: Data Reasoning in a Digital World](https://callingbullshit.org/) course at University of Washington
 
 - [Moral Machine](http://moralmachine.mit.edu/)
-
-Data criticism:
 
 - [CVDazzle](https://cvdazzle.com/) "An open source face detection toolkit is being developed to evaluate looks using haar, dlib, ssd, and yolo face detectors."
 

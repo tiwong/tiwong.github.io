@@ -23,20 +23,27 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 
 ### Preprints
 
-3. [Lattice points in quadratic irrational polytopes](https://arxiv.org/abs/1810.01065), with Y. Gaur. 
+1. [Lattice points in quadratic irrational polytopes](https://arxiv.org/abs/1810.01065), with Y. Gaur. 
 
-4. [Mock automorphic forms and the BPS index](https://arxiv.org/abs/1710.06653). 
+2. [Mock automorphic forms and the BPS index](https://arxiv.org/abs/1710.06653). 
 
-5. [Lower bounds for Weil's Explicit Formula via Selberg's Trace Formula](https://arxiv.org/abs/1608.02296).
+3. [Lower bounds for Weil's Explicit Formula via Selberg's Trace Formula](https://arxiv.org/abs/1608.02296).
 
-6. [Shifts of the sum of prime divisor function of Alladi and Erdős](https://arxiv.org/abs/1710.10875) with S. Shekatkar.
+4. [Shifts of the sum of prime divisor function of Alladi and Erdős](https://arxiv.org/abs/1710.10875) with S. Shekatkar.
 
-7. [On the balanced Voronoi formula for GL(n)](Voronoi.pdf)
+5. [On the balanced Voronoi formula for GL(n)](Voronoi.pdf)
 
-8. [On stable orbital integrals and the Steinberg-Hitchin base](stablegerms.pdf)
+6. [On stable orbital integrals and the Steinberg-Hitchin base](stablegerms.pdf)
 
-9. [On the computational complexity of MSTD sets](https://arxiv.org/abs/1810.07358) with T. Mathur.
+7. [On the computational complexity of MSTD sets](https://arxiv.org/abs/1810.07358), with T. Mathur.
 
+8. Refinements of the trace formula for GL(2)
+
+9. The three gap theorem and periodic functions, with A. Suki Dasher and A. Hermida 
+
+10. Endoscopic points on Siegel eigenvarieties, with B. Balasubramanyam
+
+11. Universal Fourier expansions for Bianchi modular forms
 
 ### Some past teaching:
 
