@@ -19,9 +19,9 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 
 2. [Biases in prime factorizations and Liouville functions for arithmetic progressions](https://arxiv.org/abs/1704.07979), with P. Humphries and S. Shekatkar. [Latest](ParityFinal.pdf) Journal de Théorie des Nombres de Bordeaux, 2019 (1). https://doi.org/10.5802/jtnb.v31i1.891 
 
-3. [Eisenstein cocycles over imaginary quadratic fields I: Values of L-functions](https://arxiv.org/abs/1611.08565), with J. Flórez and C. Karabulut. Journal of Number Theory https://doi.org/10.1016/j.jnt.2019.04.016
+3. [Eisenstein cocycles over imaginary quadratic fields I: Values of L-functions](https://arxiv.org/abs/1611.08565), with J. Flórez and C. Karabulut. Journal of Number Theory. https://doi.org/10.1016/j.jnt.2019.04.016
 
-4. [On the balanced Voronoi formula for GL(n)](Voronoi.pdf) To appear in Functiones et Approximatio
+4. [On the balanced Voronoi formula for GL(n)](Voronoi.pdf) To appear in Functiones et Approximatio.
 
 ### Preprints
 
@@ -37,7 +37,7 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 
 7. [On the computational complexity of MSTD sets](https://arxiv.org/abs/1810.07358), with T. Mathur.
 
-8. [Refinements of the trace formula for GL(2)](BEGL2,pdf)
+8. [Refinements of the trace formula for GL(2)](BEGL2.pdf)
 
 9. [Endoscopic points on Siegel eigenvarieties](paramodular.pdf), with B. Balasubramanyam
 
