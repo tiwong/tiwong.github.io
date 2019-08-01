@@ -17,9 +17,10 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 
 1. [On smoothing singularities of elliptic orbital integrals on GL(n) and Beyond Endoscopy](https://arxiv.org/abs/1608.05938), with O.E. Gonzalez, C.H. Kwan, S.J. Miller, R. Van Peski. Journal of Number Theory, 183C (2018) pp. 407-427.
 
-2. [Biases in prime factorizations and Liouville functions for arithmetic progressions](https://arxiv.org/abs/1704.07979), with P. Humphries and S. Shekatkar. [Latest](ParityFinal.pdf) Journal de Théorie des Nombres de Bordeaux, 2019 (1). https://doi.org/10.5802/jtnb.v31i1.891 
+2. [Biases in prime factorizations and Liouville functions for arithmetic progressions](http://jtnb.cedram.org/jtnb-bin/item?id=JTNB_2019__31_1_1_0), with P. Humphries and S. Shekatkar. Journal de théorie des nombres de Bordeaux, 31 no. 1 (2019), p. 1-25.
 
-3. [Eisenstein cocycles over imaginary quadratic fields I: Values of L-functions](https://arxiv.org/abs/1611.08565), with J. Flórez and C. Karabulut. Journal of Number Theory. https://doi.org/10.1016/j.jnt.2019.04.016
+3. [Eisenstein cocycles over imaginary quadratic fields I: Values of L-functions](https://arxiv.org/abs/1611.08565), with J. Flórez and C. Karabulut. Journal of Number Theory. Volume 204, November 2019, pp. 497-531
+ https://doi.org/10.1016/j.jnt.2019.04.016
 
 4. [On the balanced Voronoi formula for GL(n)](Voronoi.pdf) To appear in Functiones et Approximatio.
 
