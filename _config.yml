@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Tian An WONG 黄天安
+title: WONG Tian An 黄天安
 # email: tiananwong at iiserpune dot ac dot in
 description: > # this means to ignore newlines until "baseurl:"
 #  The webspace of Tian An Wong. Maths and other fun things!
