@@ -25,6 +25,8 @@ Data criticism:
 
 - [Calling Bullshit: Data Reasoning in a Digital World](https://callingbullshit.org/) course at University of Washington
 
+- [Stop Coding State Violenve](https://issuu.com/slapstanford/docs/no_tech_booklet_1_) zine by Students for Liberation of All Peoples (SLAP), Stanford
+
 - [Moral Machine](http://moralmachine.mit.edu/)
 
 - [CVDazzle](https://cvdazzle.com/) "An open source face detection toolkit is being developed to evaluate looks using haar, dlib, ssd, and yolo face detectors."
