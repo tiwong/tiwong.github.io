@@ -42,9 +42,11 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 
 9. [Endoscopic points on Siegel eigenvarieties](paramodular.pdf), with B. Balasubramanyam
 
-10. The three gap theorem and periodic functions, with A. Suki Dasher and A. Hermida 
+10. [Universal Fourier expansions for Bianchi modular forms](universal.pdf)
 
-11. Universal Fourier expansions for Bianchi modular forms
+11. The three gap theorem and periodic functions, with A. Suki Dasher and A. Hermida 
+
+
 
 ### Some past teaching:
 
