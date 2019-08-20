@@ -40,3 +40,5 @@ Data criticism:
 - [Digital Defense Playbook: Community Power Tools for Reclaiming Data](https://www.alliedmedia.org/news/2019/02/07/our-data-bodies-playbook-out) produced by the [Our Data Bodies project](https://www.odbproject.org/)
 
 - [Data & Society](https://datasociety.net/) research institute
+
+- [Collaborative Data Journalism Guide](https://propublica.gitbook.io/collaborative/) by Propublica

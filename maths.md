@@ -24,6 +24,8 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 
 4. [On the balanced Voronoi formula for GL(n)](Voronoi.pdf) To appear in Functiones et Approximatio.
 
+5. [Universal Fourier expansions for Bianchi modular forms](universal.pdf) To appear in IJNT.
+
 ### Preprints
 
 1. [Lattice points in quadratic irrational polytopes](https://arxiv.org/abs/1810.01065), with Y. Gaur. 
@@ -42,9 +44,7 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 
 9. [Endoscopic points on Siegel eigenvarieties](paramodular.pdf), with B. Balasubramanyam
 
-10. [Universal Fourier expansions for Bianchi modular forms](universal.pdf)
-
-11. The three gap theorem and periodic functions, with A. Suki Dasher and A. Hermida 
+10. The three gap theorem and periodic functions, with A. Suki Dasher and A. Hermida 
 
 
 
