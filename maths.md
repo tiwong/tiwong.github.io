@@ -52,7 +52,7 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 
 I organized the <a href="langlands">Langlands Program Seminar</a> at the CUNY GC from 2014–2016. Find the notes <a href="Langlands learning notes.pdf">here</a>.
 
-- <i>Fall 2018: Stochastic Processes - IISER Pune</i>
+- <i>Spring 2018: Stochastic Processes - IISER Pune</i>
 
   This course assumes a background in measure theoretic probability. We develop the basics of continuous martingales, then move on to Brownian motion, which sets the stage for stochastic integration, or Itô calculus. We then develop the theory of stochastic differential equations, and discuss applications to PDEs and also mathematical finance. Find the notes <a href="426Notes.pdf">here</a>.
 
