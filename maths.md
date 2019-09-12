@@ -24,7 +24,9 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 
 4. [On the balanced Voronoi formula for GL(n)](Voronoi.pdf) To appear in Functiones et Approximatio.
 
-5. [Universal Fourier expansions for Bianchi modular forms](universal.pdf) To appear in IJNT.
+5. [Universal Fourier expansions for Bianchi modular forms](universal.pdf) To appear in International Journal of Number Theory.
+
+6. [Shifts of the sum of prime divisor function of Alladi and Erdős](https://arxiv.org/abs/1710.10875) with S. Shekatkar. To appear in Integers. 
 
 ### Preprints
 
@@ -33,8 +35,6 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 2. [Mock automorphic forms and the BPS index](https://arxiv.org/abs/1710.06653). 
 
 3. [Lower bounds for Weil's Explicit Formula via Selberg's Trace Formula](https://arxiv.org/abs/1608.02296).
-
-4. [Shifts of the sum of prime divisor function of Alladi and Erdős](https://arxiv.org/abs/1710.10875) with S. Shekatkar.
 
 8. [On stable orbital integrals and the Steinberg-Hitchin base](stablegerms.pdf)
 
