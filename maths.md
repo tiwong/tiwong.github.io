@@ -28,13 +28,13 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 
 6. [Shifts of the sum of prime divisor function of Alladi and Erdős](https://arxiv.org/abs/1710.10875) with S. Shekatkar. To appear in Integers. 
 
+7. [Explicit formulas for the spectral side of the trace formula of SL(2)](https://arxiv.org/abs/1608.02296). To appear in Acta Arithmetica.
+
 ### Preprints
 
 1. [Lattice points in quadratic irrational polytopes](https://arxiv.org/abs/1810.01065), with Y. Gaur. 
 
 2. [Mock automorphic forms and the BPS index](https://arxiv.org/abs/1710.06653). 
-
-3. [Lower bounds for Weil's Explicit Formula via Selberg's Trace Formula](https://arxiv.org/abs/1608.02296).
 
 8. [On stable orbital integrals and the Steinberg-Hitchin base](stablegerms.pdf)
 
