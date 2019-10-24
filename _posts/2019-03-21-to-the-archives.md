@@ -35,6 +35,7 @@ Finally, some things I've written:
 - [Asian American Liberation Theology Now!](https://www.inheritancemag.com/article/asian-american-liberation-theology-now)
 - [Why We Need A Theology of Protest](https://sojo.net/articles/why-we-need-theology-protest)
 - [Love Letter to Hawai'i, Puerto Rico, and Hong Kong](https://sojo.net/articles/poem-love-letter-hawaii-puerto-rico-and-hong-kong)
+- [Unsettling Asian American Theology](https://www.divergingmag.com/unsettling-asian-american-theology/)
 
 Now here's where you come in. I've put together a User's Guide below as a template for you to kick off discussion and build an Asian American theology of liberation for the next generation. It is as much yours as it is mine. Have at it! 
 
