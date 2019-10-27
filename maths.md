@@ -21,7 +21,7 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 
 3. Eisenstein cocycles over imaginary quadratic fields and special values of L-functions, with J. Flórez and C. Karabulut. **Journal of Number Theory**. Volume 204, November 2019, pp. 497-531. [Journal](https://doi.org/10.1016/j.jnt.2019.04.016) [ArXiv](https://arxiv.org/abs/1611.08565)
 
-4. On the balanced Voronoi formula for GL(n). To appear in **Functiones et Approximatio**. [Journal](https://projecteuclid.org/euclid.facm/1572055507) 
+4. On the balanced Voronoi formula for GL(n). To appear in **Functiones et Approximatio**. [Journal](https://projecteuclid.org/euclid.facm/1572055507) ArXiv
 
 5. Universal Fourier expansions for Bianchi modular forms. To appear in **International Journal of Number Theory**. [Journal](https://doi.org/10.1142/S1793042120500372) ArXiv
 
