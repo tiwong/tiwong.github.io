@@ -23,7 +23,7 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 
 4. On the balanced Voronoi formula for GL(n). To appear in **Functiones et Approximatio**. [Journal](https://projecteuclid.org/euclid.facm/1572055507) 
 
-5. Universal Fourier expansions for Bianchi modular forms. To appear in **International Journal of Number Theory**. [Journal](https://doi.org/10.1142/S1793042120500372)
+5. Universal Fourier expansions for Bianchi modular forms. To appear in **International Journal of Number Theory**. [Journal](https://doi.org/10.1142/S1793042120500372) ArXiv
 
 6. Shifts of the sum of prime divisor function of Alladi and Erdős, with S. Shekatkar. To appear in **Integers**. Journal [ArXiv](https://arxiv.org/abs/1710.10875)
 
