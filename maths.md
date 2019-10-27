@@ -15,38 +15,35 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 
 ### Papers
 
-1. [On smoothing singularities of elliptic orbital integrals on GL(n) and Beyond Endoscopy](https://arxiv.org/abs/1608.05938), with O.E. Gonzalez, C.H. Kwan, S.J. Miller, R. Van Peski. Journal of Number Theory, 183C (2018) pp. 407-427.
+1. On smoothing singularities of elliptic orbital integrals on GL(n) and Beyond Endoscopy, with O.E. Gonzalez, C.H. Kwan, S.J. Miller, R. Van Peski. Journal of Number Theory, 183C (2018) pp. 407-427. [ArXiv](https://arxiv.org/abs/1608.05938)
 
-2. [Biases in prime factorizations and Liouville functions for arithmetic progressions](http://jtnb.cedram.org/jtnb-bin/item?id=JTNB_2019__31_1_1_0), with P. Humphries and S. Shekatkar. Journal de théorie des nombres de Bordeaux, 31 no. 1 (2019), p. 1-25.
+2. Biases in prime factorizations and Liouville functions for arithmetic progressions, with P. Humphries and S. Shekatkar. Journal de théorie des nombres de Bordeaux, 31 no. 1 (2019), p. 1-25. [Journal](http://jtnb.cedram.org/jtnb-bin/item?id=JTNB_2019__31_1_1_0) [ArXiv](https://arxiv.org/abs/1704.07979)
 
-3. [Eisenstein cocycles over imaginary quadratic fields I: Values of L-functions](https://arxiv.org/abs/1611.08565), with J. Flórez and C. Karabulut. Journal of Number Theory. Volume 204, November 2019, pp. 497-531
- https://doi.org/10.1016/j.jnt.2019.04.016
+3. Eisenstein cocycles over imaginary quadratic fields and special values of L-functions, with J. Flórez and C. Karabulut. Journal of Number Theory. Volume 204, November 2019, pp. 497-531. [Journal](https://doi.org/10.1016/j.jnt.2019.04.016) [ArXiv](https://arxiv.org/abs/1611.08565)
 
-4. [On the balanced Voronoi formula for GL(n)](Voronoi.pdf) To appear in Functiones et Approximatio.
+4. On the balanced Voronoi formula for GL(n). To appear in Functiones et Approximatio. [Journal](https://projecteuclid.org/euclid.facm/1572055507) 
 
-5. [Universal Fourier expansions for Bianchi modular forms](universal.pdf) To appear in International Journal of Number Theory.
+5. Universal Fourier expansions for Bianchi modular forms. To appear in International Journal of Number Theory. [Journal](https://doi.org/10.1142/S1793042120500372) ArXiv 
 
-6. [Shifts of the sum of prime divisor function of Alladi and Erdős](https://arxiv.org/abs/1710.10875) with S. Shekatkar. To appear in Integers. 
+6. Shifts of the sum of prime divisor function of Alladi and Erdős, with S. Shekatkar. To appear in Integers. Journal [ArXiv](https://arxiv.org/abs/1710.10875) ArXiv
 
-7. [Explicit formulas for the spectral side of the trace formula of SL(2)](https://arxiv.org/abs/1608.02296). To appear in Acta Arithmetica.
+7. Explicit formulas for the spectral side of the trace formula of SL(2). To appear in Acta Arithmetica. Journal [ArXiv](https://arxiv.org/abs/1608.02296)
 
 ### Preprints
 
-1. [Lattice points in quadratic irrational polytopes](https://arxiv.org/abs/1810.01065), with Y. Gaur. 
+1. Lattice points in quadratic irrational polytopes, with Y. Gaur. [ArXiv](https://arxiv.org/abs/1810.01065)
 
-2. [Mock automorphic forms and the BPS index](https://arxiv.org/abs/1710.06653). 
+2. Mock automorphic forms and the BPS index. [ArXiv](https://arxiv.org/abs/1710.06653)
 
 8. [On stable orbital integrals and the Steinberg-Hitchin base](stablegerms.pdf)
 
-7. [On the computational complexity of MSTD sets](https://arxiv.org/abs/1810.07358), with T. Mathur.
+7. On the computational complexity of MSTD sets, with T. Mathur. [ArXiv](https://arxiv.org/abs/1810.07358)
 
-8. [Refinements of the trace formula for GL(2)](BEGL2.pdf)
+8. Refinements of the trace formula for GL(2). [ArXiv](https://arxiv.org/abs/1910.03733)
 
-9. [Endoscopic points on Siegel eigenvarieties](paramodular.pdf), with B. Balasubramanyam
+9. Endoscopic points on Siegel eigenvarieties, with B. Balasubramanyam. [ArXiv](paramodular.pdf)
 
 10. The three gap theorem and periodic functions, with A. Suki Dasher and A. Hermida 
-
-
 
 ### Some past teaching:
 
