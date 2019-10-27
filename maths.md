@@ -41,7 +41,7 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 
 8. Refinements of the trace formula for GL(2). [ArXiv](https://arxiv.org/abs/1910.03733)
 
-9. Endoscopic points on Siegel eigenvarieties, with B. Balasubramanyam. [ArXiv](paramodular.pdf)
+9. Endoscopic points on Siegel eigenvarieties, with B. Balasubramanyam. [Preprint](paramodular.pdf)
 
 10. The three gap theorem and periodic functions, with A. Suki Dasher and A. Hermida. 
 
