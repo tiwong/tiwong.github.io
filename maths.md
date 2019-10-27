@@ -23,9 +23,9 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 
 4. On the balanced Voronoi formula for GL(n). To appear in **Functiones et Approximatio**. [Journal](https://projecteuclid.org/euclid.facm/1572055507) 
 
-5. Universal Fourier expansions for Bianchi modular forms. To appear in **International Journal of Number Theory**. [Journal](https://doi.org/10.1142/S1793042120500372) ArXiv 
+5. Universal Fourier expansions for Bianchi modular forms. To appear in **International Journal of Number Theory**. [Journal](https://doi.org/10.1142/S1793042120500372)
 
-6. Shifts of the sum of prime divisor function of Alladi and Erdős, with S. Shekatkar. To appear in **Integers**. Journal [ArXiv](https://arxiv.org/abs/1710.10875) ArXiv
+6. Shifts of the sum of prime divisor function of Alladi and Erdős, with S. Shekatkar. To appear in **Integers**. Journal [ArXiv](https://arxiv.org/abs/1710.10875)
 
 7. Explicit formulas for the spectral side of the trace formula of SL(2). To appear in **Acta Arithmetica**. Journal [ArXiv](https://arxiv.org/abs/1608.02296)
 
@@ -35,7 +35,7 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 
 2. Mock automorphic forms and the BPS index. [ArXiv](https://arxiv.org/abs/1710.06653)
 
-8. [On stable orbital integrals and the Steinberg-Hitchin base](stablegerms.pdf)
+8. On stable orbital integrals and the Steinberg-Hitchin base. [Preprint](stablegerms.pdf)
 
 7. On the computational complexity of MSTD sets, with T. Mathur. [ArXiv](https://arxiv.org/abs/1810.07358)
 
@@ -43,7 +43,7 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 
 9. Endoscopic points on Siegel eigenvarieties, with B. Balasubramanyam. [ArXiv](paramodular.pdf)
 
-10. The three gap theorem and periodic functions, with A. Suki Dasher and A. Hermida 
+10. The three gap theorem and periodic functions, with A. Suki Dasher and A. Hermida. 
 
 ### Some past teaching:
 
