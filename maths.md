@@ -15,9 +15,9 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 
 ### Papers
 
-1. On smoothing singularities of elliptic orbital integrals on GL(n) and Beyond Endoscopy, with O.E. Gonzalez, C.H. Kwan, S.J. Miller, R. Van Peski. **Journal of Number Theory**, 183C (2018) pp. 407-427. [ArXiv](https://arxiv.org/abs/1608.05938)
+1. On smoothing singularities of elliptic orbital integrals on GL(n) and Beyond Endoscopy, with O.E. Gonzalez, C.H. Kwan, S.J. Miller, R. Van Peski. **Journal of Number Theory**, 183C (2018) pp. 407-427. [Journal](https://doi.org/10.1016/j.jnt.2019.04.016) [ArXiv](https://arxiv.org/abs/1608.05938)
 
-2. Biases in prime factorizations and Liouville functions for arithmetic progressions, with P. Humphries and S. Shekatkar. **Journal de théorie des nombres de Bordeaux**, 31 no. 1 (2019), p. 1-25. [Journal](http://jtnb.cedram.org/jtnb-bin/item?id=JTNB_2019__31_1_1_0) [ArXiv](https://arxiv.org/abs/1704.07979)
+2. Biases in prime factorizations and Liouville functions for arithmetic progressions, with P. Humphries and S. Shekatkar. **Journal de théorie des nombres de Bordeaux**, 31 no. 1 (2019), p. 1-25. [Journal](https://jtnb.centre-mersenne.org/item/JTNB_2019__31_1_1_0/) [ArXiv](https://arxiv.org/abs/1704.07979)
 
 3. Eisenstein cocycles over imaginary quadratic fields and special values of L-functions, with J. Flórez and C. Karabulut. **Journal of Number Theory**. Volume 204, November 2019, pp. 497-531. [Journal](https://doi.org/10.1016/j.jnt.2019.04.016) [ArXiv](https://arxiv.org/abs/1611.08565)
 
