@@ -11,23 +11,23 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 
 ![MFOpic](https://opc.mfo.de/photoNormal?id=21800)
   
-<p>I'm currently a postdoctoral fellow at the UnIndian Institute of Science Education and Research (IISER), Pune; previously at the Max Planck Institut für Mathematik (MPIM), Bonn. My work focuses on the interplay between trace formulae and L-functions in the theory of automorphic forms and representation theory. I also like to think about interactions between homotopy theory and number theory.</p> ---> 
+<p>I'm currently a postdoctoral fellow at the Indian Institute of Science Education and Research (IISER), Pune; previously at the Max Planck Institut für Mathematik (MPIM), Bonn. My work focuses on the interplay between trace formulae and L-functions in the theory of automorphic forms and representation theory. I also like to think about interactions between homotopy theory and number theory.</p> ---> 
 
 ### Papers
 
-1. On smoothing singularities of elliptic orbital integrals on GL(n) and Beyond Endoscopy, with O.E. Gonzalez, C.H. Kwan, S.J. Miller, R. Van Peski. **Journal of Number Theory**, 183C (2018) pp. 407-427. [Journal](https://doi.org/10.1016/j.jnt.2019.04.016) [ArXiv](https://arxiv.org/abs/1608.05938)
+1. On smoothing singularities of elliptic orbital integrals on GL(n) and Beyond Endoscopy, with O.E. Gonzalez, C.H. Kwan, S.J. Miller, R. Van Peski. Journal of Number Theory, 183C (2018) pp. 407-427. [Journal](https://doi.org/10.1016/j.jnt.2019.04.016) [ArXiv](https://arxiv.org/abs/1608.05938)
 
-2. Biases in prime factorizations and Liouville functions for arithmetic progressions, with P. Humphries and S. Shekatkar. **Journal de théorie des nombres de Bordeaux**, 31 no. 1 (2019), p. 1-25. [Journal](https://jtnb.centre-mersenne.org/item/JTNB_2019__31_1_1_0/) [ArXiv](https://arxiv.org/abs/1704.07979)
+2. Biases in prime factorizations and Liouville functions for arithmetic progressions, with P. Humphries and S. Shekatkar. Journal de théorie des nombres de Bordeaux, 31 no. 1 (2019), p. 1-25. [Journal](https://jtnb.centre-mersenne.org/item/JTNB_2019__31_1_1_0/) [ArXiv](https://arxiv.org/abs/1704.07979)
 
-3. Eisenstein cocycles over imaginary quadratic fields and special values of L-functions, with J. Flórez and C. Karabulut. **Journal of Number Theory**. Volume 204, November 2019, pp. 497-531. [Journal](https://doi.org/10.1016/j.jnt.2019.04.016) [ArXiv](https://arxiv.org/abs/1611.08565)
+3. Eisenstein cocycles over imaginary quadratic fields and special values of L-functions, with J. Flórez and C. Karabulut. Journal of Number Theory. Volume 204, November 2019, pp. 497-531. [Journal](https://doi.org/10.1016/j.jnt.2019.04.016) [ArXiv](https://arxiv.org/abs/1611.08565)
 
-4. On the balanced Voronoi formula for GL(n). To appear in **Functiones et Approximatio**. [Journal](https://projecteuclid.org/euclid.facm/1572055507) ArXiv
+4. On the balanced Voronoi formula for GL(n). To appear in Functiones et Approximatio. [Journal](https://projecteuclid.org/euclid.facm/1572055507) ArXiv
 
-5. Universal Fourier expansions for Bianchi modular forms. To appear in **International Journal of Number Theory**. [Journal](https://doi.org/10.1142/S1793042120500372) ArXiv
+5. Universal Fourier expansions for Bianchi modular forms. To appear in International Journal of Number Theory. [Journal](https://doi.org/10.1142/S1793042120500372) ArXiv
 
-6. Shifts of the sum of prime divisor function of Alladi and Erdős, with S. Shekatkar. To appear in **Integers**. Journal [ArXiv](https://arxiv.org/abs/1710.10875)
+6. Shifts of the sum of prime divisor function of Alladi and Erdős, with S. Shekatkar. To appear in Integers. Journal [ArXiv](https://arxiv.org/abs/1710.10875)
 
-7. Explicit formulas for the spectral side of the trace formula of SL(2). To appear in **Acta Arithmetica**. Journal [ArXiv](https://arxiv.org/abs/1608.02296)
+7. Explicit formulas for the spectral side of the trace formula of SL(2). To appear in Acta Arithmetica. Journal [ArXiv](https://arxiv.org/abs/1608.02296)
 
 ### Preprints
 
