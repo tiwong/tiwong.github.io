@@ -15,7 +15,8 @@ Did you know Asian American liberation theology was a thing in the past? Well, i
 For some context, check out:
 
 - [Roots: Asian American Movements in Los Angeles](http://camla.org/wp-content/uploads/2017/05/CAM-Roots-Zine-2017.pdf), the zine accompanying the "Roots: Asian American Movements 1968-80s" exhibit at the Chinese American Musuem, LA in 2017. The name harkens to the out of print 1971 *Roots: An Asian American Reader* edited by Amy Tachiki
-- [Gidra](https://en.wikipedia.org/wiki/Gidra_(newspaper)), the revolutionary newspaper-magazine, from 1969 to 1974 is available at the [Densho Digital Repository](http://ddr.densho.org/ddr/densho/297/). 
+- [Gidra](https://en.wikipedia.org/wiki/Gidra_(newspaper)), the revolutionary newspaper-magazine, from 1969 to 1974 is available at the [Densho Digital Repository](http://ddr.densho.org/ddr/densho/297/).
+- [Liberation Theology: Religion, Revolution, Reform](https://www.cia.gov/library/readingroom/docs/CIA-RDP97R00694R000600050001-9.pdf) April 1986 declassified CIA (Directorate of Intelligence) research paper 
 
 Some books on the Asian American history of that era:
 
@@ -36,6 +37,7 @@ Finally, some things I've written:
 - [Why We Need A Theology of Protest](https://sojo.net/articles/why-we-need-theology-protest)
 - [Love Letter to Hawai'i, Puerto Rico, and Hong Kong](https://sojo.net/articles/poem-love-letter-hawaii-puerto-rico-and-hong-kong)
 - [Unsettling Asian American Theology](https://www.divergingmag.com/unsettling-asian-american-theology/)
+- [Who's Afraid of Liberation Theology? A Call to Liberaiton](http://reformedmargins.com/whos-afraid-of-liberation-theology-a-call-to-liberation/)
 
 Now here's where you come in. I've put together a User's Guide below as a template for you to kick off discussion and build an Asian American theology of liberation for the next generation. It is as much yours as it is mine. Have at it! 
 
