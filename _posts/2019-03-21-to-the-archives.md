@@ -32,12 +32,13 @@ and for Asian American histories at large:
 
 Finally, some things I've written:
 
-- [Asian American Liberation Theology: A past we never knew was ours](https://www.inheritancemag.com/article/asian-american-liberation-theology)
-- [Asian American Liberation Theology Now!](https://www.inheritancemag.com/article/asian-american-liberation-theology-now)
-- [Why We Need A Theology of Protest](https://sojo.net/articles/why-we-need-theology-protest)
-- [Love Letter to Hawai'i, Puerto Rico, and Hong Kong](https://sojo.net/articles/poem-love-letter-hawaii-puerto-rico-and-hong-kong)
-- [Unsettling Asian American Theology](https://www.divergingmag.com/unsettling-asian-american-theology/)
-- [Who's Afraid of Liberation Theology? A Call to Liberaiton](http://reformedmargins.com/whos-afraid-of-liberation-theology-a-call-to-liberation/)
+- [Asian American Liberation Theology: A past we never knew was ours](https://www.inheritancemag.com/article/asian-american-liberation-theology), *Inheritance* 
+- [Asian American Liberation Theology Now!](https://www.inheritancemag.com/article/asian-american-liberation-theology-now), *Inheritance*
+- [Why We Need A Theology of Protest](https://sojo.net/articles/why-we-need-theology-protest), *Sojourners*
+- [Love Letter to Hawai'i, Puerto Rico, and Hong Kong](https://sojo.net/articles/poem-love-letter-hawaii-puerto-rico-and-hong-kong), *Sojourners*
+- [Unsettling Asian American Theology](https://www.divergingmag.com/unsettling-asian-american-theology/), *Diverging*
+- [Who's Afraid of Liberation Theology? A Call to Liberation](http://reformedmargins.com/whos-afraid-of-liberation-theology-a-call-to-liberation/), *Reformed Margins*
+- [Rearticulating an Asian American Theology of Liberation](/files/WongAAR_final.pdf), *American Academy of Religion*
 
 Now here's where you come in. I've put together a User's Guide below as a template for you to kick off discussion and build an Asian American theology of liberation for the next generation. It is as much yours as it is mine. Have at it! 
 
