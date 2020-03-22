@@ -21,11 +21,11 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 
 3. Eisenstein cocycles over imaginary quadratic fields and special values of L-functions, with J. Flórez and C. Karabulut. *Journal of Number Theory*. Volume 204, November 2019, pp. 497-531. [Journal](https://doi.org/10.1016/j.jnt.2019.04.016) [ArXiv](https://arxiv.org/abs/1611.08565)
 
-4. On the balanced Voronoi formula for GL(n). To appear in *Functiones et Approximatio*. [Journal](https://projecteuclid.org/euclid.facm/1572055507) [ArXiv](https://arxiv.org/abs/1910.12426)
+4. On the balanced Voronoi formula for GL(n). *Functiones et Approximatio*,  Volume 62, Number 1 (2020), 121-130. [Journal](https://projecteuclid.org/euclid.facm/1572055507) [ArXiv](https://arxiv.org/abs/1910.12426)
 
 5. Universal Fourier expansions for Bianchi modular forms. To appear in *International Journal of Number Theory*. [Journal](https://doi.org/10.1142/S1793042120500372) [ArXiv](https://arxiv.org/abs/1910.12356)
 
-6. Shifts of the sum of prime divisor function of Alladi and Erdős, with S. Shekatkar. To appear in *Integers*. Journal [ArXiv](https://arxiv.org/abs/1710.10875)
+6. Shifts of the sum of prime divisor function of Alladi and Erdős, with S. Shekatkar. To appear in *Integers*. [Journal ](http://math.colgate.edu/~integers/u4/u4.pdf) [ArXiv](https://arxiv.org/abs/1710.10875)
 
 7. Explicit formulas for the spectral side of the trace formula of SL(2). To appear in *Acta Arithmetica*. Journal [ArXiv](https://arxiv.org/abs/1608.02296)
 
