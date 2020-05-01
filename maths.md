@@ -27,7 +27,7 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 
 6. Shifts of the sum of prime divisor function of Alladi and Erdős, with S. Shekatkar. To appear in *Integers*. [Journal ](http://math.colgate.edu/~integers/u4/u4.pdf) [ArXiv](https://arxiv.org/abs/1710.10875)
 
-7. Explicit formulas for the spectral side of the trace formula of SL(2). To appear in *Acta Arithmetica*. Journal [ArXiv](https://arxiv.org/abs/1608.02296)
+7. Explicit formulas for the spectral side of the trace formula of SL(2). To appear in *Acta Arithmetica*. [Journal](https://doi.org/10.4064/aa190115-9-10) [ArXiv](https://arxiv.org/abs/1608.02296)
 
 ### Preprints
 
