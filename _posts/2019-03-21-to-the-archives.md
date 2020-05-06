@@ -39,6 +39,7 @@ Finally, some things I've written:
 - [Unsettling Asian American Theology](https://www.divergingmag.com/unsettling-asian-american-theology/), *Diverging*
 - [Who's Afraid of Liberation Theology? A Call to Liberation](http://reformedmargins.com/whos-afraid-of-liberation-theology-a-call-to-liberation/), *Reformed Margins*
 - [Rearticulating an Asian American Theology of Liberation](/files/WongAAR_final.pdf), *American Academy of Religion*
+- [Lent Week 6: A Pandemic Passover: An invitation to Asian American Liberative Praxis](https://www.divergingmag.com/lent-week-6/), Diverging 
 
 Now here's where you come in. I've put together a User's Guide below as a template for you to kick off discussion and build an Asian American theology of liberation for the next generation. It is as much yours as it is mine. Have at it! 
 
