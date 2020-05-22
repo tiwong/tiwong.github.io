@@ -39,7 +39,7 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 
 3. On stable orbital integrals and the Steinberg-Hitchin base. [Preprint](stablegerms.pdf)
 
-4. On the computational complexity of MSTD sets, with T. Mathur. [ArXiv](https://arxiv.org/abs/1810.07358)
+4. On the computational complexity of MSTD sets, with T. Mathur. [ArXiv](https://arxiv.org/abs/1810.07358) (not for publication)
 
 5. Refinements of the trace formula for GL(2). [ArXiv](https://arxiv.org/abs/1910.03733)
 
@@ -48,6 +48,8 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 6. On the unitary part of the stable trace formula. [Preprint](Maps2.pdf)
 
 7. The three gap theorem and periodic functions, with A. Suki Dasher and A. Hermida. 
+
+8. A weighted invariant trace formula. 
 
 ### Some past teaching:
 
