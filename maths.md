@@ -37,7 +37,7 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 
 2. Mock automorphic forms and the BPS index. [ArXiv](https://arxiv.org/abs/1710.06653)
 
-3. On stable orbital integrals and the Steinberg-Hitchin base. <!--- [Preprint](stablegerms.pdf)--->
+3. On stable orbital integrals and the Steinberg-Hitchin base. [Preprint](stablegerms.pdf)
 
 4. On the computational complexity of MSTD sets, with T. Mathur. [ArXiv](https://arxiv.org/abs/1810.07358)
 
@@ -45,7 +45,7 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 
 6. Endoscopic points on Siegel eigenvarieties, with B. Balasubramanyam. <!--- Preprint](paramodular.pdf) --->
 
-6. Modifications of the stable trace formula. <!--- [Preprint](Maps1.pdf) --->
+6. On the unitary part of the stable trace formula. [Preprint](Maps2.pdf)
 
 7. The three gap theorem and periodic functions, with A. Suki Dasher and A. Hermida. 
 
