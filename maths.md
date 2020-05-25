@@ -55,6 +55,11 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 
 I organized the <a href="langlands">Langlands Program Seminar</a> at the CUNY GC from 2014–2016. Find the notes <a href="Langlands learning notes.pdf">here</a>.
 
+- <i>Fall 2019: Inequalities: Numbers and Justice - Smith College</i>
+
+What is fair? Can you measure bias? What about racism? This course will explore interactions between mathematical and social inequalities. We will consider topics regarding how mathematicians have tried to rigorously define and quantify notions of fairness (e.g., fair division, voting theory, economic inequality, and gerrymandering) on the one hand, and on the other hand interrogate the utility of critical mathematics pedagogy, drawing on Freire, and the mathematical production of social inequalities and class difference. Reflections on the course here: [Can Mathematics be Antiracist?](https://blogs.ams.org/inclusionexclusion/2020/01/31/can-mathematics-be-antiracist/)
+
+
 - <i>Spring 2018: Stochastic Processes - IISER Pune</i>
 
   This course assumes a background in measure theoretic probability. We develop the basics of continuous martingales, then move on to Brownian motion, which sets the stage for stochastic integration, or Itô calculus. We then develop the theory of stochastic differential equations, and discuss applications to PDEs and also mathematical finance. Find the notes <a href="426Notes.pdf">here</a>.
@@ -71,7 +76,7 @@ I organized the <a href="langlands">Langlands Program Seminar</a> at the CUNY GC
 
 ### Links
 
-- [The Liberated Mathematician](http://www.theliberatedmathematician.com/) the webpage of woke mathematician Piper Harron
+- [The Liberated Mathematician](http://www.theliberatedmathematician.com/) the webpage of Piper Harron
 - [Alice's Adventures in Numberland](https://sites.google.com/site/numberlandadventures/) stories of gender discrimination in mathematics by Alice Silverberg
 - [The Inclusion/Exclusion](https://blogs.ams.org/inclusionexclusion/) AMS Blog about underrepresented groups in mathematics
 
