@@ -15,17 +15,17 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 
 ### Papers
 
-1. On smoothing singularities of elliptic orbital integrals on GL(n) and Beyond Endoscopy, with O.E. Gonzalez, C.H. Kwan, S.J. Miller, R. Van Peski. *Journal of Number Theory*, 183C (2018) pp. 407-427. [Journal](https://doi.org/10.1016/j.jnt.2019.04.016) [ArXiv](https://arxiv.org/abs/1608.05938)
+1. On smoothing singularities of elliptic orbital integrals on GL(n) and Beyond Endoscopy, with O.E. Gonzalez, C.H. Kwan, S.J. Miller, R. Van Peski. *J. Number Theory* 183 (2018), 407–427. [Journal](https://doi.org/10.1016/j.jnt.2019.04.016) [ArXiv](https://arxiv.org/abs/1608.05938)
 
-2. Biases in prime factorizations and Liouville functions for arithmetic progressions, with P. Humphries and S. Shekatkar. *Journal de théorie des nombres de Bordeaux*, 31 no. 1 (2019), p. 1-25. [Journal](https://jtnb.centre-mersenne.org/item/JTNB_2019__31_1_1_0/) [ArXiv](https://arxiv.org/abs/1704.07979)
+2. Biases in prime factorizations and Liouville functions for arithmetic progressions, with P. Humphries and S. Shekatkar. * J. Théor. Nombres Bordeaux* 31 (2019), no. 1, 1–25. [Journal](https://jtnb.centre-mersenne.org/item/JTNB_2019__31_1_1_0/) [ArXiv](https://arxiv.org/abs/1704.07979)
 
-3. Eisenstein cocycles over imaginary quadratic fields and special values of L-functions, with J. Flórez and C. Karabulut. *Journal of Number Theory*. Volume 204, November 2019, pp. 497-531. [Journal](https://doi.org/10.1016/j.jnt.2019.04.016) [ArXiv](https://arxiv.org/abs/1611.08565)
+3. Eisenstein cocycles over imaginary quadratic fields and special values of L-functions, with J. Flórez and C. Karabulut. *J. Number Theory* 204 (2019), 497–531. [Journal](https://doi.org/10.1016/j.jnt.2019.04.016) [ArXiv](https://arxiv.org/abs/1611.08565)
 
-4. On the balanced Voronoi formula for GL(n). *Functiones et Approximatio*,  Volume 62, Number 1 (2020), 121-130. [Journal](https://projecteuclid.org/euclid.facm/1572055507) [ArXiv](https://arxiv.org/abs/1910.12426)
+4. On the balanced Voronoi formula for GL(n). *Funct. Approx. Comment. Math.* 62 (2020), no. 1, 121–130. [Journal](https://projecteuclid.org/euclid.facm/1572055507) [ArXiv](https://arxiv.org/abs/1910.12426)
 
-5. Universal Fourier expansions for Bianchi modular forms. To appear in *International Journal of Number Theory*. [Journal](https://doi.org/10.1142/S1793042120500372) [ArXiv](https://arxiv.org/abs/1910.12356)
+5. Universal Fourier expansions for Bianchi modular forms. * Int. J. Number Theory* 16 (2020), no. 4, 731–746.. [Journal](https://doi.org/10.1142/S1793042120500372) [ArXiv](https://arxiv.org/abs/1910.12356)
 
-6. Shifts of the sum of prime divisor function of Alladi and Erdős, with S. Shekatkar. To appear in *Integers*. [Journal ](http://math.colgate.edu/~integers/u4/u4.pdf) [ArXiv](https://arxiv.org/abs/1710.10875)
+6. Shifts of the sum of prime divisor function of Alladi and Erdős, with S. Shekatkar. *Integers* 20 (2020), Paper No. A4, 8 pp. [Journal](http://math.colgate.edu/~integers/u4/u4.pdf) [ArXiv](https://arxiv.org/abs/1710.10875)
 
 7. Explicit formulas for the spectral side of the trace formula of SL(2). To appear in *Acta Arithmetica*. [Journal](https://doi.org/10.4064/aa190115-9-10) [ArXiv](https://arxiv.org/abs/1608.02296)
 
@@ -37,19 +37,21 @@ First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
 
 2. Mock automorphic forms and the BPS index. [ArXiv](https://arxiv.org/abs/1710.06653)
 
-3. On stable orbital integrals and the Steinberg-Hitchin base. [Preprint](stablegerms.pdf)
-
 4. On the computational complexity of MSTD sets, with T. Mathur. [ArXiv](https://arxiv.org/abs/1810.07358) (not for publication)
 
 5. Refinements of the trace formula for GL(2). [ArXiv](https://arxiv.org/abs/1910.03733)
 
-6. Endoscopic points on Siegel eigenvarieties, with B. Balasubramanyam. <!--- Preprint](paramodular.pdf) --->
+6. Endoscopic points on Siegel eigenvarieties, with B. Balasubramanyam. *Under revision*
 
-6. On the unitary part of the stable trace formula. [Preprint](Maps2.pdf)
+7. On the unitary part of the stable trace formula. [Preprint](Maps2.pdf)
 
-7. The three gap theorem and periodic functions, with A. Suki Dasher and A. Hermida. 
+8. The three gap theorem and periodic functions, with A. Suki Dasher and A. Hermida. 
 
-8. A weighted invariant trace formula. 
+9. A weighted invariant trace formula. 
+
+10. A weighted stable trace formula.
+
+11. Zeroes of Rankin-Selberg L-functions and the trace formula
 
 ### Some past teaching:
 
@@ -57,7 +59,7 @@ I organized the <a href="langlands">Langlands Program Seminar</a> at the CUNY GC
 
 - <i>Fall 2019: Inequalities: Numbers and Justice - Smith College</i>
 
-What is fair? Can you measure bias? What about racism? This course will explore interactions between mathematical and social inequalities. We will consider topics regarding how mathematicians have tried to rigorously define and quantify notions of fairness (e.g., fair division, voting theory, economic inequality, and gerrymandering) on the one hand, and on the other hand interrogate the utility of critical mathematics pedagogy, drawing on Freire, and the mathematical production of social inequalities and class difference. Reflections on the course here: [Can Mathematics be Antiracist?](https://blogs.ams.org/inclusionexclusion/2020/01/31/can-mathematics-be-antiracist/)
+  What is fair? Can you measure bias? What about racism? This course will explore interactions between mathematical and social inequalities. We will consider topics regarding how mathematicians have tried to rigorously define and quantify notions of fairness (e.g., fair division, voting theory, economic inequality, and gerrymandering) on the one hand, and on the other hand interrogate the utility of critical mathematics pedagogy, drawing on Freire, and the mathematical production of social inequalities and class difference. Reflections on the course here: [Can Mathematics be Antiracist?](https://blogs.ams.org/inclusionexclusion/2020/01/31/can-mathematics-be-antiracist/)
 
 
 - <i>Spring 2018: Stochastic Processes - IISER Pune</i>
