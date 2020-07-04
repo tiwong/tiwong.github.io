@@ -29,7 +29,7 @@ Here's the maths page!
 
 6. Shifts of the sum of prime divisor function of Alladi and Erdős, with S. Shekatkar. *Integers* 20 (2020), Paper No. A4, 8 pp. [Journal](http://math.colgate.edu/~integers/u4/u4.pdf) [ArXiv](https://arxiv.org/abs/1710.10875)
 
-7. Explicit formulas for the spectral side of the trace formula of SL(2). * Acta Arithmetica* 195 (2020), 149-175. [Journal](https://doi.org/10.4064/aa190115-9-10) [ArXiv](https://arxiv.org/abs/1608.02296)
+7. Explicit formulas for the spectral side of the trace formula of SL(2). *Acta Arithmetica* 195 (2020), 149-175. [Journal](https://doi.org/10.4064/aa190115-9-10) [ArXiv](https://arxiv.org/abs/1608.02296)
 
 ### Preprints
 
