@@ -5,11 +5,12 @@ permalink: /maths/
 ---
 
 Here's the maths page! 
-<!--First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)):
+<!--First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)): -->
 
-![MFOpic](https://opc.mfo.de/photoNormal?id=21800) -->
+<!-- ![MFOpic](https://opc.mfo.de/photoNormal?id=21800) -->
 
-![what is a mathematician]{mathematics.jpg}
+![what is a mathematician](mathematics.jpg)
+
 <!--- 
   
 <p>I'm currently a postdoctoral fellow at the Indian Institute of Science Education and Research (IISER), Pune; previously at the Max Planck Institut für Mathematik (MPIM), Bonn. My work focuses on the interplay between trace formulae and L-functions in the theory of automorphic forms and representation theory. I also like to think about interactions between homotopy theory and number theory.</p> ---> 
