@@ -5,11 +5,9 @@ permalink: /maths/
 ---
 
 Here's the maths page! 
-<!--First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)): -->
+<!-- First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)): -->
 
-<!-- ![MFOpic](https://opc.mfo.de/photoNormal?id=21800) -->
-
-![what is a mathematician](mathematics.jpg)
+![MFOpic](https://opc.mfo.de/photoNormal?id=21800) 
 
 <!--- 
   
