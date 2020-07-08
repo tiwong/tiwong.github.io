@@ -11,7 +11,7 @@ Here's the maths page!
 
 <!--- 
   
-<p>I'm currently a postdoctoral fellow at the Indian Institute of Science Education and Research (IISER), Pune; previously at the Max Planck Institut für Mathematik (MPIM), Bonn. My work focuses on the interplay between trace formulae and L-functions in the theory of automorphic forms and representation theory. I also like to think about interactions between homotopy theory and number theory.</p> ---> 
+<p>I'm currently a postdoctoral fellow at the Indian Institute of Science Education and Research (IISER), Pune; previously at the Max Planck Institut für Mathematik (MPIM), Bonn. I've been at: University of Michigan-Dearborn, Smith College, University of British Columbia, Xiamen University Malaysia, Mathematisches Forschunginstitut Oberwolfach, the Indian Institute for Science Education and Research Pune, Max Planck Institut für Mathematik, Hunter College, Brooklyn College, Bronx Community College, the City University of New York Graduate Center ---> 
 
 ### Papers
 
