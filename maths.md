@@ -47,7 +47,7 @@ Here's the maths page!
 
 8. The three gap theorem and periodic functions, with A. Suki Dasher and A. Hermida. 
 
-9. A weighted invariant trace formula. 
+9. A weighted invariant trace formula. [Preprint](WITF.pdf)
 
 10. A weighted stable trace formula.
 
