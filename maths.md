@@ -43,13 +43,15 @@ Here's the maths page!
 
 6. Endoscopic points on Siegel eigenvarieties, with B. Balasubramanyam. *Under revision*
 
+6. On stable orbital integrals and the Steinberg-Hitchin base. [Preprint](stablegerms.pdf)
+
 7. On the unitary part of the stable trace formula. [Preprint](Maps2.pdf)
 
 8. The three gap theorem and periodic functions, with A. Suki Dasher and A. Hermida. 
 
 9. A weighted invariant trace formula. [Preprint](WITF.pdf)
 
-10. A weighted stable trace formula.
+10. A weighted stable trace formula. [Preprint](WSTF.pdf)
 
 11. Zeroes of Rankin-Selberg L-functions and the trace formula
 
