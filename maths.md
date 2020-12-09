@@ -5,9 +5,9 @@ permalink: /maths/
 ---
 
 Here's the maths page! 
-<!-- First, a professional photo (©[MFO](https://opc.mfo.de/detail?photo_id=21800)): -->
+<!-- ![MFO](https://opc.mfo.de/detail?photo_id=21800)): -->
 
-![MFOpic](https://opc.mfo.de/photoNormal?id=21800) 
+![puremath](spongebob.png) 
 
 <!--- 
   
@@ -37,23 +37,25 @@ Here's the maths page!
 
 2. Mock automorphic forms and the BPS index. [ArXiv](https://arxiv.org/abs/1710.06653)
 
-4. On the computational complexity of MSTD sets, with T. Mathur. [ArXiv](https://arxiv.org/abs/1810.07358) (not for publication)
+3. Refinements of the trace formula for GL(2). [ArXiv](https://arxiv.org/abs/1910.03733)
 
-5. Refinements of the trace formula for GL(2). [ArXiv](https://arxiv.org/abs/1910.03733)
+4. Endoscopic points on Siegel eigenvarieties, with B. Balasubramanyam. *Under revision*
 
-6. Endoscopic points on Siegel eigenvarieties, with B. Balasubramanyam. *Under revision*
+5. On stable orbital integrals and the Steinberg-Hitchin base. [Preprint](stablegerms.pdf)
 
-6. On stable orbital integrals and the Steinberg-Hitchin base. [Preprint](stablegerms.pdf)
+6. On the unitary part of the stable trace formula. [Preprint](Maps2.pdf)
 
-7. On the unitary part of the stable trace formula. [Preprint](Maps2.pdf)
+7. The three gap theorem and periodic functions, with A. Suki Dasher and A. Hermida. 
 
-8. The three gap theorem and periodic functions, with A. Suki Dasher and A. Hermida. 
+8. A weighted invariant trace formula. [Preprint](WITF.pdf)
 
-9. A weighted invariant trace formula. [Preprint](WITF.pdf)
+9. A weighted stable trace formula. [Preprint](WSTF.pdf)
 
-10. A weighted stable trace formula. [Preprint](WSTF.pdf)
+10. Zeroes of Rankin-Selberg L-functions and the trace formula
 
-11. Zeroes of Rankin-Selberg L-functions and the trace formula
+### On the back burner
+
+1. On the computational complexity of MSTD sets, with T. Mathur. [ArXiv](https://arxiv.org/abs/1810.07358) (not for publication)
 
 ### Some past teaching:
 
