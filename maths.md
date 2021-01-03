@@ -53,6 +53,8 @@ Here's the maths page!
 
 10. Zeroes of Rankin-Selberg L-functions and the trace formula
 
+11. On partial information retrieval: the unconstrained 100 prisoner problem, with I. Lodato and S. M. Shekatkar. [ArXiv](http://arxiv.org/abs/2012.13484)
+
 ### On the back burner
 
 1. On the computational complexity of MSTD sets, with T. Mathur. [ArXiv](https://arxiv.org/abs/1810.07358) (not for publication)
