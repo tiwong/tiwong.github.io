@@ -4,7 +4,7 @@ title: Maths
 permalink: /maths/
 ---
 
-Here's the maths page! 
+
 <!-- ![MFO](https://opc.mfo.de/detail?photo_id=21800)): -->
 
 ![puremath](spongebob.png) 
