@@ -42,8 +42,8 @@ Finally, some things I've written:
 - [Asian American liberation theology: Searching for an Asian radical tradition](/files/GidraWong.pdf), *Gidra* March 2020 Issue on Asian Americans and Blackness in America
 - [A Pandemic Passover: An invitation to Asian American Liberative Praxis](https://www.divergingmag.com/lent-week-6/), Diverging
 - [Asians in Black Riots](https://www.inheritancemag.com/stories/asians-in-black-riots), *Inheritance*
-
+- [Black liberation is Asian Liberation](https://lausan.hk/2020/black-liberation-is-asian-liberation/) *Lausan*
 
 Now here's where you come in. I've put together a User's Guide below as a template for you to kick off discussion and build an Asian American theology of liberation for the next generation. It is as much yours as it is mine. Have at it! 
 
-- *A User's Guide to Asian American Theologies of Liberation* (alpha version) [[docx](/files/UsersGuide.docx)] [[pdf](/files/UsersGuide.pdf)]
+- *A User's Guide to Asian American Theologies of Liberation* (alpha version, 2019) [[docx](/files/UsersGuide.docx)] [[pdf](/files/UsersGuide.pdf)]
