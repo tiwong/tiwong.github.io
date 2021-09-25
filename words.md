@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Notes
+title: Words
 permalink: /blog/
 ---
 
