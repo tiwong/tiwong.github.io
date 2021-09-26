@@ -6,7 +6,7 @@ categories: theory
 ---
 
 It's been awhile! Here is a list of links to things I've written for the public in the meanwhile, mainly dealing with labour in the academy, but not entirely.
-- <a href="https://www.timeshighereducation.com/blog/weve-seen-chair-now-its-time-adjunct">We’ve seen ‘The Chair’. Now it’s time for ‘The Adjunct’<a>, *Times Higher Education*, Sep 2021
+- [We’ve seen ‘The Chair’. Now it’s time for ‘The Adjunct’](https://www.timeshighereducation.com/blog/weve-seen-chair-now-its-time-adjunct), *Times Higher Education*, Sep 2021
 - <a href="https://dearbornhub.net/?p=1018">Reflections on the Inside-Out Program training<a>, <i>UM-Dearborn Hub for Teaching and Learning Resources</i>, Aug 2021
 - <a href="https://blogs.ams.org/inclusionexclusion/2021/02/01/the-mathjob-market-is-bad-but-what-else-is-new-a-2020-retrospective/">The mathjob market is bad. But what else is new? A 2020 retrospective<a>, <i>AMS Inclusion/Exclusion blog</i>, Feb 2021
 - <a href="https://blogs.ams.org/inclusionexclusion/2020/06/30/math-in-pandemic-and-precarity/">Math, in pandemic and precarity<a>, <i>AMS Inclusion/Exclusion blog</i>, Jun 2020
