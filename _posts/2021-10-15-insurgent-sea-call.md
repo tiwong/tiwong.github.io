@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Call for Contributors: Insurgent Southeast Asia"
-date:   2019-10-15 12:50:45 +0100
+date:   2021-10-15 12:50:45 +0100
 categories: theory
 ---
 
- <img src="Call_ISEA" alt="Call">
+[Call](Call_ISEA)
 
