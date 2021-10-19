@@ -5,5 +5,5 @@ date:   2021-10-15 12:50:45 +0100
 categories: theory
 ---
 
-[Call](/files/Call_ISEA.jpg)
+![Call](/files/Call_ISEA.jpg "Call for Contributors: Insurgent Southeast Asia")
 
