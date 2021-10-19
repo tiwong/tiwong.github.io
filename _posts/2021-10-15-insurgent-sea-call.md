@@ -16,7 +16,7 @@ Projected sections to include at least one contributor for each of the following
 6.	Thailand (e.g., protests against the monarchy in Thailand)
 7.	Vietnam
 
- Also, from a comparative aspect, potential transnational topics include
+Also, from a comparative aspect, potential transnational topics include:
 <ol start="8">
 <li>	Critical analysis of the Milk Tea Alliance from an anti-statist perspective
 <li>	The colonial logics and logistics of palm oil industry in West Papua embedded in global financial networks, including Malaysia, Singapore, and USA
