@@ -5,5 +5,5 @@ date:   2019-10-15 12:50:45 +0100
 categories: theory
 ---
 
- <img src="Call_SEA" alt="Call">
+ <img src="Call_ISEA" alt="Call">
 
