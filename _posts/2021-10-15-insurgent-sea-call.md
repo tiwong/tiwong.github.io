@@ -18,6 +18,6 @@ Projected sections to include at least one contributor for each of the following
 
  Also, from a comparative aspect, potential transnational topics include
 <ol start="8">
-8.	Critical analysis of the Milk Tea Alliance from an anti-statist perspective
-9.	The colonial logics and logistics of palm oil industry in West Papua embedded in global financial networks, including Malaysia, Singapore, and USA
-10.	Police and prison abolition as a means of transnational organising/abolition outside a Eurocentric frame
+<li>	Critical analysis of the Milk Tea Alliance from an anti-statist perspective
+<li>	The colonial logics and logistics of palm oil industry in West Papua embedded in global financial networks, including Malaysia, Singapore, and USA
+<li>	Police and prison abolition as a means of transnational organising/abolition outside a Eurocentric frame
