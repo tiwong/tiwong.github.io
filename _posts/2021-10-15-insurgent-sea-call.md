@@ -9,7 +9,7 @@ categories: theory
 
 *Where will this be published?* At the moment, the Strategic Information and Research Development Centre (SIRD) at [Gerakbudaya](https://www.gerakbudaya.com/SIRD) has expressed interest in publishing the volume. There is also a possibility of co-publishing with another academic publisher, but all this is contingent upon having a strong manuscript. This is where *you* come in! 
 
-*What are you looking for?* Anything that broadly fits the bill in the call above! If you're unsure or want to workshop an idea, write to me! At a basic level, I am hoping for:
+*What are you looking for?* Anything that broadly fits the bill in the call above. If you're unsure or want to workshop an idea, write to me! At a basic level, I am hoping for:
 
 Projected sections to include at least one contributor for each of the following countries: 
 1.	Indonesia (e.g., protests against the omnibus law)
