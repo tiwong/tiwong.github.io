@@ -24,7 +24,8 @@ Also, from a comparative aspect, potential transnational topics include:
 <ol start="8">
 <li>	Critical analysis of the Milk Tea Alliance from an anti-statist perspective</li>
 <li>	The colonial logics and logistics of palm oil industry in West Papua embedded in global financial networks, including Malaysia, Singapore, and USA</li>
-<li>	Police and prison abolition as a means of transnational organising/abolition outside a Eurocentric frame </li>
+<li>	Police and prison abolition as a means of transnational organising/abolition outside a Eurocentric frame </li></ol>
 
+</ br>
 
 *How strict are the deadlines?* They're not, so if you need additional time but want to be kept in consideration, again just write to me! But most importantly, get in touch so that I am aware that you are interested.
