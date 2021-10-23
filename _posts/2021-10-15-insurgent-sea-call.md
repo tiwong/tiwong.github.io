@@ -27,4 +27,4 @@ Also, from a comparative aspect, potential transnational topics include:
 <li>	Police and prison abolition as a means of transnational organising/abolition outside a Eurocentric frame </li></ol>
 
 
-*How strict are the deadlines?* They're not, so if you need additional time but want to be kept in consideration, again just write to me! 
+*How strict are the deadlines?* They're not, so if you need additional time but want to be kept in consideration, again just write to me! But most importantly, get in touch so that I am aware that you are interested.
