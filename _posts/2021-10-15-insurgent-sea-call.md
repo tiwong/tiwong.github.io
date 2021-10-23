@@ -9,8 +9,6 @@ categories: theory
 
 *Where will this be published?* At the moment, the Strategic Information and Research Development Centre (SIRD) at [Gerakbudaya](https://www.gerakbudaya.com/SIRD) has expressed interest in publishing the volume. There is also a possibility of co-publishing with another academic publisher, but all this is contingent upon having a strong manuscript. This is where *you* come in! 
 
-*How strict are the deadlines?* They're not, so if you need additional time but want to be kept in consideration, again just write to me! But most importantly, get in touch so that I am aware that you are interested.
-
 *What are you looking for?* Anything that broadly fits the bill in the call above. If you're unsure or want to workshop an idea, write to me! At a basic level, I am hoping for:
 
 Projected sections to include at least one contributor for each of the following countries: 
@@ -28,5 +26,6 @@ Also, from a comparative aspect, potential transnational topics include:
 <li>	The colonial logics and logistics of palm oil industry in West Papua embedded in global financial networks, including Malaysia, Singapore, and USA</li>
 <li>	Police and prison abolition as a means of transnational organising/abolition outside a Eurocentric frame </li></ol>
 
-</ br>
+<br>
 
+*How strict are the deadlines?* They're not, so if you need additional time but want to be kept in consideration, again just write to me! But most importantly, get in touch so that I am aware that you are interested.
