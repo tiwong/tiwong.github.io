@@ -13,10 +13,10 @@ categories: theory
 
 Projected sections to include at least one contributor for each of the following countries: 
 1.	Indonesia (e.g., protests against the omnibus law)
-2.	Malaysia (e.g., protests against the Pakatan Nasional backdoor government; contract doctors strikes; and student protests against sexual harassment)
+2.	Malaysia (e.g., protests against the Pakatan Nasional backdoor government; cleaning worker and contract doctors strikes; student protests against sexual harassment)
 3.	Myanmar (e.g., the ongoing National Unity Government led revolution)
 4.	Philippines (e.g., protests against the Duterte government; Chinese encroachment in the South China Sea; land struggles of the indigenous Lumad)
-5.	Singapore (e.g., climate activists and independent journalists fighting against the continued suppression of dissent; vaccine nationalism)
+5.	Singapore (e.g., climate activists and independent journalists fighting against the continued suppression of dissent; vaccine nationalism; the Raffles Must Fall movement)
 6.	Thailand (e.g., protests against the monarchy in Thailand)
 7.	Vietnam
 
