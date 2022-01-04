@@ -13,4 +13,5 @@ It's been awhile! Here is a list of links to things I've written for the public 
 - [Math, in pandemic and precarity]("https://blogs.ams.org/inclusionexclusion/2020/06/30/math-in-pandemic-and-precarity/"), <i>Inclusion/Exclusion</i>
 - [The US hiring freeze is leaving contingent faculty out in the cold](https://www.timeshighereducation.com/opinion/us-hiring-freeze-leaving-contingent-faculty-out-cold), <i>Times Higher Education</i>
 - [Can mathematics be antiracist?](https://blogs.ams.org/inclusionexclusion/2020/01/31/can-mathematics-be-antiracist/), *Inclusion/Exclusion*
+
 Also, [in the news](https://www.gazettenet.com/How-tenants-organized-around-a-rent-increase-35926429)
