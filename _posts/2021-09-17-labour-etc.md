@@ -6,6 +6,7 @@ categories: theory
 ---
 
 It's been awhile! Here is a list of links to things I've written for the public in the meanwhile, mainly dealing with labour in the academy, but not entirely.
+- [Capital Gains](https://www.timeshighereducation.com/depth/university-really-community), contribution to "Is the university really a community?" *Times Higher Education* 
 - [We’ve seen ‘The Chair’. Now it’s time for ‘The Adjunct’](https://www.timeshighereducation.com/blog/weve-seen-chair-now-its-time-adjunct), *Times Higher Education*
 - [Reflections on the Inside-Out Program training](https://dearbornhub.net/?p=1018), *UM-Dearborn Hub for Teaching and Learning Resources*
 - [The mathjob market is bad. But what else is new? A 2020 retrospective](https://blogs.ams.org/inclusionexclusion/2021/02/01/the-mathjob-market-is-bad-but-what-else-is-new-a-2020-retrospective/), *Inclusion/Exclusion*
