@@ -47,3 +47,5 @@ Finally, some things I've written:
 Now here's where you come in. I've put together a User's Guide below as a template for you to kick off discussion and build an Asian American theology of liberation for the next generation. It is as much yours as it is mine. Have at it! 
 
 - *A User's Guide to Asian American Theologies of Liberation* (alpha version, 2019) [[docx](/files/UsersGuide.docx)] [[pdf](/files/UsersGuide.pdf)]
+
+UPDATE: [See this post](https://tiwong.github.io/theory/2022/01/29/manuscript-liberation-theology-unbound.html) for my manuscript of Liberation Theology Unbound: An Asian American theology of liberation.
