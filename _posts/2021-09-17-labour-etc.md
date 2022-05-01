@@ -6,7 +6,7 @@ categories: theory
 ---
 
 It's been awhile! Here is a list of links to things I've written for the public in the meanwhile, mainly dealing with labour in the academy, but not entirely.
-- [Working Together, Attending Class](https://wolverzine.org/vol1/working-together-attending-class/), contribution to *Wolverzine*, a zine about students as partners
+- [Working Together, Attending Class](https://wolverzine.org/wp-content/uploads/2022/02/Transformations_Vol1.pdf), contribution to *Wolverzine*, a zine about students as partners
 - [Capital Gains](https://www.timeshighereducation.com/depth/university-really-community), contribution to "Is the university really a community?" *Times Higher Education* 
 - [We’ve seen ‘The Chair’. Now it’s time for ‘The Adjunct’](https://www.timeshighereducation.com/blog/weve-seen-chair-now-its-time-adjunct), *Times Higher Education*
 - [Reflections on the Inside-Out Program training](https://dearbornhub.net/?p=1018), *UM-Dearborn Hub for Teaching and Learning Resources*
