@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Manuscript: Liberation Theology Unbound"
+title:  "Manuscript: An Asian American Theology of Liberation"
 date:   2022-01-29 12:50:45 +0100
 categories: theory
 ---
